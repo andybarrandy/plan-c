@@ -346,7 +346,7 @@ UL.hs-error-msgs LI {
             </a>
           </div>
         </div>
-        <div class="home-column w-col w-col-6"><img src="{{ images.-6a62b4c6.url }}" data-w-id="bacca95c-cd9e-a2d9-e09b-746291127082" width="633" sizes="(max-width: 767px) 100vw, (max-width: 991px) 46vw, 47vw" alt="{{ images.-6a62b4c6.alt | trim | escape }}" class="home-hero-image"></div>
+        <div class="home-column w-col w-col-6"><img class="home-hero-image" src="{{ images.-6a62b4c6.url }}" width="633" alt="{{ images.-6a62b4c6.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;46vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;47vw&quot;}]" sizes="(max-width: 767px) 100vw, (max-width: 991px) 46vw, 47vw" data-w-id="bacca95c-cd9e-a2d9-e09b-746291127082"></div>
       </div>
     </div>
   </div>
@@ -356,7 +356,7 @@ UL.hs-error-msgs LI {
       <div class="home-faq-grid-self">
         <div data-w-id="6098f1f8-5705-af5c-4490-230c61701d36" class="card-white-self">
           <h3 class="section-h4 home-faq">{{ texts.4a04bce7 }}</h3>
-          <div class="home-faq-bar"></div><img src="{{ images.-35e94a45.url }}" loading="lazy" width="137.5" alt="{{ images.-35e94a45.alt | trim | escape }}" class="home-faq-card-image card1">
+          <div class="home-faq-bar"></div><img src="{{ images.-35e94a45.url }}" loading="lazy" width="137.5" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;137.5px&quot;}]" alt="{{ images.-35e94a45.alt | trim | escape }}" class="home-faq-card-image card1">
           <h5 class="section-h5 centered">{{ texts.6dfeb4a2 }}</h5>
         </div>
         <div id="w-node-_6098f1f8-5705-af5c-4490-230c61701d3d-bcac6674" data-w-id="6098f1f8-5705-af5c-4490-230c61701d3d" class="card-white-self col-2">
@@ -453,20 +453,20 @@ UL.hs-error-msgs LI {
   </div>
   <div class="page-section news-alert hide wf-section">
     <div class="_850-container">
-      <div class="w-dyn-list">
-        <div role="list" class="w-dyn-items">
-          <div role="listitem" class="w-dyn-item">
+      {%- assign collection = collections.press | filter: "f_tags,idin,cms/media-tags/alert.md", "ALL", page.inputPath | sort: "-f_date" | limit: 1 -%}<div class="w-dyn-list">
+        {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+          {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
             <h6 class="slate-grey">{{ texts.79d8a3cc }}</h6>
-            <h4></h4>
-            <p class="hero-paragraph"></p>
+            <h4>{{ item.data.title }}</h4>
+            <p class="hero-paragraph">{{ item.data.f_excerpt }}</p>
             <p class="hero-paragraph">
-              <a href="{{ links.23 }}"><strong>{{ texts.-56352af }}</strong></a><br>
+              <a href="{{ item.url }}"><strong>{{ texts.-56352af }}</strong></a><br>
             </p>
-          </div>
-        </div>
-        <div class="w-dyn-empty">
+          </div>{%- endfor -%}
+        </div>{%- endunless -%}
+        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
           <div>{{ texts.3d503d2b }}</div>
-        </div>
+        </div>{%- endif -%}
       </div>
     </div>
   </div>
@@ -487,7 +487,7 @@ UL.hs-error-msgs LI {
   <div class="lightbox-section wf-section">
     <div class="w-layout-grid home-about-us-video">
       <a href="{{ links.23 }}" id="w-node-_0d80be74-0a7a-dbb8-9ceb-ddaf7e3ca287-bcac6674" class="video-lightbox w-inline-block w-lightbox">
-        <div class="video-lightbox-wrapper"><img src="{{ images.21372579.url }}" loading="lazy" alt="{{ images.21372579.alt | trim | escape }}" class="home-lightbox-thumbnail">
+        <div class="video-lightbox-wrapper"><img src="{{ images.21372579.url }}" loading="lazy" alt="{{ images.21372579.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="home-lightbox-thumbnail">
           <div class="home-lightbox-overlay with-background">
             <h2 class="section-h3 white video-overlay">{{ texts.4421e5ab }}</h2><img src="{{ images.-3326753c.url }}" loading="lazy" alt="{{ images.-3326753c.alt | trim | escape }}" class="play-button">
           </div>
@@ -515,7 +515,7 @@ UL.hs-error-msgs LI {
   <div class="home-featured-in wf-section">
     <div class="_1200-container centered">
       <div class="section-subhead">{{ texts.-4ec62fde }}</div>
-      <div class="featured-in-press-logos"><img src="{{ images.44cad303.url }}" loading="lazy" width="100" sizes="100px" alt="{{ images.44cad303.alt | trim | escape }}" class="media-logo"><img src="{{ images.-3ed37b86.url }}" loading="lazy" width="156" alt="{{ images.-3ed37b86.alt | trim | escape }}" class="media-logo"><img src="{{ images.15ad50e1.url }}" loading="lazy" width="100" sizes="100px" alt="{{ images.15ad50e1.alt | trim | escape }}" class="media-logo"><img src="{{ images.-7e4ebf74.url }}" loading="lazy" width="94" alt="{{ images.-7e4ebf74.alt | trim | escape }}" class="media-logo"><img src="{{ images.-20e51d3c.url }}" loading="lazy" width="156" alt="{{ images.-20e51d3c.alt | trim | escape }}" class="media-logo"><img src="{{ images.-31307c32.url }}" loading="lazy" width="150" sizes="(max-width: 479px) 100px, (max-width: 767px) 28vw, (max-width: 991px) 19vw, 13vw" alt="{{ images.-31307c32.alt | trim | escape }}" class="media-logo"><img src="{{ images.-161d7a43.url }}" loading="lazy" width="150" sizes="(max-width: 479px) 100px, (max-width: 767px) 28vw, (max-width: 991px) 19vw, 13vw" alt="{{ images.-161d7a43.alt | trim | escape }}" class="media-logo"><img src="{{ images.69298c06.url }}" loading="lazy" width="94" alt="{{ images.69298c06.alt | trim | escape }}" class="media-logo"><img src="{{ images.-39b3c8f0.url }}" loading="lazy" width="70" alt="{{ images.-39b3c8f0.alt | trim | escape }}" class="media-logo"><img src="{{ images.78c85bf4.url }}" loading="lazy" width="130" sizes="(max-width: 479px) 100px, (max-width: 767px) 27vw, (max-width: 991px) 17vw, 13vw" alt="{{ images.78c85bf4.alt | trim | escape }}" class="media-logo"><img src="{{ images.-23ef1c36.url }}" loading="lazy" width="200" sizes="(max-width: 479px) 100px, (max-width: 767px) 29vw, (max-width: 991px) 20vw, 13vw" alt="{{ images.-23ef1c36.alt | trim | escape }}" class="media-logo"><img src="{{ images.-d335889.url }}" loading="lazy" width="100" sizes="100px" alt="{{ images.-d335889.alt | trim | escape }}" class="media-logo"><img src="{{ images.-27e73aad.url }}" loading="lazy" width="100" sizes="100px" alt="{{ images.-27e73aad.alt | trim | escape }}" class="media-logo"><img src="{{ images.-52507888.url }}" loading="lazy" width="120" sizes="(max-width: 479px) 100px, 120px" alt="{{ images.-52507888.alt | trim | escape }}" class="media-logo"><img src="{{ images.7ee26676.url }}" loading="lazy" width="80" sizes="80px" alt="{{ images.7ee26676.alt | trim | escape }}" class="media-logo"><img src="{{ images.77d8030a.url }}" loading="lazy" width="120" sizes="(max-width: 479px) 100px, 120px" alt="{{ images.77d8030a.alt | trim | escape }}" class="media-logo"><img src="{{ images.49138183.url }}" loading="lazy" width="156" alt="{{ images.49138183.alt | trim | escape }}" class="media-logo"><img src="{{ images.-55e089de.url }}" loading="lazy" width="94" alt="{{ images.-55e089de.alt | trim | escape }}" sizes="94px" class="media-logo"><img src="{{ images.-851336c.url }}" loading="lazy" width="110" sizes="(max-width: 479px) 100px, 110px" alt="{{ images.-851336c.alt | trim | escape }}" class="media-logo"><img src="{{ images.-31903774.url }}" loading="lazy" width="110" alt="{{ images.-31903774.alt | trim | escape }}" class="media-logo"><img src="{{ images.-2cf0b4f1.url }}" loading="lazy" width="110" alt="{{ images.-2cf0b4f1.alt | trim | escape }}" class="media-logo"></div>
+      <div class="featured-in-press-logos"><img class="media-logo" src="{{ images.44cad303.url }}" width="100" alt="{{ images.44cad303.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100px&quot;}]" sizes="100px" loading="lazy"><img src="{{ images.-3ed37b86.url }}" loading="lazy" width="156" alt="{{ images.-3ed37b86.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;20vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" class="media-logo"><img class="media-logo" src="{{ images.15ad50e1.url }}" width="100" alt="{{ images.15ad50e1.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100px&quot;}]" sizes="100px" loading="lazy"><img src="{{ images.-7e4ebf74.url }}" loading="lazy" width="94" alt="{{ images.-7e4ebf74.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;94px&quot;}]" class="media-logo"><img src="{{ images.-20e51d3c.url }}" loading="lazy" width="156" alt="{{ images.-20e51d3c.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;20vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" class="media-logo"><img class="media-logo" src="{{ images.-31307c32.url }}" width="150" alt="{{ images.-31307c32.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;19vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" sizes="(max-width: 479px) 100px, (max-width: 767px) 28vw, (max-width: 991px) 19vw, 13vw" loading="lazy"><img class="media-logo" src="{{ images.-161d7a43.url }}" width="150" alt="{{ images.-161d7a43.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;19vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" sizes="(max-width: 479px) 100px, (max-width: 767px) 28vw, (max-width: 991px) 19vw, 13vw" loading="lazy"><img src="{{ images.69298c06.url }}" loading="lazy" width="94" alt="{{ images.69298c06.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;94px&quot;}]" class="media-logo"><img src="{{ images.-39b3c8f0.url }}" loading="lazy" width="70" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;70px&quot;}]" alt="{{ images.-39b3c8f0.alt | trim | escape }}" class="media-logo"><img class="media-logo" src="{{ images.78c85bf4.url }}" width="130" alt="{{ images.78c85bf4.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;27vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;17vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" sizes="(max-width: 479px) 100px, (max-width: 767px) 27vw, (max-width: 991px) 17vw, 13vw" loading="lazy"><img class="media-logo" src="{{ images.-23ef1c36.url }}" width="200" alt="{{ images.-23ef1c36.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;20vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" sizes="(max-width: 479px) 100px, (max-width: 767px) 29vw, (max-width: 991px) 20vw, 13vw" loading="lazy"><img class="media-logo" src="{{ images.-d335889.url }}" width="100" alt="{{ images.-d335889.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100px&quot;}]" sizes="100px" loading="lazy"><img class="media-logo" src="{{ images.-27e73aad.url }}" width="100" alt="{{ images.-27e73aad.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100px&quot;}]" sizes="100px" loading="lazy"><img class="media-logo" src="{{ images.-52507888.url }}" width="120" alt="{{ images.-52507888.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;120px&quot;}]" sizes="(max-width: 479px) 100px, 120px" loading="lazy"><img class="media-logo" src="{{ images.7ee26676.url }}" width="80" alt="{{ images.7ee26676.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;80px&quot;}]" sizes="80px" loading="lazy"><img class="media-logo" src="{{ images.77d8030a.url }}" width="120" alt="{{ images.77d8030a.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;120px&quot;}]" sizes="(max-width: 479px) 100px, 120px" loading="lazy"><img src="{{ images.49138183.url }}" loading="lazy" width="156" alt="{{ images.49138183.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;20vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;13vw&quot;}]" class="media-logo"><img class="media-logo" src="{{ images.-55e089de.url }}" width="94" alt="{{ images.-55e089de.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;94px&quot;}]" sizes="94px" loading="lazy"><img class="media-logo" src="{{ images.-851336c.url }}" width="110" alt="{{ images.-851336c.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;110px&quot;}]" sizes="(max-width: 479px) 100px, 110px" loading="lazy"><img src="{{ images.-31903774.url }}" loading="lazy" width="110" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;110px&quot;}]" alt="{{ images.-31903774.alt | trim | escape }}" class="media-logo"><img src="{{ images.-2cf0b4f1.url }}" loading="lazy" width="110" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;110px&quot;}]" alt="{{ images.-2cf0b4f1.alt | trim | escape }}" class="media-logo"></div>
     </div>
   </div>
   <div class="take-action-section wf-section">
@@ -540,7 +540,7 @@ UL.hs-error-msgs LI {
             </a>
           </div>
         </div>
-        <div class="home-take-action-column w-col w-col-5"><img src="{{ images.590056b.url }}" loading="lazy" width="278.5" data-w-id="4174a32e-08c9-c195-47eb-d0571639acee" alt="{{ images.590056b.alt | trim | escape }}" class="home-take-action-image"></div>
+        <div class="home-take-action-column w-col w-col-5"><img src="{{ images.590056b.url }}" loading="lazy" width="278.5" data-w-id="4174a32e-08c9-c195-47eb-d0571639acee" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;27vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" alt="{{ images.590056b.alt | trim | escape }}" class="home-take-action-image"></div>
       </div>
     </div>
   </div>
@@ -580,10 +580,10 @@ UL.hs-error-msgs LI {
             <div class="footer-social-row home-cta">
               <div class="footer-textblock prefooter">{{ texts.3a82d26f }}<a href="{{ links.10a5f41f }}" target="_blank" class="site-credit-link">{{ texts.6cb7e480 }}</a>
               </div>
-              <a href="{{ links.10a5f41f }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-6019cb11.url }}" loading="lazy" alt="{{ images.-6019cb11.alt | trim | escape }}" class="footer-social-logo"></a>
-              <a href="{{ links.65d90418 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.15e467b0.url }}" loading="lazy" alt="{{ images.15e467b0.alt | trim | escape }}" class="footer-social-logo"></a>
-              <a href="{{ links.64320230 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-3928c041.url }}" loading="lazy" alt="{{ images.-3928c041.alt | trim | escape }}" class="footer-social-logo"></a>
-              <a href="{{ links.88e362a }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.7c9559f7.url }}" loading="lazy" alt="{{ images.7c9559f7.alt | trim | escape }}" class="footer-social-logo"></a>
+              <a href="{{ links.10a5f41f }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-6019cb11.url }}" loading="lazy" alt="{{ images.-6019cb11.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.65d90418 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.15e467b0.url }}" loading="lazy" alt="{{ images.15e467b0.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.64320230 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-3928c041.url }}" loading="lazy" alt="{{ images.-3928c041.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.88e362a }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.7c9559f7.url }}" loading="lazy" alt="{{ images.7c9559f7.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
             </div>
           </div>
         </div>

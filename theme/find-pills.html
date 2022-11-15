@@ -249,9 +249,8 @@ UL.hs-error-msgs LI {
                 {%- assign collection = collections.states | sort: "f_sort-by, title" -%}<div class="collection-list-wrapper w-dyn-list">
                   {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
                     {%- for item in collection -%}<div role="listitem" class="state-list w-dyn-item">
-                      {%- if item.data.f_legal-disclaimer == true -%}<div class="load-state-name">{{ item.data.title }}</div>{%- endif -%}
+                      <div class="load-state-name">{{ item.data.title }}</div>
                       <div class="load-state-abbrev">{{ item.data.f_abbreviation }}</div>
-                      {%- assign legalOfStates = item.data.f_legal | resolveReference -%}<div class="load-legal-light">{{ legalOfStates.data.title }}</div>
                     </div>{%- endfor -%}
                   </div>{%- endunless -%}
                   {%- if collection.length == 0 -%}<div class="w-dyn-empty">
