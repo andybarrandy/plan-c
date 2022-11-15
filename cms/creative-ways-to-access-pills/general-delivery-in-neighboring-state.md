@@ -1,0 +1,37 @@
+---
+f_sort-by: 3
+title: '3. General Delivery in a neighboring state that has telehealth abortion '
+slug: general-delivery-in-neighboring-state
+updated-on: '2022-10-03T23:27:45.172Z'
+created-on: '2020-12-05T00:29:34.396Z'
+published-on: '2022-10-03T23:27:45.172Z'
+layout: '[creative-ways-to-access-pills].html'
+tags: creative-ways-to-access-pills
+---
+
+Some people use a “general delivery” address in another state and drive across state lines to pick up the pills. Here is an example of how someone did this.
+
+**FIRST**: They checked our [map of states](#map) and found a neighbor state that has telehealth abortion services (New Mexico was closest to them).
+
+**SECOND**: They checked our [Guide](/find-pills) to find a telehealth service in New Mexico.
+
+*   They chose a telehealth service that did not require a video visit, because that was most convenient. Services that do not require a video visit include: Aid Access, CHOIX, Forward Midwifery, Full Circle Health Center, Hey Jane, Lilith Care, and Pills by Post. \[NOTE: Abortion on Demand will not ship to General Delivery addresses.\]
+*   They filled in the online consultation form. They had to show their ID.
+
+*   They paid the telehealth fee using a credit card. They listed their home address when asked for the _billing address_ for the credit card.
+
+**THIRD**: When the provider asked where to send the pills, they gave a “general delivery” address in a town that they could easily get to. [General Delivery](https://faq.usps.com/s/article/What-is-General-Delivery) is a free service at many US Post Offices. It is a way to receive mail when you don’t have a physical address. Here’s how they did it.
+
+*   They looked at a map to see what city or town in New Mexico would be easiest to get to.
+*   They checked the [USPS website](https://tools.usps.com/find-location.htm) to make sure the post office in that town accepted general delivery mail (some don’t).
+*   They asked the telehealth service to send the pills to their general delivery address. A general delivery address looks like this:  
+      
+    Your Name (as it appears on your ID)  
+    General Delivery  
+    City, State, Zip Code
+
+**FOURTH**: They used the package tracking information provided by the clinic to find out when the package was delivered to the General Delivery Post Office. Then, they went to the Post Office in New Mexico to pick up the package.
+
+*   They made sure to go at a time when the Post Office business window was open. Check hours [here](https://tools.usps.com/find-location.htm). Note: most Post Office business windows are not open on weekends.
+*   They made sure to take ID that matched the name on the package.
+*   They told the postal worker they had a general delivery package and the postal worker gave it to them after checking their ID.
