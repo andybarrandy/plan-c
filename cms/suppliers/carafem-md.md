@@ -11,7 +11,7 @@ f_states-test:
   - cms/states/arkansas.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_should-this-appear-under-pills-by-mail-without-clinician-support: false
-f_list-under-community-support-networks: true
+f_list-under-community-support-networks: false
 f_cost: $250-375
 f_cost-sort: 250
 f_financial-assistance-details: |-
