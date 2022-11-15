@@ -8,6 +8,7 @@ f_url: https://carafem.org/at-home-abortion-pills/
 f_basic-category-2: Pills by mail with clinician support
 f_states-test:
   - cms/states/maryland.md
+  - cms/states/arkansas.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_should-this-appear-under-pills-by-mail-without-clinician-support: false
 f_list-under-community-support-networks: true
