@@ -1,0 +1,32 @@
+name: GitHub Actions Demo
+run-name: running GitHub Actions 🚀
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  Deploy-To-Ovh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: 'install node modules'
+        run: npm install
+
+      - name: 'build netlify static site'
+        run: npx netlify build
+        env:
+          NETLIFY_AUTH_TOKEN: 'aJC1Y41geKZCVZXaQwC1zIVzVO1vE433S-G1CRBA7L4'
+          NETLIFY_SITE_ID: '89bb4fa1-ccd5-4f87-9899-19151d5fbac3'
+
+      - name: 'install node modules'
+        working-directory: ./ovh
+        run: npm install
+      - name: 'upload files to OVH'
+        working-directory: ./ovh
+        run: node deploy.js
+
+
+
