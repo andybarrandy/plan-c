@@ -385,7 +385,7 @@ figcaption {
 .button.teal.nav-donate {
   margin-right: 8px;
   margin-left: 8px;
-  padding: 7px 24px 6px;
+  padding: 10px 24px 9px;
   font-weight: 700;
   letter-spacing: 0em;
   text-transform: none;
@@ -402,7 +402,7 @@ figcaption {
 .button.teal.nav-pills {
   margin-right: 8px;
   margin-left: 8px;
-  padding: 5px 24px 4px;
+  padding: 9px 24px 8px;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
@@ -2638,6 +2638,7 @@ figcaption {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
+  border-radius: 8px;
 }
 
 .form-button {
@@ -2646,6 +2647,7 @@ figcaption {
   border-style: solid;
   border-width: 1px;
   border-color: #73e3f2;
+  border-radius: 8px;
   background-color: transparent;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -6260,12 +6262,12 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding: 24px;
+  padding: 22px;
   border-style: solid;
   border-width: 1px;
-  border-color: rgba(71, 89, 204, 0.24);
-  border-radius: 10px;
-  background-color: rgba(115, 227, 242, 0.15);
+  border-color: rgba(71, 89, 204, 0.51);
+  border-radius: 8px;
+  background-color: rgba(115, 227, 242, 0.35);
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
 }
@@ -7838,11 +7840,11 @@ figcaption {
 }
 
 .square-button {
-  padding-bottom: 8px;
+  padding: 16px 20px;
   border-style: solid;
   border-width: 1px;
   border-color: #73e3f2;
-  border-radius: 4px;
+  border-radius: 8px;
   background-color: transparent;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;

@@ -9,9 +9,10 @@ f_ship-time: 14-21 days
 slug: aid-access-intl-copy-under-16-copy
 f_states-test:
   - cms/states/massachusetts.md
-updated-on: '2022-10-03T22:42:19.752Z'
+  - cms/states/delaware.md
+updated-on: '2022-11-16T18:20:18.437Z'
 created-on: '2021-08-31T20:34:50.063Z'
-published-on: '2022-10-03T22:42:19.752Z'
+published-on: '2022-11-16T18:20:18.437Z'
 f_ages-served: All
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md

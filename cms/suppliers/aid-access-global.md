@@ -4,9 +4,9 @@ title: Aid Access (INTL)
 f_cost: $110 or less
 f_ship-time: 14-21 days
 slug: aid-access-global
-updated-on: '2022-10-05T21:48:02.231Z'
+updated-on: '2022-11-16T18:20:36.844Z'
 created-on: '2020-10-11T22:03:55.516Z'
-published-on: '2022-10-05T21:48:02.231Z'
+published-on: '2022-11-16T18:20:36.844Z'
 f_display-name: Aid Access
 f_legal-level-text: 'Yes'
 f_tier: 3
@@ -15,7 +15,6 @@ f_states-test:
   - cms/states/arizona.md
   - cms/states/arkansas.md
   - cms/states/american-samoa.md
-  - cms/states/delaware.md
   - cms/states/florida.md
   - cms/states/georgia.md
   - cms/states/guam.md

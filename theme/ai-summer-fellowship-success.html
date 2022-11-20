@@ -266,12 +266,12 @@ $(document).keyup(function(e) {
 </script>
   <script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#146ff8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 24, triggerOffsetY : 90, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 8, triggerOffsetY : 64, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
   <script>
-/* This whole thing is to load the footer form using Hubspot Forms API */  
+// BEGIN - HUBSPOT IMPLEMENTATION
 function sendHubspotForm(
   portalId,
   formId,
   values,
-  elementToHide,
+  elementToHide, // this has to be the actual form element, or change the attribute retraival down here
   elementToShowOnSuccess,
   elementToShowOnError
 ) {
@@ -301,13 +301,23 @@ function sendHubspotForm(
   xhr.open("POST", url);
   xhr.setRequestHeader("Content-Type", "application/json");
   xhr.onreadystatechange = function () {
+    // SUCCESS submitting form
     if (xhr.readyState === 4 && [200, 201, 202, 203].includes(xhr.status)) {
       // alert(xhr.responseText); // Returns a 200 response if the submission is successful.
-      // Hide form and Show success message
-      // Update this to use xhr.responseText instead
-      elementToHide.style.display = "none";
-      elementToShowOnSuccess.style.display = "block";
+      // if there is a redirect on success attr
+      console.log("-- success", elementToHide.hasAttribute("hubspot-redirect-on-success"))
+      if (elementToHide.hasAttribute("hubspot-redirect-on-success")) {
+        // redirect to the url
+        console.log("-- success does redirect", elementToHide.getAttribute("hubspot-redirect-on-success"))
+        window.location.href = elementToHide.getAttribute("hubspot-redirect-on-success");
+      } else {
+        // Hide form and Show success message
+        // Update this to use xhr.responseText instead
+        elementToHide.style.display = "none";
+        elementToShowOnSuccess.style.display = "block";
+      }
     } else if (xhr.readyState === 4 && xhr.status >= 400) {
+      // ERROR submitting form
       // 4xx and 5xx are errors
       alert(xhr.responseText); // Returns a 400 error the submission is rejected.
       // this code right here can be used to inject the actual response from HubSpot
@@ -324,21 +334,35 @@ function sendHubspotForm(
 }
 // returns current date and time in format MM/DD/YY HH:MM:SS
 function getCurrentDateFormatted() {
-  const now = new Date();
-  var currentMonth = now.getUTCMonth() + 1;
-  return (
-    currentMonth +
-    "/" +
-    now.getUTCDate() +
-    "/" +
-    now.getUTCFullYear().toString().slice(2) +
-    " " +
-    now.getUTCHours() +
-    ":" +
-    now.getUTCMinutes() +
-    ":" +
-    now.getUTCSeconds()
-  );
+  function changeTimeZone(date, timeZone) {
+    if (typeof date === 'string') {
+      return new Date(
+        new Date(date).toLocaleString('en-US', {
+          timeZone,
+        }),
+      );
+    }
+    return new Date(
+      date.toLocaleString('en-US', {
+        timeZone,
+      }),
+    );
+  }
+  function fmt(date, format = 'YYYY-MM-DD hh:mm:ss') {
+    const pad2 = (n) => n.toString().padStart(2, '0');
+    const map = {
+      YYYY: date.getFullYear(),
+      MM: pad2(date.getMonth() + 1),
+      DD: pad2(date.getDate()),
+      hh: pad2(date.getHours()),
+      mm: pad2(date.getMinutes()),
+      ss: pad2(date.getSeconds()),
+    };
+    return Object.entries(map).reduce((prev, entry) => prev.replace(...entry), format);
+  }
+  var now = new Date();
+  now = changeTimeZone(now, 'America/Los_Angeles')
+  return fmt(now);
 }
 // Footer Form handling
 document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
@@ -378,6 +402,7 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
     );
   });
 });
+// END - HUBSPOT IMPLEMENTATION
 </script>
 
 <script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}</body></html>
