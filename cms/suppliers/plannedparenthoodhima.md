@@ -40,6 +40,8 @@ f_contact-email: susanne.mauney@ppgnhaik.org
 f_contact-name: Susanne Mauney
 f_contact-phone: 'O: 425.460.4534 (ext. 2936) | C: 206.617.7122 | F: 206.788.8339'
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

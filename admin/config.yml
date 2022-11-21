@@ -306,6 +306,16 @@ collections:
             value: 'No'
           - label: 'Yes'
             value: 'Yes'
+      - hint: ''
+        name: f_accepts-insurance
+        label: Accepts insurance
+        widget: boolean
+        required: false
+      - hint: ''
+        name: f_accepts-medicaid
+        label: Accepts Medicaid
+        widget: boolean
+        required: false
       - label: Tags
         widget: hidden
         name: tags

@@ -27,6 +27,8 @@ f_summary-2-0: "Metro Area Advanced Practice Healthcare states that it is a clin
 f_cost-sort: 149
 f_sliding-scale-available: false
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

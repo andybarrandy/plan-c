@@ -44,6 +44,8 @@ f_contact-email: leah@abortionondemand.org
 f_contact-name: Leah Coplan
 f_financial-assistance-details: "Does not ship to PO\_Box or General Delivery addresses"
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

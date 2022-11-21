@@ -47,6 +47,8 @@ f_summary-2-0: >-
   scheduling for this service at this time. Please expect the visit to take
   approximately 90 minutes. Pills can only be mailed to Massachusetts addresses.
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

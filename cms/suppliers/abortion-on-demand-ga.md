@@ -44,6 +44,8 @@ created-on: '2022-05-04T15:19:33.702Z'
 published-on: '2022-10-03T22:40:17.720Z'
 f_financial-assistance-details: "Does not ship to PO\_Box or General Delivery addresses"
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

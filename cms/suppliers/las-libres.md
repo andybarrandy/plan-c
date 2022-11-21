@@ -28,6 +28,8 @@ f_list-under-community-support-networks: true
 f_url: https://plancpills.org/las-libres
 f_legal-level-text: 'Yes'
 f_tier: 3
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

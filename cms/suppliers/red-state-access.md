@@ -39,6 +39,8 @@ created-on: '2022-11-09T22:32:42.868Z'
 published-on: '2022-11-21T16:50:29.799Z'
 f_contact-email: redstateaccess@proton.me
 f_contact-name: Kelly
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

@@ -40,6 +40,8 @@ f_contact-email: jordan.salazar@ppmontana.org
 f_contact-name: JOrdan Salazar
 f_contact-phone: 406-830-3486
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

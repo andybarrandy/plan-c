@@ -45,6 +45,8 @@ created-on: '2021-11-22T22:37:33.460Z'
 published-on: '2022-10-03T22:50:22.188Z'
 f_financial-assistance-details: '*   Financial assistance available'
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

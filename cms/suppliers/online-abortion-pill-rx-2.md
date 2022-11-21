@@ -96,6 +96,8 @@ f_summary-2-0: >-
   ‍
 f_financial-assistance-details: No financial assistance available
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

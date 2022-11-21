@@ -334,23 +334,6 @@ UL.hs-error-msgs LI {
   <div id="onboarding-form" class="page-section dark-pink low-padding-top wf-section">
     <div class="_850-container">
       <h3 class="section-h3 centered white onboarding">{{ texts.-4b5841f1 }}</h3>
-      <div class="hubspot-form-wrapper-narrow hidden w-embed w-script">
-        <script>
-  hbspt.forms.create({
-    region: "na1",
-    portalId: "8779019",
-    formId: "af55fe23-a71e-42ab-b844-c0e7b84b6939",
-    version: "V2_PRERELEASE",
-    onFormSubmit: function($form) {
-        const now = new Date();
-        const offsetMs = 25200000;
-        const dateLocal = new Date(now.getTime() - offsetMs);
-        const str = dateLocal.toISOString().slice(0, 19).replace(/-/g, "/").replace("T", " ");
-        $form.find('input[name="datetime_stamp"]').val(str).change();
-        }
-  });
-</script>
-      </div>
       <div class="onboarding-form w-form">
         <form id="wf-form-Ambassadors-Form" name="wf-form-Ambassadors-Form" data-name="ambassadors" method="post" class="form-2" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded">
           <div class="form-row">

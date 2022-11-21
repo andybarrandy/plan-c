@@ -31,6 +31,8 @@ created-on: '2022-02-10T16:49:04.707Z'
 published-on: '2022-10-03T22:57:42.085Z'
 f_ship-time-details: Overnight shipping option available
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

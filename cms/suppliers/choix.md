@@ -45,6 +45,8 @@ f_financial-assistance-details: |-
 
   Options for financial assistance available.
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

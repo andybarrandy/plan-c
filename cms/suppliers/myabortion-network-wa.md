@@ -39,6 +39,8 @@ updated-on: '2022-10-03T22:59:00.502Z'
 created-on: '2021-12-09T19:56:45.131Z'
 published-on: '2022-10-03T22:59:00.502Z'
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

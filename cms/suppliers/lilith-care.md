@@ -26,6 +26,8 @@ f_basic-category-2: Pills by mail with clinician support
 f_cost-sort: 140
 f_sliding-scale-available: true
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

@@ -41,6 +41,8 @@ updated-on: '2022-11-15T22:32:33.971Z'
 created-on: '2022-11-15T22:15:40.520Z'
 published-on: '2022-11-15T22:32:33.971Z'
 f_contact-phone: '3108255961'
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

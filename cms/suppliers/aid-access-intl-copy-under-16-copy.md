@@ -44,6 +44,8 @@ f_summary-2-0: >-
 f_cost-sort: 110
 f_sliding-scale-available: false
 f_list-under-community-support-networks: false
+f_accepts-insurance: false
+f_accepts-medicaid: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
