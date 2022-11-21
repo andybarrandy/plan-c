@@ -19,6 +19,7 @@ f_includes:
 f_includes-required-for-this-to-work: AP1
 f_tier: 1
 f_legal-level-text: Yes
+f_accepts-insurance: true
 tags: suppliers
 layout: "[suppliers].html"
 date: 2022-11-21T22:19:26.236Z
