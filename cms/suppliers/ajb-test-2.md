@@ -11,7 +11,7 @@ f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_cost: $1
 f_cost-sort: 1
 f_ship-time: "1"
-f_ship-time-low-limit: -1
+f_ship-time-low-limit: 1
 f_ages-served: 18+
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
