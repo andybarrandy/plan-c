@@ -347,6 +347,7 @@ figcaption {
 
 .button-title.primary.pink {
   color: #fff;
+  line-height: 1.8em;
 }
 
 .button {
@@ -2183,6 +2184,8 @@ figcaption {
 .section-h4.white {
   margin-bottom: 15px;
   color: #fff;
+  font-size: 20px;
+  line-height: 1.6em;
 }
 
 .section-h4.tab-heading {
@@ -6986,8 +6989,12 @@ figcaption {
   display: none;
 }
 
+.chat-popup.inner.hidden {
+  display: none;
+}
+
 .div-block-10 {
-  padding: 8px 16px 16px;
+  padding: 20px 16px 16px;
 }
 
 .chat-button {
@@ -7647,6 +7654,7 @@ figcaption {
 }
 
 .guide-category {
+  display: block;
   margin-top: 0px;
   padding-top: 75px;
   padding-bottom: 75px;
@@ -8897,6 +8905,31 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.h4-centered {
+  font-size: 16px;
+  line-height: 1.9em;
+  text-align: center;
+}
+
+.popup-title {
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.popup-title.legal {
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-size: 18px;
+  line-height: 1.6em;
+}
+
+.h4-support-footer {
+  color: #fcaaf2;
+  font-size: 20px;
 }
 
 @media screen and (max-width: 991px) {
@@ -12751,10 +12784,6 @@ figcaption {
 
   .alert-icon {
     width: 24px;
-  }
-
-  .square-button {
-    padding-top: 8px;
   }
 
   .div-block-31 {

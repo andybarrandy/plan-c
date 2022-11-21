@@ -21,28 +21,16 @@ f_summary-2-0: >-
   trauma-informed provider. We welcome all ages and genders.
 
 
-  \- Consult with a board certified physician
+  *   Consult with a board certified physician
 
+  *   Abortion medications discreetly delivered to your door in 1-2 days
 
-  \- Abortion medications discreetly delivered to your door in 1-2 days
+  *   Includes pain and anti-nausea medications
 
+  *   Free shipping
 
-  \- Includes pain and anti-nausea medications
-
-
-  \- Free shipping
-
-
-  \- Direct patient to physician text communication
-
-
-  \- Access to emotion support sessions
-
-
-  \- Sliding scale fees based on income
-
-
-  ‍
+  *   Direct patient to physician text communicationAccess to emotion support
+  sessionsSliding scale fees based on income
 
 
   Text or call with questions at 805-267-9281.
@@ -61,9 +49,9 @@ f_includes:
   - cms/supplier-options/ad1.md
   - cms/supplier-options/ap2.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-10-03T23:08:51.868Z'
+updated-on: '2022-11-21T18:15:40.920Z'
 created-on: '2022-09-27T23:03:10.974Z'
-published-on: '2022-10-03T23:08:51.868Z'
+published-on: '2022-11-21T18:15:40.920Z'
 f_list-under-community-support-networks: false
 layout: '[suppliers].html'
 tags: suppliers

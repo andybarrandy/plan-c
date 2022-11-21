@@ -219,8 +219,8 @@ UL.hs-error-msgs LI {
     <div data-w-id="d358a18b-e2f7-5828-11a1-958a8d7c735f" class="popup-close-div"></div>
     <div class="alert-container popup">
       <div class="alert-icon-wrapper"><img src="{{ images.-54d2bbe2.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" width="48" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+      <div class="popup-title legal"><strong>{{ texts.-2a64f25b }}</strong></div>
       <div target="_blank" class="w-richtext">
-        <h5><strong>{{ texts.-2a64f25b }}</strong></h5>
         <p>{{ texts.1cf35d76 }}</p>
         <p>
           <a href="{{ links.4629d66 }}" data-w-id="1eaaf4a2-8781-c355-282d-d57ae81fc29f">{{ texts.-34c42098 }}</a>{{ texts.193947b1 }}<a href="{{ links.4b207ecc }}" target="_blank">{{ texts.-3c5549ad }}</a>{{ texts.6087d2b0 }}<a href="{{ links.-22dfa1b2 }}">{{ texts.2695c8ba }}</a>{{ texts.-1a9d008c }}</p>
@@ -231,8 +231,8 @@ UL.hs-error-msgs LI {
     <div data-w-id="d9ed20ee-c874-e118-d111-cfddc575fcfe" class="popup-close-div"></div>
     <div class="alert-container popup">
       <div class="alert-icon-wrapper"><img src="{{ images.-54d2bbe2.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" width="48" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+      <div class="popup-title legal"><strong>{{ texts.-2a64f25b }}</strong></div>
       <div target="_blank" class="w-richtext">
-        <h5><strong>{{ texts.-2a64f25b }}</strong></h5>
         <p>{{ texts.a41828f }}</p>
         <p>
           <a href="{{ links.4629d66 }}" data-w-id="d9ed20ee-c874-e118-d111-cfddc575fd09">{{ texts.-34c42098 }}</a>{{ texts.193947b1 }}<a href="{{ links.4b207ecc }}" target="_blank">{{ texts.-3c5549ad }}</a>{{ texts.6087d2b0 }}<a href="{{ links.-22dfa1b2 }}">{{ texts.2695c8ba }}</a>{{ texts.-1a9d008c }}</p>
@@ -243,8 +243,8 @@ UL.hs-error-msgs LI {
     <div data-w-id="84884c70-357e-6ed2-e56c-71ad3e6a3708" class="popup-close-div"></div>
     <div class="alert-container popup">
       <div class="alert-icon-wrapper"><img src="{{ images.-54d2bbe2.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" width="48" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+      <div class="popup-title legal"><strong>{{ texts.-2a64f25b }}</strong></div>
       <div target="_blank" class="w-richtext">
-        <h5><strong>{{ texts.-2a64f25b }}</strong></h5>
         <p><strong>{{ texts.200d }}</strong>{{ texts.363fef04 }}</p>
         <p>
           <a href="{{ links.4629d66 }}" data-w-id="8f558254-48d1-4788-033d-fa01ac9f9c31">{{ texts.-34c42098 }}</a>{{ texts.193947b1 }}<a href="{{ links.4b207ecc }}" target="_blank">{{ texts.-3c5549ad }}</a>{{ texts.6087d2b0 }}<a href="{{ links.-22dfa1b2 }}">{{ texts.2695c8ba }}</a>{{ texts.-1a9d008c }}</p>
@@ -278,10 +278,8 @@ UL.hs-error-msgs LI {
         <div class="alert-content-row">
           <div class="alert-icon-wrapper"><img src="{{ images.-54d2bbe2.url }}" loading="lazy" width="48" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.-54d2bbe2.alt | trim | escape }}" class="alert-icon"></div>
           <div class="alert-content">
+            <div class="w-embed"><p><strong>There are several ways people get abortion pills in {{ title }}, even if state laws restrict clinic-based care:</strong></p></div>
             {%- unless title == "Texas" -%}<div class="w-richtext">
-              <p><strong>{{ texts.-176e3344 }}</strong>
-                <a href="{{ links.-522c84fd }}" target="_blank"><strong>{{ texts.1476ae8e }}</strong></a><strong>{{ texts.3c3bfb29 }}</strong>
-              </p>
               <ul role="list">
                 <li>
                   <a href="{{ links.-b6b3117 }}"><strong>{{ texts.7c00d108 }}</strong></a><br>{{ texts.215dcc18 }}</li>
@@ -401,7 +399,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.49cc129 }}</div>
                           <div data-w-id="10f85e2e-95c4-02b9-c3bd-15aebbb0806c" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">
+                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">
                             </div>
                             {%- if item.data.content -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.templateContent | markdown | markdown }}</div>
@@ -412,7 +410,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.34ef8014 }}</div>
                           <div data-w-id="10f85e2e-95c4-02b9-c3bd-15aebbb08075" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">{%- endif -%}
+                              <div class="supplier-data-entry">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
                             </div>
                             {%- if item.data.f_ship-time-details -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.data.f_ship-time-details | markdown }}</div>
@@ -423,7 +421,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.1f1b74 }}</div>
                           <div data-w-id="10f85e2e-95c4-02b9-c3bd-15aebbb0807e" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">{%- endif -%}
+                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
                             </div>
                             {%- if item.data.f_ages-served-details -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.data.f_ages-served-details | markdown }}</div>
@@ -507,7 +505,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.49cc129 }}</div>
                           <div data-w-id="3423fbd2-7b08-cd67-2e61-ca6768f2ed9f" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">
+                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">
                             </div>
                             {%- if item.data.content -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.templateContent | markdown | markdown }}</div>
@@ -518,7 +516,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.34ef8014 }}</div>
                           <div data-w-id="3423fbd2-7b08-cd67-2e61-ca6768f2eda8" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">{%- endif -%}
+                              <div class="supplier-data-entry">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
                             </div>
                             {%- if item.data.f_ship-time-details -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.data.f_ship-time-details | markdown }}</div>
@@ -529,7 +527,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.1f1b74 }}</div>
                           <div data-w-id="3423fbd2-7b08-cd67-2e61-ca6768f2edb1" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">{%- endif -%}
+                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
                             </div>
                             {%- if item.data.f_ages-served-details -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.data.f_ages-served-details | markdown }}</div>
@@ -563,7 +561,7 @@ UL.hs-error-msgs LI {
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
                       </div>{%- endif -%}
                       {%- if item.data.f_legal-level-text == "Yes" -%}<div class="key-terms-item-wrapper">
-                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.-54d2bbe2.url }}" loading="lazy" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.-54d2bbe2.url }}" loading="lazy" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
                         <div class="key-terms-description">
                           <a href="{{ links.23 }}" data-w-id="3423fbd2-7b08-cd67-2e61-ca6768f2edd3" class="popup-link">{{ texts.7c499816 }}</a>{{ texts.-26f7890e }}</div>
                       </div>{%- endif -%}
@@ -807,7 +805,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.49cc129 }}</div>
                           <div data-w-id="d61a08a7-57c0-4667-3b18-b5d24ea99496" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">
+                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">
                             </div>
                             {%- if item.data.content -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.templateContent | markdown | markdown }}</div>
@@ -818,7 +816,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.34ef8014 }}</div>
                           <div data-w-id="d61a08a7-57c0-4667-3b18-b5d24ea9949f" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-shipping">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">{%- endif -%}
+                              <div class="supplier-data-entry data-shipping">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
                             </div>
                             {%- if item.data.f_ship-time-details -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.data.f_ship-time-details | markdown }}</div>
@@ -829,7 +827,7 @@ UL.hs-error-msgs LI {
                           <div class="supplier-data-item-title">{{ texts.1f1b74 }}</div>
                           <div data-w-id="d61a08a7-57c0-4667-3b18-b5d24ea994a8" class="tooltip-trigger-wrapper">
                             <div class="supplier-data-entry-wrapper">
-                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img loading="lazy" src="{{ images.6779173e.url }}" alt="{{ images.6779173e.alt | trim | escape }}" class="supplier-icon-info">{%- endif -%}
+                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
                             </div>
                             {%- if item.data.f_ages-served-details -%}<div class="tooltip-wrapper-text">
                               <div class="tooltip-rich-text w-richtext">{{ item.data.f_ages-served-details | markdown }}</div>
@@ -984,7 +982,7 @@ UL.hs-error-msgs LI {
   <div id="clinics" class="guide-category wf-section">
     <div class="_1200-container">
       <div data-w-id="3039373d-c2f3-1715-a3bb-179d046c0781" class="section-heading-wrapper fixed">
-        <div class="html-embed-4 w-embed"><h2 class="guide-h2-small">In-Person Clinics in {{ title }}</h2></div>
+        <div class="html-embed-4 w-embed"><h2 class="guide-h2-small">In-Person Clinics in or near {{ title }}</h2></div>
         <div class="dividing-line"></div>
       </div>
       <div class="results-header-wrapper"></div>
@@ -999,7 +997,7 @@ UL.hs-error-msgs LI {
               <a href="{{ links.-623eedf }}" target="_blank">{{ texts.311a14c8 }}</a>
             </h3>
           </div>
-          {%- if f_sma-is-restricted-in-this-state == true -%}<div class="w-embed"><p><br><strong>Or this guide: <a href="https://abortion-clinic.plancpills.org/abortions-near-me/how-to-get-an-abortion-{{ slug }}" target="_blank">How to Get an Abortion in {{ title }}</a></strong></p></div>{%- endif -%}
+          {%- if f_sma-is-restricted-in-this-state == true -%}<div class="w-embed"><p><br><strong>Or this guide: <a href="https://abortion-clinic.plancpills.org/abortions-near-me/how-to-get-an-abortion-{{ slug }}" target="_blank">{{ title }}: How to Get an Abortion</a></strong></p></div>{%- endif -%}
         </div>
       </div>
     </div>
@@ -1043,6 +1041,16 @@ $(document).keyup(function(e) {
 });
 </script>
   <script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#146ff8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 24, triggerOffsetY : 90, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 8, triggerOffsetY : 64, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+  <script>
+/* add title tags to every image */
+var elem = document.getElementsByTagName('img');
+for (var i = 0; i < elem.length; i++) {
+    var alt = elem[i].getAttribute('alt');
+    if (alt) {
+      elem[i].title = alt;
+    }
+}
+</script>
   <script>
 // BEGIN - HUBSPOT IMPLEMENTATION
 function sendHubspotForm(
@@ -1147,6 +1155,12 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
   form.addEventListener("submit", function (currentFormSubmitEvent) {
     const currentForm = currentFormSubmitEvent.target;
     currentFormSubmitEvent.preventDefault();
+    // change input description
+    currentFormSubmitEvent.target.parentNode
+      .querySelectorAll('input[type="submit"][data-wait]')
+      .forEach(function (inputElement) {
+        inputElement.value = inputElement.getAttribute('data-wait');
+      })
     // grab all inputs
     var formValues = {};
     currentFormSubmitEvent.target.parentNode

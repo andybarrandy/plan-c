@@ -331,7 +331,7 @@ UL.hs-error-msgs LI {
       </div>
     </div>
   </div>
-  <div id="form" class="page-section dark-pink low-padding-top wf-section">
+  <div id="onboarding-form" class="page-section dark-pink low-padding-top wf-section">
     <div class="_850-container">
       <h3 class="section-h3 centered white onboarding">{{ texts.-4b5841f1 }}</h3>
       <div class="hubspot-form-wrapper-narrow hidden w-embed w-script">
@@ -407,8 +407,10 @@ UL.hs-error-msgs LI {
             </div>
           </div>{%- endfor -%}
         </div>{%- endunless -%}
-        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-          <div>{{ texts.3d503d2b }}</div>
+        {%- if collection.length == 0 -%}<div class="empty-state white w-dyn-empty">
+          <div class="rich-text-white-blue w-richtext">
+            <p>{{ texts.7b3e627f }}<a href="{{ links.-5aa2194d }}">{{ texts.79cb5b12 }}</a>{{ texts.64689ccf }}</p>
+          </div>
         </div>{%- endif -%}
       </div>
       <div class="rich-text-support w-richtext">
@@ -553,6 +555,16 @@ $(document).keyup(function(e) {
 </script>
   <script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#146ff8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 24, triggerOffsetY : 90, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 8, triggerOffsetY : 64, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
   <script>
+/* add title tags to every image */
+var elem = document.getElementsByTagName('img');
+for (var i = 0; i < elem.length; i++) {
+    var alt = elem[i].getAttribute('alt');
+    if (alt) {
+      elem[i].title = alt;
+    }
+}
+</script>
+  <script>
 // BEGIN - HUBSPOT IMPLEMENTATION
 function sendHubspotForm(
   portalId,
@@ -656,6 +668,12 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
   form.addEventListener("submit", function (currentFormSubmitEvent) {
     const currentForm = currentFormSubmitEvent.target;
     currentFormSubmitEvent.preventDefault();
+    // change input description
+    currentFormSubmitEvent.target.parentNode
+      .querySelectorAll('input[type="submit"][data-wait]')
+      .forEach(function (inputElement) {
+        inputElement.value = inputElement.getAttribute('data-wait');
+      })
     // grab all inputs
     var formValues = {};
     currentFormSubmitEvent.target.parentNode

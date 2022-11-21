@@ -10,7 +10,7 @@ f_gestational-age-dropdown: For pregnancies up to 12 weeks
 f_ages-served: All
 f_ship-time-low-limit: 5
 f_cost-sort: 0
-f_basic-category-2: Community support network that mails pills
+f_basic-category-2: Community support network
 f_includes-required-for-this-to-work: AP1
 title: Red State Access
 f_cost: $0
@@ -34,9 +34,9 @@ f_states-test:
   - cms/states/tennessee.md
   - cms/states/west-virginia.md
   - cms/states/wisconsin.md
-updated-on: '2022-11-11T21:00:00.502Z'
+updated-on: '2022-11-21T16:50:29.799Z'
 created-on: '2022-11-09T22:32:42.868Z'
-published-on: '2022-11-11T21:00:00.502Z'
+published-on: '2022-11-21T16:50:29.799Z'
 f_contact-email: redstateaccess@proton.me
 f_contact-name: Kelly
 layout: '[suppliers].html'

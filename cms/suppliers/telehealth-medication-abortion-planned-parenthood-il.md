@@ -15,7 +15,7 @@ f_ages-served-details: Minors can get care in clinic
 f_includes-required-for-this-to-work: AP1, VV1
 title: Telehealth Medication Abortion (Planned Parenthood)  IL
 f_cost: $470
-f_summary-2-0: "Planned Parenthood states that they provide:\_\n\n\\*Virtual visit with provider\n\n\\*Ages 18+ who are less than 11 weeks pregnant\n\n\\*Medications mailed overnight or available for pick up from health center\n\n\\*Birth control prescription if desired\n\n\\*24/7 clinical support"
+f_summary-2-0: "Planned Parenthood states that they provide:\_\n\n*   Virtual visit with provider\n*   Ages 18+ who are less than 11 weeks pregnant\n*   Medications mailed overnight or available for pick up from health center\n*   Birth control prescription if desired\n*   24/7 clinical support"
 f_financial-assistance-details: |-
   Financial assistance available
 
@@ -37,9 +37,9 @@ f_includes:
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
 f_states-test:
   - cms/states/illinois.md
-updated-on: '2022-10-03T22:54:37.217Z'
+updated-on: '2022-11-21T18:17:15.222Z'
 created-on: '2022-03-28T21:24:51.676Z'
-published-on: '2022-10-03T22:54:37.217Z'
+published-on: '2022-11-21T18:17:15.222Z'
 f_list-under-community-support-networks: false
 layout: '[suppliers].html'
 tags: suppliers

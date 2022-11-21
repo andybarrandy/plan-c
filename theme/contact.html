@@ -244,11 +244,15 @@ UL.hs-error-msgs LI {
       <p class="section-paragraph centered">{{ texts.654f356 }}<br><span class="bold">{{ texts.-23112823 }}</span></p>
       <div class="contact-form-wrapper">
         <div id="wf-form-Contact-Form" class="contact-form w-form">
-          <form method="get" hubspot-portal-id="8779019" name="wf-form-Contact-Form" hubspot-form-id="701ebbd9-a2c2-4037-b5ef-fd4d8f5edf8a" data-name="contact" id="email-form" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded">
+          <form method="get" hubspot-portal-id="8779019" name="wf-form-Contact-Form" hubspot-form-id="701ebbd9-a2c2-4037-b5ef-fd4d8f5edf8a" data-name="contact" action="/" hubspot="form" id="email-form">
             <div class="form-row">
-              <div class="form-stack"><label for="firstname" class="field-label contact">{{ texts.-275c935a }}</label><input type="text" class="text-field w-input" maxlength="256" name="firstname" data-name="firstname" placeholder="" hubspot="element" id="firstname"></div>
-              <div class="form-stack"><label for="lastname" class="field-label contact">{{ texts.-7ed57b34 }}</label><input type="text" class="text-field w-input" maxlength="256" name="lastname" data-name="lastname" placeholder="" hubspot="element" id="lastname"></div>
-            </div><label for="email-2" class="field-label contact">{{ texts.7bec142e }}</label><input type="email" class="text-field w-input" maxlength="256" name="email" data-name="email" placeholder="" hubspot="element" id="email-2" required=""><label for="company" class="field-label contact">{{ texts.50104153 }}</label><input type="text" class="text-field w-input" maxlength="256" name="company" data-name="company" placeholder="" hubspot="element" id="company" required=""><label for="webform_subject" class="field-label contact">{{ texts.-131524b0 }}</label><select id="webform_subject" name="webform_subject" data-name="webform_subject" required="" hubspot="element" class="contact-dropdown w-select">
+              <div class="form-stack"><label for="firstname" class="field-label contact">{{ texts.69b3163b }}</label><input type="text" class="text-field w-input" maxlength="256" name="firstname" data-name="firstname" placeholder="" hubspot="element" id="firstname"></div>
+              <div class="form-stack"><label for="lastname" class="field-label contact">{{ texts.-1416662b }}</label><input type="text" class="text-field w-input" maxlength="256" name="lastname" data-name="lastname" placeholder="" hubspot="element" id="lastname"></div>
+            </div>
+            <div class="form-row">
+              <div class="form-stack"><label for="email-2" class="field-label contact">{{ texts.7bec142e }}</label><input type="email" class="text-field w-input" maxlength="256" name="email" data-name="email" placeholder="" hubspot="element" id="email-2" required=""></div>
+              <div class="form-stack"><label for="phone-4" class="field-label contact">{{ texts.4984d4e }}</label><input type="tel" class="text-field w-input" maxlength="256" name="phone" data-name="phone" placeholder="" hubspot="element" id="phone-4"></div>
+            </div><label for="company" class="field-label contact">{{ texts.50104153 }}</label><input type="text" class="text-field w-input" maxlength="256" name="company" data-name="company" placeholder="" hubspot="element" id="company" required=""><label for="webform_subject" class="field-label contact">{{ texts.-131524b0 }}</label><select id="webform_subject" name="webform_subject" data-name="webform_subject" required="" hubspot="element" class="contact-dropdown w-select">
               <option value="Advocacy or Partnership">{{ texts.690520b7 }}</option>
               <option value="Press/PR">{{ texts.4f63620 }}</option>
               <option value="Ambassador program">{{ texts.32815255 }}</option>
@@ -256,7 +260,8 @@ UL.hs-error-msgs LI {
               <option value="For medical providers">{{ texts.-d62e7a4 }}</option>
               <option value="Something else">{{ texts.-605702c1 }}</option>
             </select><label for="message" class="field-label contact">{{ texts.-17b09add }}</label><textarea class="contact-text-area w-input" maxlength="5000" name="message" data-name="message" placeholder="" hubspot="element" id="message" required=""></textarea><label class="w-checkbox checkbox-field"><input type="checkbox" class="w-checkbox-input checkbox" name="add_me_to_the_newsletter_list" data-name="add_me_to_the_newsletter_list" hubspot="element" id="add_me_to_the_newsletter_list"><span class="w-form-label" for="add_me_to_the_newsletter_list">{{ texts.32feb8d }}</span></label>
-            <div class="w-embed"><input type="hidden" hubspot="element" data-name="source" name="source" value="Contact Form">
+            <div class="w-embed">
+              <!-- <input type="hidden" hubspot="element" data-name="source" name="source" value="Contact Form"> -->
               <input type="hidden" hubspot="element" data-name="datetime_stamp" name="datetime_stamp" value="">
             </div><input type="submit" value="Submit" data-wait="Please wait..." class="button submit contact w-button">
           </form>
@@ -305,6 +310,16 @@ $(document).keyup(function(e) {
 });
 </script>
   <script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#146ff8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 24, triggerOffsetY : 90, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 8, triggerOffsetY : 64, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+  <script>
+/* add title tags to every image */
+var elem = document.getElementsByTagName('img');
+for (var i = 0; i < elem.length; i++) {
+    var alt = elem[i].getAttribute('alt');
+    if (alt) {
+      elem[i].title = alt;
+    }
+}
+</script>
   <script>
 // BEGIN - HUBSPOT IMPLEMENTATION
 function sendHubspotForm(
@@ -409,6 +424,12 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
   form.addEventListener("submit", function (currentFormSubmitEvent) {
     const currentForm = currentFormSubmitEvent.target;
     currentFormSubmitEvent.preventDefault();
+    // change input description
+    currentFormSubmitEvent.target.parentNode
+      .querySelectorAll('input[type="submit"][data-wait]')
+      .forEach(function (inputElement) {
+        inputElement.value = inputElement.getAttribute('data-wait');
+      })
     // grab all inputs
     var formValues = {};
     currentFormSubmitEvent.target.parentNode

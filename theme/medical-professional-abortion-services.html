@@ -441,6 +441,16 @@ $(document).keyup(function(e) {
 </script>
   <script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#146ff8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 24, triggerOffsetY : 90, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 8, triggerOffsetY : 64, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
   <script>
+/* add title tags to every image */
+var elem = document.getElementsByTagName('img');
+for (var i = 0; i < elem.length; i++) {
+    var alt = elem[i].getAttribute('alt');
+    if (alt) {
+      elem[i].title = alt;
+    }
+}
+</script>
+  <script>
 // BEGIN - HUBSPOT IMPLEMENTATION
 function sendHubspotForm(
   portalId,
@@ -544,6 +554,12 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
   form.addEventListener("submit", function (currentFormSubmitEvent) {
     const currentForm = currentFormSubmitEvent.target;
     currentFormSubmitEvent.preventDefault();
+    // change input description
+    currentFormSubmitEvent.target.parentNode
+      .querySelectorAll('input[type="submit"][data-wait]')
+      .forEach(function (inputElement) {
+        inputElement.value = inputElement.getAttribute('data-wait');
+      })
     // grab all inputs
     var formValues = {};
     currentFormSubmitEvent.target.parentNode

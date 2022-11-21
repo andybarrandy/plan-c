@@ -10,9 +10,9 @@ slug: aid-access-intl-copy-under-16-copy
 f_states-test:
   - cms/states/massachusetts.md
   - cms/states/delaware.md
-updated-on: '2022-11-16T18:20:18.437Z'
+updated-on: '2022-11-21T18:18:21.801Z'
 created-on: '2021-08-31T20:34:50.063Z'
-published-on: '2022-11-16T18:20:18.437Z'
+published-on: '2022-11-21T18:30:38.278Z'
 f_ages-served: All
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
@@ -41,9 +41,6 @@ f_summary-2-0: >-
 
   *   Pricing does not include cost of follow up in-clinic treatment in the rare
   event it is needed.
-
-
-  ‍
 f_cost-sort: 110
 f_sliding-scale-available: false
 f_list-under-community-support-networks: false

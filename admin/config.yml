@@ -2150,15 +2150,15 @@ collections:
             label: Text
             name: 7ddfc249
             widget: string
-          - hint: 'Original text: Is it safe?, key: -7471cecd'
+          - hint: 'Original text: Are abortion pills safe?, key: 7c26a630'
             label: Text
-            name: '-7471cecd'
+            name: 7c26a630
             widget: string
           - hint: >-
-              Original text: It’s medically safe and effective for pregnancies
-              of less than 11 weeks., key: -6433650e
+              Original text: They're medically safe and effective for
+              pregnancies up to 11 weeks., key: -542ad0a2
             label: Text
-            name: '-6433650e'
+            name: '-542ad0a2'
             widget: string
           - hint: >-
               Original text: The abortion pill is a combination of two
@@ -2255,17 +2255,17 @@ collections:
             label: Text
             name: 604cec8f
             widget: string
-          - hint: 'Original text: Find Abortion Pills, key: -54bab3c7'
+          - hint: 'Original text: Find Abortion Pill Providers, key: -78b670a4'
             label: Text
-            name: '-54bab3c7'
+            name: '-78b670a4'
             widget: string
           - hint: "Original text: HAVE\_QUESTIONS?, key: 20a862ea"
             label: Text
             name: 20a862ea
             widget: string
-          - hint: 'Original text: Read the full FAQ, key: 1e4966de'
+          - hint: 'Original text: What is Plan C? Read our FAQ, key: 79ec4e1f'
             label: Text
-            name: 1e4966de
+            name: 79ec4e1f
             widget: string
           - hint: 'Original text: Get free text + phone support, key: -27908841'
             label: Text
@@ -2291,9 +2291,9 @@ collections:
             label: Text
             name: 4437fd7b
             widget: string
-          - hint: "Original text: We do not give medical or legal advice or sell abortion pills. \_This website is an educational resource for learning about how people in the US are accessing abortion pills and safely managing their own abortions. Plan C provides research-based information but does not endorse any of the services listed in the Guide to Finding Pills. Plan C is not affiliated with any of the services listed in our directory. For questions about ordering, paying for, or delivery of abortion pills from these services, please contact the service directly., key: -46f5c292"
+          - hint: "Original text: We do not give medical or legal advice or sell abortion pills. \_This website is an educational resource for learning about how people in the US are accessing abortion pills and safely managing their own abortions. Plan C provides research-based information but does not endorse any of the services listed in the Guide to Finding Pills. Plan C is not affiliated with any of the services listed in our directory. For questions about paying for, delivery of, or how to order abortion pills from these services, please contact the service directly., key: 125a669d"
             label: Text
-            name: '-46f5c292'
+            name: 125a669d
             widget: text
           - hint: 'Original text: A note on language:, key: 1a02ae30'
             label: Text
@@ -2463,11 +2463,11 @@ collections:
               information about sources of abortion pills but does not endorse
               the services listed in our Guide to Finding Pills. Plan C is not
               affiliated with any of the services listed in our directory. For
-              questions about ordering, paying for, or delivery of abortion
+              questions about paying for, delivery of, or how to order abortion
               pills from these services, please contact the service directly.,
-              key: -4efc42a6
+              key: 707a1089
             label: Text
-            name: '-4efc42a6'
+            name: 707a1089
             widget: text
           - hint: 'Original text: Brand Identity by , key: -44ad4b80'
             label: Text
@@ -2573,9 +2573,9 @@ collections:
             label: Text
             name: 448e60df
             widget: string
-          - hint: "Original text: For financial support &\_more:, key: 2a6128ec"
+          - hint: 'Original text: For financial support & more:, key: 4ff4d96c'
             label: Text
-            name: 2a6128ec
+            name: 4ff4d96c
             widget: string
           - hint: 'Original text: Ask Medical Questions:, key: 6f21a6e3'
             label: Text
@@ -2695,6 +2695,20 @@ collections:
             label: Text
             name: 4ed245b
             widget: string
+          - hint: >-
+              Original text: This is not legal or medical advice and does not
+              substitute for the representation of an attorney or the advice of
+              a medical provider. No attorney client relationship has been
+              formed by reviewing this material. Plan C provides research-based
+              information about sources of abortion pills but does not endorse
+              the services listed in our Guide to Finding Pills. Plan C is not
+              affiliated with any of the services listed in our directory. For
+              questions about ordering, paying for, or delivery of abortion
+              pills from these services, please contact the service directly.,
+              key: -4efc42a6
+            label: Text
+            name: '-4efc42a6'
+            widget: text
           - hint: 'Original text: Telehealth Services, key: -20044b48'
             label: Text
             name: '-20044b48'
@@ -2794,20 +2808,6 @@ collections:
           - hint: 'Original text: Scroll down for results, key: -1389020c'
             label: Text
             name: '-1389020c'
-            widget: string
-          - hint: >-
-              Original text: There are several ways people get abortion pills in
-              this state, even if state laws restrict , key: -176e3344
-            label: Text
-            name: '-176e3344'
-            widget: text
-          - hint: 'Original text: clinic-based, key: 1476ae8e'
-            label: Text
-            name: 1476ae8e
-            widget: string
-          - hint: 'Original text:  care:, key: 3c3bfb29'
-            label: Text
-            name: 3c3bfb29
             widget: string
           - hint: 'Original text: Aid Access, key: 7c00d108'
             label: Text
@@ -3152,9 +3152,9 @@ collections:
             label: Text
             name: '-54c5423a'
             widget: string
-          - hint: 'Original text: For Medical Questions:, key: 32c75293'
+          - hint: 'Original text: For Medical Questions, key: -69b78179'
             label: Text
-            name: 32c75293
+            name: '-69b78179'
             widget: string
           - hint: >-
               Original text: Connect with a clinician through the M+A
@@ -3186,9 +3186,9 @@ collections:
             label: Text
             name: 10c0d7ec
             widget: string
-          - hint: 'Original text: For Legal Questions:, key: 4150b32b'
+          - hint: 'Original text: For Legal Questions, key: -58bb5511'
             label: Text
-            name: 4150b32b
+            name: '-58bb5511'
             widget: string
           - hint: >-
               Original text: Connect with a lawyer through the Repro Legal
@@ -3755,17 +3755,21 @@ collections:
             label: Text
             name: '-23112823'
             widget: string
-          - hint: 'Original text: First Name (optional), key: -275c935a'
+          - hint: 'Original text: First Name, key: 69b3163b'
             label: Text
-            name: '-275c935a'
+            name: 69b3163b
             widget: string
-          - hint: 'Original text: Last Name (optional), key: -7ed57b34'
+          - hint: 'Original text: Last Name, key: -1416662b'
             label: Text
-            name: '-7ed57b34'
+            name: '-1416662b'
             widget: string
           - hint: 'Original text: Email*, key: 7bec142e'
             label: Text
             name: 7bec142e
+            widget: string
+          - hint: 'Original text: Phone, key: 4984d4e'
+            label: Text
+            name: 4984d4e
             widget: string
           - hint: 'Original text: Organization, key: 50104153'
             label: Text
@@ -3882,18 +3886,6 @@ collections:
               abortion, submit your information below., key: 1e119f21
             label: Text
             name: 1e119f21
-            widget: string
-          - hint: 'Original text: First Name, key: 69b3163b'
-            label: Text
-            name: 69b3163b
-            widget: string
-          - hint: 'Original text: Last Name, key: -1416662b'
-            label: Text
-            name: '-1416662b'
-            widget: string
-          - hint: 'Original text: Phone, key: 4984d4e'
-            label: Text
-            name: 4984d4e
             widget: string
           - hint: 'Original text: Organization*, key: -4e0816c9'
             label: Text
@@ -4375,6 +4367,20 @@ collections:
           - hint: 'Original text: Register, key: -25496d3d'
             label: Text
             name: '-25496d3d'
+            widget: string
+          - hint: 'Original text: No trainings currently scheduled. , key: 7b3e627f'
+            label: Text
+            name: 7b3e627f
+            widget: string
+          - hint: 'Original text: Sign up here, key: 79cb5b12'
+            label: Text
+            name: 79cb5b12
+            widget: string
+          - hint: >-
+              Original text:  to be notified of the next training., key:
+              64689ccf
+            label: Text
+            name: 64689ccf
             widget: string
           - hint: >-
               Original text: To request a Plan C workshop, webinar or training
@@ -8323,6 +8329,10 @@ collections:
             label: Text
             name: 23d8b7dd
             widget: text
+          - hint: 'Original text: For Medical Questions:, key: 32c75293'
+            label: Text
+            name: 32c75293
+            widget: string
           - hint: >-
               Original text: Connect with a doctor through the M+A (Miscarriage
               + Abortion) Hotline, a free and confidential service., key:
@@ -8335,6 +8345,10 @@ collections:
               518c03ec
             label: Text
             name: 518c03ec
+            widget: string
+          - hint: 'Original text: For Legal Questions:, key: 4150b32b'
+            label: Text
+            name: 4150b32b
             widget: string
           - hint: 'Original text: Additional Support Options:, key: 3a46d186'
             label: Text
@@ -8455,6 +8469,10 @@ collections:
               5eef9514
             label: Text
             name: 5eef9514
+            widget: string
+          - hint: "Original text: For financial support &\_more:, key: 2a6128ec"
+            label: Text
+            name: 2a6128ec
             widget: string
           - hint: 'Original text: Stay Safe:, key: -4afae3a'
             label: Text
@@ -9350,10 +9368,6 @@ collections:
             label: Link
             name: 4629d66
             widget: string
-          - hint: 'Original link: https://abortionfinder.org, key: -522c84fd'
-            label: Link
-            name: '-522c84fd'
-            widget: string
           - hint: 'Original link: #community, key: dcfa726'
             label: Link
             name: dcfa726
@@ -9385,6 +9399,10 @@ collections:
               key: -4666e9c9
             label: Link
             name: '-4666e9c9'
+            widget: string
+          - hint: 'Original link: https://abortionfinder.org, key: -522c84fd'
+            label: Link
+            name: '-522c84fd'
             widget: string
           - hint: 'Original link: https://www.ineedana.com/, key: -623eedf'
             label: Link
@@ -9498,6 +9516,10 @@ collections:
               78215322
             label: Link
             name: '78215322'
+            widget: string
+          - hint: 'Original link: #onboarding-form, key: -5aa2194d'
+            label: Link
+            name: '-5aa2194d'
             widget: string
           - hint: 'Original link: https://forms.gle/NHHKyPFnysmjaV9f7, key: 6ca3945'
             label: Link

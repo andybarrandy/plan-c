@@ -2,11 +2,11 @@
 f_abbreviation: KS
 title: Kansas
 slug: kansas
-updated-on: '2022-06-21T22:33:55.685Z'
+updated-on: '2022-11-21T18:09:32.113Z'
 created-on: '2020-10-14T23:38:17.598Z'
-published-on: '2022-06-21T22:49:36.427Z'
+published-on: '2022-11-21T18:09:32.113Z'
 f_legal-disclaimer: true
-f_sma-is-restricted-in-this-state: false
+f_sma-is-restricted-in-this-state: true
 f_neighboring-states:
   - cms/states/colorado.md
   - cms/states/new-mexico.md
