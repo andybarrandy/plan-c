@@ -7,6 +7,8 @@ f_display-name: AJB Test
 f_url: https://test.com
 f_states-test:
   - cms/states/california.md
+f_should-this-appear-under-pills-by-mail-with-clinician-support: true
+f_list-under-community-support-networks: false
 f_cost: "1"
 f_cost-sort: 1
 f_ship-time: "1"
