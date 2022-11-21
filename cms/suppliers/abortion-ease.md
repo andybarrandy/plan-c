@@ -1,38 +1,12 @@
 ---
-f_should-this-appear-under-pills-by-mail-without-clinician-support: true
-f_sliding-scale-available: true
-f_list-under-community-support-networks: false
-f_url: https://abortionease.com/shop/
-f_should-this-appear-under-pills-by-mail-with-clinician-support: false
-f_tier: 3
-f_legal-level-text: 'Yes'
-f_ages-served: All
-f_ship-time-low-limit: 4
-f_cost-sort: 302
-f_basic-category-2: Online pharmacy
-f_includes-required-for-this-to-work: AP1
 title: Abortion Ease
-f_cost: $302
-f_summary-2-0: >-
-  Online pharmacy that states that it sells abortion pills (often called MTP
-  kits or Mifegest Kit). The pills we received had the same active ingredients
-  as in the FDA-approved abortion pills available through US clinics, but the
-  manufacturers are not certified or inspected by the FDA. Our laboratory
-  testing of similar products received from online pharmacies found them to be
-  real products of acceptable quality.
-
-
-  ‍
-
-
-  ‍
-f_financial-assistance-details: No financial assistance available
-f_ship-time-details: We used "US Express" shipping
+created-on: 2022-11-15T21:48:21.284Z
+updated-on: 2022-11-15T21:57:50.703Z
+published-on: 2022-11-15T21:58:16.468Z
+f_contact-email: info@abortionease.com
 f_display-name: Abortion Ease
-f_ship-time: About 4 days
-slug: abortion-ease
-f_includes:
-  - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
+f_url: https://abortionease.com/shop/
+f_basic-category-2: Online pharmacy
 f_states-test:
   - cms/states/arkansas.md
   - cms/states/california.md
@@ -90,14 +64,41 @@ f_states-test:
   - cms/states/wisconsin.md
   - cms/states/alabama.md
   - cms/states/wyoming.md
-updated-on: '2022-11-15T21:57:50.703Z'
-created-on: '2022-11-15T21:48:21.284Z'
-published-on: '2022-11-15T21:58:16.468Z'
-f_contact-email: info@abortionease.com
+f_should-this-appear-under-pills-by-mail-with-clinician-support: false
+f_should-this-appear-under-pills-by-mail-without-clinician-support: false
+f_list-under-community-support-networks: false
+f_cost: $302
+f_cost-sort: 302
+f_sliding-scale-available: true
+f_financial-assistance-details: No financial assistance available
+f_ship-time: About 4 days
+f_ship-time-low-limit: 4
+f_ship-time-details: We used "US Express" shipping
+f_ages-served: All
+f_includes:
+  - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
+f_includes-required-for-this-to-work: AP1
+f_summary-2-0: >-
+  Online pharmacy that states that it sells abortion pills (often called MTP
+  kits or Mifegest Kit). The pills we received had the same active ingredients
+  as in the FDA-approved abortion pills available through US clinics, but the
+  manufacturers are not certified or inspected by the FDA. Our laboratory
+  testing of similar products received from online pharmacies found them to be
+  real products of acceptable quality.
+
+
+  ‍
+
+
+  ‍
+f_tier: 3
+f_legal-level-text: Yes
 f_accepts-insurance: false
 f_accepts-medicaid: false
-layout: '[suppliers].html'
 tags: suppliers
+layout: "[suppliers].html"
+slug: abortion-ease
+date: 2022-11-21T23:57:27.350Z
 ---
 
 This includes the Paypal fee.
