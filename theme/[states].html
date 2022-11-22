@@ -325,7 +325,7 @@ UL.hs-error-msgs LI {
         {%- unless collection.length == 0 -%}<div role="list" class="nest-multi-reference w-dyn-items">
           {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
             <div class="key-terms-item-wrapper">
-              <div class="key-terms-icon"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" width="24" src="{{ item.data.f_icon.url }}" alt="{{ item.data.f_icon.alt }}"></div>
+              <div class="key-terms-icon"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" width="24" src="{{ item.data.f_icon.url }}" alt="{{ item.data.f_display-name }}"></div>
               <div class="key-terms-description abbreviation">{{ item.data.title }}</div>
               <div class="key-terms-description">{{ item.data.f_display-name }}</div>
             </div>
