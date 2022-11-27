@@ -446,10 +446,10 @@ UL.hs-error-msgs LI {
                         <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      <div class="key-terms-item-wrapper">
+                      {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>
                         <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
-                      </div>
+                      </div>{%- endunless -%}
                       {%- if item.data.f_sliding-scale-available == true -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.438daea2.url }}" loading="lazy" alt="{{ images.438daea2.alt | trim | escape }}"></div>
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
@@ -561,7 +561,7 @@ UL.hs-error-msgs LI {
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
                       </div>{%- endif -%}
                       {%- if item.data.f_legal-level-text == "Yes" -%}<div class="key-terms-item-wrapper">
-                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.-54d2bbe2.url }}" loading="lazy" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.-54d2bbe2.url }}" loading="lazy" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
                         <div class="key-terms-description">
                           <a href="{{ links.23 }}" data-w-id="3423fbd2-7b08-cd67-2e61-ca6768f2edd3" class="popup-link">{{ texts.7c499816 }}</a>{{ texts.-26f7890e }}</div>
                       </div>{%- endif -%}
@@ -852,10 +852,10 @@ UL.hs-error-msgs LI {
                         <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      <div class="key-terms-item-wrapper">
-                        {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>{%- endunless -%}
-                        {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>{%- endunless -%}
-                      </div>
+                      {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
+                      </div>{%- endunless -%}
                       {%- if item.data.f_sliding-scale-available == true -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.438daea2.url }}" loading="lazy" alt="{{ images.438daea2.alt | trim | escape }}"></div>
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
