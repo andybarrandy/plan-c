@@ -7,7 +7,7 @@ f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_tier: 1
 f_legal-level-text: 'No'
 f_gestational-age-dropdown: For pregnancies up to 11 weeks
-f_ages-served: All
+f_ages-served: 16+
 f_ship-time-low-limit: 7
 f_cost-sort: 350
 f_basic-category-2: Pills by mail with clinician support
@@ -33,11 +33,11 @@ f_states-test:
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-10-03T22:56:30.026Z'
+updated-on: '2022-11-22T22:02:59.403Z'
 created-on: '2022-03-16T20:35:01.024Z'
-published-on: '2022-10-03T22:56:30.026Z'
+published-on: '2022-11-22T22:02:59.403Z'
 f_contact-email: jordan.salazar@ppmontana.org
-f_contact-name: JOrdan Salazar
+f_contact-name: Jordan Salazar
 f_contact-phone: 406-830-3486
 f_list-under-community-support-networks: false
 f_accepts-insurance: false

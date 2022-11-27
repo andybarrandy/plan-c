@@ -3,11 +3,11 @@ f_url: https://heyjane.com
 title: Hey Jane
 f_cost: $199-409
 f_ship-time-details: Depends on selected shipping method
-f_ship-time: 1-5 days
+f_ship-time: 3-5 days
 slug: hey-jane
-updated-on: '2022-10-26T20:39:13.716Z'
+updated-on: '2022-11-22T21:51:46.444Z'
 created-on: '2020-10-31T19:19:20.233Z'
-published-on: '2022-10-26T20:39:13.716Z'
+published-on: '2022-11-22T21:51:46.444Z'
 f_display-name: Hey Jane
 f_legal-level-text: 'No'
 f_tier: 1
@@ -45,7 +45,7 @@ f_summary-2-0: >-
 
   *   Financial assistance through sliding scale and abortion funds available  
       
-  *   Consult with a medical provider within 24 hours
+  *   Consult with a medical provider within 1-2 business days
 
   *   FDA-approved medication sent in discreet packaging
 
