@@ -7,9 +7,9 @@ f_cost: $0-300
 f_display-name: All Families Healthcare
 f_ship-time: 2-3 days
 slug: all-families-healthcare
-updated-on: '2022-11-04T14:28:21.333Z'
+updated-on: '2022-11-28T06:36:51.916Z'
 created-on: '2020-11-13T23:12:18.569Z'
-published-on: '2022-11-04T14:28:21.333Z'
+published-on: '2022-11-28T06:43:46.908Z'
 f_states-test:
   - cms/states/montana.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
@@ -39,7 +39,13 @@ f_contact-name: Helen Weems
 f_ship-time-details: Overnight shipping available for $20
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
-f_accepts-medicaid: false
+f_accepts-medicaid: true
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: true
+f_additional-bullet-point-information: |-
+  Includes abortion pills, ibuprofen and anti-nausea medication
+
+  24 hour phone support for urgent needs
 layout: '[suppliers].html'
 tags: suppliers
 ---

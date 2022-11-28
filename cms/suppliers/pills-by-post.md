@@ -26,13 +26,15 @@ f_states-test:
   - cms/states/minnesota.md
   - cms/states/colorado.md
   - cms/states/illinois.md
-updated-on: '2022-10-03T22:57:42.085Z'
+updated-on: '2022-11-27T22:08:50.875Z'
 created-on: '2022-02-10T16:49:04.707Z'
-published-on: '2022-10-03T22:57:42.085Z'
+published-on: '2022-11-27T23:10:24.841Z'
 f_ship-time-details: Overnight shipping option available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

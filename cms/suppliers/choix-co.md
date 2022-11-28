@@ -40,12 +40,14 @@ f_includes:
   - cms/supplier-options/virtual-visits-by-phone-or-video-on-request.md
 f_states-test:
   - cms/states/colorado.md
-updated-on: '2022-10-03T22:47:46.675Z'
+updated-on: '2022-11-27T22:09:43.082Z'
 created-on: '2021-12-09T18:02:08.173Z'
-published-on: '2022-10-03T22:47:46.675Z'
+published-on: '2022-11-27T23:10:24.841Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

@@ -41,6 +41,8 @@ f_contact-email: redstateaccess@proton.me
 f_contact-name: Kelly
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

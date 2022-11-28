@@ -446,10 +446,10 @@ UL.hs-error-msgs LI {
                         <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
+                      {%- if item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>
                         <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
-                      </div>{%- endunless -%}
+                      </div>{%- endif -%}
                       {%- if item.data.f_sliding-scale-available == true -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.438daea2.url }}" loading="lazy" alt="{{ images.438daea2.alt | trim | escape }}"></div>
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
@@ -466,7 +466,7 @@ UL.hs-error-msgs LI {
                           <div class="link-block-text">{{ texts.-33667240 }}</div><img width="12" height="14" src="{{ images.-685ab6ab.url }}" loading="lazy" alt="{{ images.-685ab6ab.alt | trim | escape }}" class="link-block-icon">
                         </a>
                         <a id="w-node-_10f85e2e-95c4-02b9-c3bd-15aebbb080b0-ed544b4f" href="{{ item.data.f_url }}" class="supplier-link w-inline-block">
-                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.1bb30f80.url }}" alt="{{ images.1bb30f80.alt | trim | escape }}" class="link-block-icon">
+                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.-5a80560c.url }}" alt="{{ images.-5a80560c.alt | trim | escape }}" class="link-block-icon">
                         </a>
                         <div id="w-node-_10f85e2e-95c4-02b9-c3bd-15aebbb080b4-ed544b4f" class="supplier-about-wrapper">
                           <div class="w-richtext">{{ item.data.f_summary-2-0 | markdown }}</div>
@@ -552,16 +552,16 @@ UL.hs-error-msgs LI {
                         <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
+                      {%- if item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>
                         <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
-                      </div>{%- endunless -%}
+                      </div>{%- endif -%}
                       {%- if item.data.f_sliding-scale-available == true -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.438daea2.url }}" loading="lazy" alt="{{ images.438daea2.alt | trim | escape }}"></div>
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
                       </div>{%- endif -%}
                       {%- if item.data.f_legal-level-text == "Yes" -%}<div class="key-terms-item-wrapper">
-                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.-54d2bbe2.url }}" loading="lazy" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.-54d2bbe2.url }}" loading="lazy" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
                         <div class="key-terms-description">
                           <a href="{{ links.23 }}" data-w-id="3423fbd2-7b08-cd67-2e61-ca6768f2edd3" class="popup-link">{{ texts.7c499816 }}</a>{{ texts.-26f7890e }}</div>
                       </div>{%- endif -%}
@@ -572,7 +572,7 @@ UL.hs-error-msgs LI {
                           <div class="link-block-text">{{ texts.-33667240 }}</div><img width="12" height="14" src="{{ images.-685ab6ab.url }}" loading="lazy" alt="{{ images.-685ab6ab.alt | trim | escape }}" class="link-block-icon">
                         </a>
                         <a id="w-node-_3423fbd2-7b08-cd67-2e61-ca6768f2eddc-ed544b4f" href="{{ item.data.f_url }}" class="supplier-link w-inline-block">
-                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.1bb30f80.url }}" alt="{{ images.1bb30f80.alt | trim | escape }}" class="link-block-icon">
+                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.-5a80560c.url }}" alt="{{ images.-5a80560c.alt | trim | escape }}" class="link-block-icon">
                         </a>
                         <div id="w-node-_3423fbd2-7b08-cd67-2e61-ca6768f2ede0-ed544b4f" class="supplier-about-wrapper">
                           <div class="w-richtext">{{ item.data.f_summary-2-0 | markdown }}</div>
@@ -685,10 +685,10 @@ UL.hs-error-msgs LI {
                         <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
+                      {%- if item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>
                         <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
-                      </div>{%- endunless -%}
+                      </div>{%- endif -%}
                       {%- if item.data.f_sliding-scale-available == true -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.438daea2.url }}" loading="lazy" alt="{{ images.438daea2.alt | trim | escape }}"></div>
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
@@ -852,10 +852,10 @@ UL.hs-error-msgs LI {
                         <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      {%- unless item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
+                      {%- if item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.376e3c93.url }}" loading="lazy" alt="{{ images.376e3c93.alt | trim | escape }}"></div>
                         <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
-                      </div>{%- endunless -%}
+                      </div>{%- endif -%}
                       {%- if item.data.f_sliding-scale-available == true -%}<div class="key-terms-item-wrapper">
                         <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.438daea2.url }}" loading="lazy" alt="{{ images.438daea2.alt | trim | escape }}"></div>
                         <div class="key-terms-description w-richtext">{{ item.data.f_financial-assistance-details | markdown }}</div>
@@ -877,7 +877,7 @@ UL.hs-error-msgs LI {
                           <div class="link-block-text">{{ texts.-33667240 }}</div><img width="12" height="14" src="{{ images.-685ab6ab.url }}" loading="lazy" alt="{{ images.-685ab6ab.alt | trim | escape }}" class="link-block-icon">
                         </a>
                         <a id="w-node-d61a08a7-57c0-4667-3b18-b5d24ea994da-ed544b4f" href="{{ item.data.f_url }}" class="supplier-link w-inline-block">
-                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.1bb30f80.url }}" alt="{{ images.1bb30f80.alt | trim | escape }}" class="link-block-icon">
+                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.-5a80560c.url }}" alt="{{ images.-5a80560c.alt | trim | escape }}" class="link-block-icon">
                         </a>
                         <div id="w-node-d61a08a7-57c0-4667-3b18-b5d24ea994de-ed544b4f" class="supplier-about-wrapper">
                           <div class="w-richtext">{{ item.data.f_summary-2-0 | markdown }}</div>

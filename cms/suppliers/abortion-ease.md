@@ -96,6 +96,8 @@ published-on: '2022-11-15T21:58:16.468Z'
 f_contact-email: info@abortionease.com
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

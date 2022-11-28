@@ -7,6 +7,10 @@
     "url": "/assets/images/1280px-mother_jones_logo_2019.png",
     "alt": "Mother Jones logo"
   },
+  "49296216": {
+    "url": "/assets/images/icons8-slider-48.png",
+    "alt": "Offers sliding scale pricing"
+  },
   "74357845": {
     "url": "/assets/images/noun_zoom_4051928-1.png",
     "alt": "Icon of laptop with virtual meeting"
@@ -69,6 +73,10 @@
   },
   "i1ee2c9e1": {
     "url": "/assets/images/usa.svg",
+    "alt": ""
+  },
+  "3db26ff5": {
+    "url": "/assets/images/info-black.png",
     "alt": ""
   },
   "i207dd094": {
@@ -267,9 +275,9 @@
     "url": "/assets/images/carat-black.svg",
     "alt": "Down carat"
   },
-  "1bb30f80": {
-    "url": "/assets/images/outbound.svg",
-    "alt": "External link, open in new tab"
+  "-5a80560c": {
+    "url": "/assets/images/external-link-white.svg",
+    "alt": "Visit website"
   },
   "-8fb92b4": {
     "url": "/assets/images/img_2195.PNG",
@@ -507,25 +515,9 @@
     "url": "/assets/images/new-map-hand-tiny.png",
     "alt": "How to get abortion pill in all 50 US States"
   },
-  "57ceca3d": {
-    "url": "/assets/images/icons8-expand-48.png",
-    "alt": "Expand content"
-  },
-  "2342670a": {
-    "url": "/assets/images/clinician.svg",
-    "alt": "stethascope"
-  },
-  "524876ae": {
-    "url": "/assets/images/self-managed.svg",
-    "alt": "stethascope"
-  },
-  "55b0c645": {
-    "url": "/assets/images/local-clinics.svg",
-    "alt": "building"
-  },
-  "6d6e2995": {
-    "url": "/assets/images/mailbox.png",
-    "alt": "stethascope"
+  "7e3ad28e": {
+    "url": "/assets/images/icons8-shield-48.png",
+    "alt": "Accepts Medicaid"
   },
   "-1a629f81": {
     "url": "/assets/images/carat-white.svg",

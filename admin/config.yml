@@ -171,6 +171,11 @@ collections:
         label: List under "Community Support Networks"
         widget: boolean
         required: false
+      - hint: ''
+        name: f_list-on-test-results-page
+        label: List on Test Results page
+        widget: boolean
+        required: false
       - hint: (ex. $100, $100-300, $0-100)
         name: f_cost
         label: Price (dollar amount or range to be displayed in the guide)
@@ -183,7 +188,7 @@ collections:
         required: true
       - hint: ''
         name: f_sliding-scale-available
-        label: Is there additional financial assistance/insurance information?
+        label: Display financial support/insurance information?
         widget: boolean
         required: false
       - hint: >-
@@ -191,6 +196,28 @@ collections:
           Medicaid.  Accepts some insurance.")
         name: f_financial-assistance-details
         label: Additional financial assistance/insurance details
+        widget: markdown
+        required: false
+      - hint: ''
+        name: f_accepts-insurance
+        label: Accepts some insurance plans
+        widget: boolean
+        required: false
+      - hint: ''
+        name: f_accepts-medicaid
+        label: Accepts Medicaid
+        widget: boolean
+        required: false
+      - hint: ''
+        name: f_offers-sliding-scale-pricing
+        label: Offers sliding scale pricing
+        widget: boolean
+        required: false
+      - hint: >-
+          Use one line for each bullet.  Anything not covered by Includes,
+          Insurance, Medicaid, Sliding Scale, Gestational Age
+        name: f_additional-bullet-point-information
+        label: Additional bullet point information
         widget: markdown
         required: false
       - hint: (ex. 1-3 days)
@@ -306,16 +333,6 @@ collections:
             value: 'No'
           - label: 'Yes'
             value: 'Yes'
-      - hint: ''
-        name: f_accepts-insurance
-        label: Accepts insurance
-        widget: boolean
-        required: false
-      - hint: ''
-        name: f_accepts-medicaid
-        label: Accepts Medicaid
-        widget: boolean
-        required: false
       - label: Tags
         widget: hidden
         name: tags
@@ -7346,784 +7363,45 @@ collections:
             label: Text
             name: 230c8097
             widget: text
-          - hint: >-
-              Original text: At-home abortion options in Colorado:, key:
-              -5b84efa7
+          - hint: 'Original text: Test Results, key: -2eb1a998'
             label: Text
-            name: '-5b84efa7'
+            name: '-2eb1a998'
             widget: string
-          - hint: >-
-              Original text: Alternate routes of access are also possible in
-              this state, key: -5abd07fb
+          - hint: 'Original text: Showing, key: -218ee85b'
             label: Text
-            name: '-5abd07fb'
+            name: '-218ee85b'
             widget: string
-          - hint: >-
-              Original text: , including online pharmacies. Learn more about
-              potential legal risks of accessing pills through alternative
-              suppliers and/or contact the free, confidential ReproLegal
-              Helpline (online or at 844-868-2812) to discuss your specific
-              situation., key: -2442e8a5
+          - hint: 'Original text: results, key: 416b3bf6'
             label: Text
-            name: '-2442e8a5'
-            widget: text
-          - hint: "Original text: include clinician support\L, key: -733f4fdd"
-            label: Text
-            name: '-733f4fdd'
-            widget: string
-          - hint: >-
-              Original text: (Please read our FAQ on how to use abortion pills),
-              key: -f578190
-            label: Text
-            name: '-f578190'
-            widget: string
-          - hint: >-
-              Original text: Plan C tested the online pharmacies listed here by
-              buying pills from them. The services we list all shipped pills to
-              us at our home addresses. They are not scams. But, we do not
-              operate these sites and cannot guarantee they will be reliable in
-              the future., key: 5a8b6dee
-            label: Text
-            name: 5a8b6dee
-            widget: text
-          - hint: >-
-              Original text: Read this FAQ for more details about ordering from
-              an online pharmacy. , key: 6b6dc2ac
-            label: Text
-            name: 6b6dc2ac
-            widget: string
-          - hint: >-
-              Original text: Remember, another option is Aid Access, a
-              doctor-supported service that mails pills to all states. They
-              provide medical support and also offer discounts. For more
-              information, see the Telehealth Services section above., key:
-              -11f946f9
-            label: Text
-            name: '-11f946f9'
-            widget: text
-          - hint: 'Original text: For medical questions:, key: 4e31ba53'
-            label: Text
-            name: 4e31ba53
-            widget: string
-          - hint: >-
-              Original text: For medical questions about self-managing an
-              abortion, contact the Miscarriage and Abortion Hotline, a free and
-              confidential service., key: -1d69e67d
-            label: Text
-            name: '-1d69e67d'
-            widget: text
-          - hint: >-
-              Original text: We also provide links to instructions for using the
-              pills in our FAQ., key: -3d175b04
-            label: Text
-            name: '-3d175b04'
-            widget: string
-          - hint: 'Original text: For legal questions:, key: -3456d15'
-            label: Text
-            name: '-3456d15'
-            widget: string
-          - hint: >-
-              Original text: Read our FAQ about potential legal risks of
-              accessing pills through these suppliers., key: 782553b0
-            label: Text
-            name: 782553b0
-            widget: string
-          - hint: >-
-              Original text: You can also contact the free and confidential
-              Repro Legal Helpline to discuss your specific situation., key:
-              1658372a
-            label: Text
-            name: 1658372a
-            widget: text
-          - hint: 'Original text: 1 Result, key: 1093b30c'
-            label: Text
-            name: 1093b30c
-            widget: string
-          - hint: >-
-              Original text: People who live in restricted states are still
-              accessing abortion pills, key: 3ef81ceb
-            label: Text
-            name: 3ef81ceb
-            widget: string
-          - hint: >-
-              Original text:  by using mail forwarding services, driving across
-              state borders, or using General Delivery addresses. Read through
-              options 1 - 3 below to understand how this has worked, then search
-              for a provider in one of your neighboring states listed below.,
-              key: 59d68f45
-            label: Text
-            name: 59d68f45
-            widget: text
-          - hint: 'Original text: Read through these options:, key: -7e6e1d42'
-            label: Text
-            name: '-7e6e1d42'
-            widget: string
-          - hint: 'Original text: Heading, key: -6d5fea1e'
-            label: Text
-            name: '-6d5fea1e'
-            widget: string
-          - hint: >-
-              Original text: Find a neighboring state with telehealth abortion:,
-              key: -7f027823
-            label: Text
-            name: '-7f027823'
-            widget: string
-          - hint: >-
-              Original text: In-Person Clinics & Abortion Providers, key:
-              -7d6aa794
-            label: Text
-            name: '-7d6aa794'
-            widget: string
-          - hint: "Original text: \_The options listed here include mainstream medical services as well as other ways in which people are accessing abortion pills in the US. Inclusion of a service in this list does not imply an endorsement by Plan C., key: -3fb063e0"
-            label: Text
-            name: '-3fb063e0'
-            widget: text
-          - hint: 'Original text: Telehealth Services , key: 1f7ae268'
-            label: Text
-            name: 1f7ae268
-            widget: string
-          - hint: 'Original text: (*), key: 9b67'
-            label: Text
-            name: 9b67
-            widget: string
-          - hint: >-
-              Original text: Pills by mail with basic medical screening and
-              follow up support from a clinician., key: -3409821a
-            label: Text
-            name: '-3409821a'
-            widget: string
-          - hint: 'Original text: Key Terms:, key: 5bd560b4'
-            label: Text
-            name: 5bd560b4
-            widget: string
-          - hint: 'Original text: Virtual visits:, key: -384a9383'
-            label: Text
-            name: '-384a9383'
-            widget: string
-          - hint: >-
-              Original text:  This service includes phone, video, or online
-              visits with the provider., key: 49520747
-            label: Text
-            name: '49520747'
-            widget: string
-          - hint: 'Original text: Sliding scale:, key: 45277282'
-            label: Text
-            name: '45277282'
-            widget: string
-          - hint: >-
-              Original text:  Some services offer a discount based on financial
-              need., key: 744d78b3
-            label: Text
-            name: 744d78b3
-            widget: string
-          - hint: 'Original text: Green Light/Yellow Light:, key: 196b20fa'
-            label: Text
-            name: 196b20fa
-            widget: string
-          - hint: >-
-              Original text:  Our rating system to help you tell which providers
-              are mainstream medical practices (green light) and which are
-              alternative and may carry some legal risk (yellow light)., key:
-              -6c141722
-            label: Text
-            name: '-6c141722'
-            widget: text
-          - hint: 'Original text: Online Pharmacies , key: -258f409e'
-            label: Text
-            name: '-258f409e'
-            widget: string
-          - hint: >-
-              Original text: Pills by mail, does not include clinician support,
-              key: 33c3519f
-            label: Text
-            name: 33c3519f
-            widget: string
-          - hint: 'Original text: Green Light/Yellow Light: , key: 13f8fe66'
-            label: Text
-            name: 13f8fe66
-            widget: string
-          - hint: >-
-              Original text: Our rating system to help you tell which providers
-              are mainstream medical practices (green light) and which are
-              alternative and may carry some legal risk (yellow light)., key:
-              2d6344fe
-            label: Text
-            name: 2d6344fe
-            widget: text
-          - hint: 'Original text: IMPORTANT: , key: -2803b958'
-            label: Text
-            name: '-2803b958'
-            widget: string
-          - hint: >-
-              Original text: People who self-manage an abortion or obtain pills
-              from alternative sources may face legal risks. For help
-              understanding the potential risks, contact the , key: 7781c6e4
-            label: Text
-            name: 7781c6e4
-            widget: text
-          - hint: 'Original text: Repro Legal Helpline , key: -1af56982'
-            label: Text
-            name: '-1af56982'
-            widget: string
-          - hint: 'Original text: online or at , key: -327a1703'
-            label: Text
-            name: '-327a1703'
-            widget: string
-          - hint: >-
-              Original text: For medical questions about self-managing an
-              abortion, contact the , key: -3996335b
-            label: Text
-            name: '-3996335b'
-            widget: string
-          - hint: 'Original text: Miscarriage and Abortion Hotline, key: 4181f157'
-            label: Text
-            name: 4181f157
-            widget: string
-          - hint: >-
-              Original text:  (a free service). We also provide links to
-              instructions for using the pills in our , key: -fa338cf
-            label: Text
-            name: '-fa338cf'
-            widget: string
-          - hint: "Original text: FAQ\_section, key: 901433b"
-            label: Text
-            name: 901433b
-            widget: string
-          - hint: 'Original text: Remember, key: -1b47b553'
-            label: Text
-            name: '-1b47b553'
-            widget: string
-          - hint: 'Original text: , another option is , key: 66515bbc'
-            label: Text
-            name: 66515bbc
-            widget: string
-          - hint: >-
-              Original text: , a doctor-supported service that mails pills to
-              all states. They provide medical support and also offer discounts.
-              For more information, see the “Telehealth Services” section
-              above., key: 430cec6d
-            label: Text
-            name: 430cec6d
-            widget: text
-          - hint: >-
-              Original text: In-person clinics and abortion providers , key:
-              -34ad859b
-            label: Text
-            name: '-34ad859b'
-            widget: string
-          - hint: >-
-              Original text: For people who would prefer in-person abortion care
-              from a local clinic or provider., key: 4c1c0b81
-            label: Text
-            name: 4c1c0b81
-            widget: string
-          - hint: >-
-              Original text: To find your nearest abortion provider, visit one
-              of these directories:, key: -61accf9a
-            label: Text
-            name: '-61accf9a'
-            widget: string
-          - hint: 'Original text: abortionfinder.org, key: -3079ba0c'
-            label: Text
-            name: '-3079ba0c'
-            widget: string
-          - hint: 'Original text: ineedana.com, key: 626f7108'
-            label: Text
-            name: 626f7108
-            widget: string
-          - hint: 'Original text: myanetwork.org, key: 5defbfcf'
-            label: Text
-            name: 5defbfcf
-            widget: string
-          - hint: 'Original text: Creative ways to access pills , key: 2f744208'
-            label: Text
-            name: 2f744208
-            widget: string
-          - hint: >-
-              Original text: Information about how people in states with
-              restricted access are finding and receiving pills through the
-              mail., key: -71c56ff9
-            label: Text
-            name: '-71c56ff9'
-            widget: text
-          - hint: 'Original text: Map of telehealth abortion services, key: 6ccf0851'
-            label: Text
-            name: 6ccf0851
-            widget: string
-          - hint: >-
-              Original text: States shown in green below offer telehealth
-              abortion services. Find the green state closest to you, then read
-              through options 1-3 below for more information on how to access
-              abortion pills., key: -19ea31db
-            label: Text
-            name: '-19ea31db'
-            widget: text
-          - hint: 'Original text: 1. , key: bda3'
-            label: Text
-            name: bda3
-            widget: string
-          - hint: 'Original text: Mail Forwarding/Virtual Mailbox, key: -380566aa'
-            label: Text
-            name: '-380566aa'
-            widget: string
-          - hint: >-
-              Original text: Rosa lives in Texas where the law makes it hard to
-              find pills by mail. Here is how she used a telemedicine service in
-              another state and a mail forwarding service to get pills mailed to
-              her home., key: -32f6e8f8
-            label: Text
-            name: '-32f6e8f8'
-            widget: text
-          - hint: 'Original text: ‍FIRST, key: -4ac0455d'
-            label: Text
-            name: '-4ac0455d'
-            widget: string
-          - hint: 'Original text: : She checked our , key: 53337be3'
-            label: Text
-            name: 53337be3
-            widget: string
-          - hint: 'Original text: map, key: 1a55c'
-            label: Text
-            name: 1a55c
-            widget: string
-          - hint: >-
-              Original text:  of states. She found a state that has telehealth
-              abortion services. She chose California because it had many
-              services. , key: 67dfb511
-            label: Text
-            name: 67dfb511
-            widget: text
-          - hint: 'Original text: SECOND, key: -6e71c78c'
-            label: Text
-            name: '-6e71c78c'
-            widget: string
-          - hint: >-
-              Original text: : She set up a "virtual mailbox" in California. She
-              used , key: -7406ee07
-            label: Text
-            name: '-7406ee07'
-            widget: string
-          - hint: 'Original text: iPostal1.com, key: e43b030'
-            label: Text
-            name: e43b030
-            widget: string
-          - hint: 'Original text: . Another service is , key: 6d917f9c'
-            label: Text
-            name: 6d917f9c
-            widget: string
-          - hint: 'Original text: Anytime Mailbox, key: 3b67a20d'
-            label: Text
-            name: 3b67a20d
-            widget: string
-          - hint: >-
-              Original text: The cost for a virtual mailbox was about $35. This
-              included $8-10 for one month mailbox rental plus a $25 online
-              notary fee to get it set up. The site provided the notary., key:
-              -27929d6e
-            label: Text
-            name: '-27929d6e'
-            widget: text
-          - hint: 'Original text: She needed to show two forms of ID., key: 334e5468'
-            label: Text
-            name: '334e5468'
-            widget: string
-          - hint: 'Original text: She needed a credit card., key: 5c48d1'
-            label: Text
-            name: 5c48d1
-            widget: string
-          - hint: >-
-              Original text: She needed an email address or phone number. , key:
-              2c0cd22
-            label: Text
-            name: 2c0cd22
-            widget: string
-          - hint: >-
-              Original text: She gave the service her forwarding address in
-              Texas., key: -18614d33
-            label: Text
-            name: '-18614d33'
-            widget: string
-          - hint: 'Original text: It was easy to set up., key: 6406a0e2'
-            label: Text
-            name: 6406a0e2
-            widget: string
-          - hint: >-
-              Original text: It took a few days to get approved. She waited
-              until she was sure it was set up before using the address to get
-              pills. , key: 72005b6a
-            label: Text
-            name: 72005b6a
-            widget: text
-          - hint: 'Original text: THIRD, key: 4c18d47'
-            label: Text
-            name: 4c18d47
-            widget: string
-          - hint: 'Original text: Guide, key: 41f4adc'
-            label: Text
-            name: 41f4adc
-            widget: string
-          - hint: >-
-              Original text:  to find a telehealth abortion in California (where
-              she had the virtual mailbox). , key: 2ce199f5
-            label: Text
-            name: 2ce199f5
-            widget: string
-          - hint: >-
-              Original text: She filled in the online consultation form. She had
-              to show her Texas ID. , key: -7575e942
-            label: Text
-            name: '-7575e942'
-            widget: string
-          - hint: >-
-              Original text: They didn’t ask where she was sitting during the
-              consultation. She had planned to say “California.”, key: -6c8f526
-            label: Text
-            name: '-6c8f526'
-            widget: text
-          - hint: >-
-              Original text: She listed her new virtual mailbox address in
-              California as the , key: -43d97fbb
-            label: Text
-            name: '-43d97fbb'
-            widget: string
-          - hint: 'Original text: shipping address , key: -6f7d9722'
-            label: Text
-            name: '-6f7d9722'
-            widget: string
-          - hint: 'Original text: for the abortion pills. , key: 41a7230a'
-            label: Text
-            name: 41a7230a
-            widget: string
-          - hint: >-
-              Original text: She paid the telehealth fee using a credit card.
-              They asked for the , key: 157cf6b9
-            label: Text
-            name: 157cf6b9
-            widget: string
-          - hint: 'Original text: billing address, key: 50d0af4f'
-            label: Text
-            name: 50d0af4f
-            widget: string
-          - hint: >-
-              Original text:  for the credit card. She gave them her billing
-              address in Texas., key: -4451db4c
-            label: Text
-            name: '-4451db4c'
-            widget: string
-          - hint: 'Original text: FOURTH, key: 7bf45e1a'
-            label: Text
-            name: 7bf45e1a
-            widget: string
-          - hint: >-
-              Original text: : She got an email that a package had arrived at
-              her virtual mailbox in California. , key: 64b436d9
-            label: Text
-            name: 64b436d9
-            widget: string
-          - hint: >-
-              Original text: She asked for it to be forwarded to her home
-              address in Texas. , key: 1a939807
-            label: Text
-            name: 1a939807
-            widget: string
-          - hint: >-
-              Original text: There was a small fee for this (about $5). , key:
-              3e879195
-            label: Text
-            name: '3e879195'
-            widget: string
-          - hint: 'Original text: It was easy., key: 7a5db3e0'
-            label: Text
-            name: 7a5db3e0
-            widget: string
-          - hint: >-
-              Original text: The pills arrived at her home a few days later.,
-              key: 524d4633
-            label: Text
-            name: 524d4633
-            widget: string
-          - hint: 'Original text: FIFTH, key: 3fcad97'
-            label: Text
-            name: 3fcad97
-            widget: string
-          - hint: >-
-              Original text: : She cancelled the virtual mailbox so that she
-              would not be charged another monthly fee., key: -62dde96d
-            label: Text
-            name: '-62dde96d'
-            widget: string
-          - hint: 'Original text: 2. , key: c164'
-            label: Text
-            name: c164
+            name: 416b3bf6
             widget: string
-          - hint: >-
-              Original text: Pick up in a neighboring state that has telehealth
-              abortion, key: -6a286e3a
+          - hint: 'Original text: Sort, key: 2769be'
             label: Text
-            name: '-6a286e3a'
+            name: 2769be
             widget: string
-          - hint: >-
-              Original text: Alex lives in Alabama where laws make it hard to
-              find pills by mail. Here is how they used a telemedicine service
-              in another state and drove across state lines to pick up the
-              pills. , key: -2268ec8d
+          - hint: 'Original text: Delivery Time, key: 18cc2379'
             label: Text
-            name: '-2268ec8d'
-            widget: text
-          - hint: 'Original text: FIRST, key: 3fcda90'
-            label: Text
-            name: 3fcda90
-            widget: string
-          - hint: 'Original text: : They checked our , key: 7036779f'
-            label: Text
-            name: 7036779f
-            widget: string
-          - hint: >-
-              Original text:  of states and found a neighbor state that has
-              telehealth abortion services (Georgia was closest). , key:
-              -1c538d54
-            label: Text
-            name: '-1c538d54'
-            widget: text
-          - hint: >-
-              Original text:  to find a telehealth service in Georgia. , key:
-              -1bea5ca7
-            label: Text
-            name: '-1bea5ca7'
-            widget: string
-          - hint: >-
-              Original text: They filled in the online consultation form. They
-              had to show their Alabama ID. , key: -218965ef
-            label: Text
-            name: '-218965ef'
-            widget: string
-          - hint: >-
-              Original text: When the provider asked where they were sitting
-              during the online call, they said they were in Georgia, just in
-              case that mattered. , key: 11861e46
-            label: Text
-            name: '11861e46'
-            widget: text
-          - hint: >-
-              Original text: They paid the telehealth fee using a credit card.
-              They listed their Alabama address when asked for the , key:
-              52cfd3b
-            label: Text
-            name: 52cfd3b
-            widget: text
-          - hint: 'Original text:  for the credit card. , key: 4e84dea3'
-            label: Text
-            name: 4e84dea3
-            widget: string
-          - hint: >-
-              Original text: : When the provider asked where to send the pills,
-              they gave a friend’s address in Georgia. , key: -6950faa0
-            label: Text
-            name: '-6950faa0'
-            widget: text
-          - hint: >-
-              Original text: They were careful to tell the provider to address
-              the package to their name followed by "c/o Friend's Name" and then
-              the full address. , key: -220ce024
-            label: Text
-            name: '-220ce024'
-            widget: text
-          - hint: >-
-              Original text: This helps the Post Office deliver it correctly.,
-              key: 1699b46e
-            label: Text
-            name: 1699b46e
-            widget: string
-          - hint: >-
-              Original text: Alex also could have used a general delivery post
-              office address (see below). Or they could have gone to the clinic
-              to pick up the pills, but their friend’s house was closer. , key:
-              32998350
-            label: Text
-            name: '32998350'
-            widget: text
-          - hint: >-
-              Original text: : Their friend told them the package arrived. They
-              went to their friend’s house to pick up the package. Their friend
-              offered to re-send the package to them, but it was faster for them
-              to drive. , key: -29f62558
-            label: Text
-            name: '-29f62558'
-            widget: text
-          - hint: >-
-              Original text: : They went home and took the pills. , key:
-              -7b75987c
-            label: Text
-            name: '-7b75987c'
-            widget: string
-          - hint: >-
-              Original text: The provider gave them follow up by phone and text,
-              even though they were back home in Alabama. , key: -432dc070
-            label: Text
-            name: '-432dc070'
-            widget: text
-          - hint: 'Original text: 3. , key: c525'
-            label: Text
-            name: c525
-            widget: string
-          - hint: >-
-              Original text: General Delivery in a Neighboring State that has
-              telehealth abortion, key: -16ab6968
-            label: Text
-            name: '-16ab6968'
-            widget: string
-          - hint: >-
-              Original text: Cindy lives in Arizona where laws make it hard to
-              find pills by mail. Here is how she used a “general delivery”
-              address in another state and drove across state lines to pick up
-              the pills. , key: 5dd0dad
-            label: Text
-            name: 5dd0dad
-            widget: text
-          - hint: >-
-              Original text:  of states and found a neighbor state that has
-              telehealth abortion services (New Mexico was closest to her). ,
-              key: 15fe4253
-            label: Text
-            name: 15fe4253
-            widget: text
-          - hint: >-
-              Original text:  to find a telehealth service in New Mexico. , key:
-              -69910d22
-            label: Text
-            name: '-69910d22'
-            widget: string
-          - hint: >-
-              Original text: She filled in the online consultation form. She had
-              to show her Arizona ID. , key: -222a6ec9
-            label: Text
-            name: '-222a6ec9'
-            widget: string
-          - hint: >-
-              Original text: When the provider asked where she was sitting
-              during the online call, she said she was in New Mexico, just in
-              case that mattered. , key: 562a26ff
-            label: Text
-            name: 562a26ff
-            widget: text
-          - hint: >-
-              Original text: She paid the telehealth fee using a credit card.
-              She listed her Arizona address when asked for the , key: -68570a49
-            label: Text
-            name: '-68570a49'
-            widget: text
-          - hint: >-
-              Original text: : When the provider asked where to send the pills,
-              she gave a “general delivery” address in a town that she could
-              easily get to. , key: 15ef1d40
-            label: Text
-            name: 15ef1d40
-            widget: text
-          - hint: 'Original text: General Delivery, key: -31bfdf94'
-            label: Text
-            name: '-31bfdf94'
-            widget: string
-          - hint: >-
-              Original text:  is a free service at many US Post Offices. It is a
-              way to receive mail when you don’t have a physical address. Here’s
-              how she did it. , key: 34bdd584
-            label: Text
-            name: 34bdd584
-            widget: text
-          - hint: >-
-              Original text: She looked at a map to see what city or town in New
-              Mexico would be easiest to get to., key: -e1fc28c
-            label: Text
-            name: '-e1fc28c'
-            widget: string
-          - hint: 'Original text: She checked the , key: -4b136bc8'
-            label: Text
-            name: '-4b136bc8'
-            widget: string
-          - hint: 'Original text: USPS website, key: -7d9b4f64'
-            label: Text
-            name: '-7d9b4f64'
-            widget: string
-          - hint: >-
-              Original text:  to make sure the post office in that town accepted
-              general delivery mail (some don’t). , key: -fda1810
-            label: Text
-            name: '-fda1810'
-            widget: string
-          - hint: >-
-              Original text: She asked the telehealth service to send the pills
-              to her general delivery address. A general delivery address looks
-              like this: , key: -5302b524
-            label: Text
-            name: '-5302b524'
-            widget: text
-          - hint: >-
-              Original text: Your Name (as it appears on your ID), key:
-              -102b38a7
-            label: Text
-            name: '-102b38a7'
-            widget: string
-          - hint: 'Original text: City, State, Zip Code, key: 9c83652'
-            label: Text
-            name: 9c83652
-            widget: string
-          - hint: >-
-              Original text: : She used the package tracking information
-              provided by the clinic to find out when the package was delivered.
-              Then, she went to the Post Office in New Mexico to pick up the
-              package. , key: -538e006b
-            label: Text
-            name: '-538e006b'
-            widget: text
-          - hint: >-
-              Original text: She made sure to go at a time when the Post Office
-              business window was open. Check hours , key: -6cfecd65
-            label: Text
-            name: '-6cfecd65'
+            name: 18cc2379
             widget: string
-          - hint: >-
-              Original text: . Note: most Post Office business windows are not
-              open on weekends., key: -1250ce48
+          - hint: 'Original text: Filters, key: 30493bdb'
             label: Text
-            name: '-1250ce48'
+            name: 30493bdb
             widget: string
-          - hint: >-
-              Original text: She made sure to take ID that matched the name on
-              the package. , key: 43d4007a
+          - hint: 'Original text: Accepts some insurance, key: 4f816323'
             label: Text
-            name: 43d4007a
+            name: 4f816323
             widget: string
-          - hint: >-
-              Original text: She told them she had a general delivery package
-              and they gave it to her after checking her ID., key: -20281874
-            label: Text
-            name: '-20281874'
-            widget: text
-          - hint: >-
-              Original text: : She returned home and took the pills. , key:
-              -7fdcf3d
-            label: Text
-            name: '-7fdcf3d'
-            widget: string
-          - hint: >-
-              Original text: The provider gave her follow up by phone and text
-              even though she was back home in Arizona. , key: -603f7b14
-            label: Text
-            name: '-603f7b14'
-            widget: text
-          - hint: >-
-              Original text: Are you a provider offering telemedicine?, key:
-              -3b57771c
+          - hint: 'Original text: Accepts Medicaid, key: 61699beb'
             label: Text
-            name: '-3b57771c'
+            name: 61699beb
             widget: string
-          - hint: 'Original text: Yes, can you add me to the guide?, key: -62b53d26'
+          - hint: 'Original text: Offers sliding scale pricing, key: 52ea16d5'
             label: Text
-            name: '-62b53d26'
+            name: 52ea16d5
             widget: string
-          - hint: 'Original text: No, how do I become a provider?, key: -21ab5bc3'
+          - hint: 'Original text: Accepts some insurance plans, key: 6c1d2b2d'
             label: Text
-            name: '-21ab5bc3'
+            name: 6c1d2b2d
             widget: string
           - hint: 'Original text: Jump to a section, key: -7f0c6aad'
             label: Text
@@ -8487,6 +7765,10 @@ collections:
           - hint: 'Original text: Stay Safe:, key: -4afae3a'
             label: Text
             name: '-4afae3a'
+            widget: string
+          - hint: 'Original text: Heading, key: -6d5fea1e'
+            label: Text
+            name: '-6d5fea1e'
             widget: string
           - hint: 'Original text: California, key: 56f3e2d8'
             label: Text
@@ -9722,62 +9004,6 @@ collections:
             label: Link
             name: '-30e91634'
             widget: string
-          - hint: 'Original link: https://INeedAnA.com, key: -3583fee9'
-            label: Link
-            name: '-3583fee9'
-            widget: string
-          - hint: >-
-              Original link:
-              https://www.reprolegalhelpline.org/contact-the-helpline/, key:
-              -1df8a4ae
-            label: Link
-            name: '-1df8a4ae'
-            widget: string
-          - hint: 'Original link: tel:8448682812, key: 656f7e8'
-            label: Link
-            name: 656f7e8
-            widget: string
-          - hint: 'Original link: http://www.mahotline.org, key: -2a63fcc6'
-            label: Link
-            name: '-2a63fcc6'
-            widget: string
-          - hint: 'Original link: http://www.aidaccess.org/, key: -761b53de'
-            label: Link
-            name: '-761b53de'
-            widget: string
-          - hint: 'Original link: https://ineedana.com, key: -42ea2a9'
-            label: Link
-            name: '-42ea2a9'
-            widget: string
-          - hint: 'Original link: https://myanetwork.org, key: 2687d45e'
-            label: Link
-            name: 2687d45e
-            widget: string
-          - hint: 'Original link: http://ipostal1.com/, key: 69d2c50d'
-            label: Link
-            name: 69d2c50d
-            widget: string
-          - hint: 'Original link: https://www.anytimemailbox.com/, key: -1dc86985'
-            label: Link
-            name: '-1dc86985'
-            widget: string
-          - hint: >-
-              Original link:
-              https://faq.usps.com/s/article/What-is-General-Delivery, key:
-              72f5519c
-            label: Link
-            name: 72f5519c
-            widget: string
-          - hint: >-
-              Original link: https://tools.usps.com/find-location.htm, key:
-              58d25363
-            label: Link
-            name: 58d25363
-            widget: string
-          - hint: 'Original link: https://forms.gle/jkxopdaTRG2aSpT3A, key: -49b1d1bb'
-            label: Link
-            name: '-49b1d1bb'
-            widget: string
           - hint: 'Original link: #CTA, key: 10eeed'
             label: Link
             name: 10eeed
@@ -10134,6 +9360,19 @@ collections:
                 required: false
           - label: Image
             name: i1ee2c9e1
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3db26ff5
             widget: object
             fields:
               - name: url
@@ -10809,7 +10048,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 1bb30f80
+            name: '-5a80560c'
             widget: object
             fields:
               - name: url
@@ -11602,7 +10841,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 57ceca3d
+            name: 7e3ad28e
             widget: object
             fields:
               - name: url
@@ -11615,46 +10854,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2342670a
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 524876ae
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 55b0c645
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6d6e2995
+            name: '49296216'
             widget: object
             fields:
               - name: url

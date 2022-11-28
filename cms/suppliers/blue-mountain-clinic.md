@@ -47,6 +47,8 @@ published-on: '2022-10-04T17:12:31.301Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

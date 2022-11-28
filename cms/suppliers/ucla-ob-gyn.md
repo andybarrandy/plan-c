@@ -43,6 +43,8 @@ published-on: '2022-11-15T22:32:33.971Z'
 f_contact-phone: '3108255961'
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

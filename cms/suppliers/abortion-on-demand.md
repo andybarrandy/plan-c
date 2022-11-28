@@ -8,9 +8,9 @@ f_ship-time-details: Depends on time of order and waiting requirements in some s
 f_display-name: Abortion on Demand
 f_ship-time: 1-3 days
 slug: abortion-on-demand
-updated-on: '2022-10-03T22:39:49.214Z'
+updated-on: '2022-11-28T06:34:31.320Z'
 created-on: '2021-01-08T21:20:44.661Z'
-published-on: '2022-10-03T22:39:49.214Z'
+published-on: '2022-11-28T06:43:46.908Z'
 f_states-test:
   - cms/states/california.md
   - cms/states/washington.md
@@ -62,6 +62,9 @@ f_financial-assistance-details: "Financial assistance available\n\nMust be physi
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: true
+f_additional-bullet-point-information: "Must be physically located in state at the time of video consultation\n\nDoes not ship to PO\_Box or General Delivery addresses"
 layout: '[suppliers].html'
 tags: suppliers
 ---

@@ -4,9 +4,9 @@ title: Aid Access (US)
 f_cost: $150 or less
 f_ship-time: 2-3 days
 slug: aid-access-local
-updated-on: '2022-10-05T21:48:14.253Z'
+updated-on: '2022-11-27T22:09:11.088Z'
 created-on: '2020-10-14T23:47:38.230Z'
-published-on: '2022-10-05T21:48:14.253Z'
+published-on: '2022-11-27T23:10:24.841Z'
 f_display-name: Aid Access
 f_legal-level-text: 'No'
 f_tier: 1
@@ -51,6 +51,8 @@ f_financial-assistance-details: Financial assistance available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

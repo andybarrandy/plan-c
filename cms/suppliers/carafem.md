@@ -4,9 +4,9 @@ title: carafem DC, VA, NJ, CT, VT, NV, MA, RI, CO, DE, NM, MN
 f_cost: $250-375
 f_ship-time: 1-3 days
 slug: carafem
-updated-on: '2022-10-03T22:45:50.470Z'
+updated-on: '2022-11-28T06:40:25.479Z'
 created-on: '2020-10-31T19:19:20.520Z'
-published-on: '2022-10-03T22:45:50.470Z'
+published-on: '2022-11-28T06:43:46.908Z'
 f_display-name: Abortion at Home by carafem
 f_legal-level-text: 'No'
 f_tier: 1
@@ -50,6 +50,8 @@ f_financial-assistance-details: Financial assistance available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

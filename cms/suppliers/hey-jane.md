@@ -5,9 +5,9 @@ f_cost: $199-409
 f_ship-time-details: Depends on selected shipping method
 f_ship-time: 3-5 days
 slug: hey-jane
-updated-on: '2022-11-22T21:51:46.444Z'
+updated-on: '2022-11-28T06:40:11.008Z'
 created-on: '2020-10-31T19:19:20.233Z'
-published-on: '2022-11-22T21:51:46.444Z'
+published-on: '2022-11-28T06:43:46.908Z'
 f_display-name: Hey Jane
 f_legal-level-text: 'No'
 f_tier: 1
@@ -68,8 +68,10 @@ f_financial-assistance-details: |-
 f_contact-email: rebecca@heyjane.co
 f_contact-name: Rebecca Davis
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
+f_accepts-insurance: true
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: true
 layout: '[suppliers].html'
 tags: suppliers
 ---

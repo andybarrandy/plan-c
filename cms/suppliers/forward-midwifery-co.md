@@ -41,12 +41,14 @@ f_includes:
   - cms/supplier-options/online-consultation-by-form.md
   - cms/supplier-options/virtual-visits-by-phone-or-video-on-request.md
   - cms/supplier-options/ad1.md
-updated-on: '2022-10-03T22:49:21.890Z'
+updated-on: '2022-11-28T06:40:54.886Z'
 created-on: '2022-01-12T19:57:09.155Z'
-published-on: '2022-10-03T22:49:21.890Z'
+published-on: '2022-11-28T06:43:46.908Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: true
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

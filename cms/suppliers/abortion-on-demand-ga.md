@@ -46,6 +46,8 @@ f_financial-assistance-details: "Does not ship to PO\_Box or General Delivery ad
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers
 ---

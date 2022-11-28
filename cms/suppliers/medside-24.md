@@ -4,9 +4,9 @@ title: Medside 24
 f_cost: $195
 f_ship-time: 12-13 days
 slug: medside-24
-updated-on: '2022-10-03T23:05:26.612Z'
+updated-on: '2022-11-28T06:37:44.221Z'
 created-on: '2020-10-31T19:19:23.201Z'
-published-on: '2022-10-03T23:05:26.612Z'
+published-on: '2022-11-28T06:43:46.908Z'
 f_display-name: Medside 24
 f_legal-level-text: 'Yes'
 f_states-test:
@@ -94,6 +94,8 @@ f_tier: 3
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
+f_offers-sliding-scale-pricing: false
+f_list-on-test-results-page: true
 layout: '[suppliers].html'
 tags: suppliers
 ---
