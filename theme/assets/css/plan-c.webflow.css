@@ -13313,6 +13313,11 @@ figcaption {
   }
 }
 
+#w-node-_5e4a48a1-8f77-5ea9-48d6-ee43b2fc4f8d-bcac6674 {
+  -ms-grid-column-align: end;
+  justify-self: end;
+}
+
 #w-node-_07f28500-8fb8-798f-1bd2-1cb6a7120e63-bcac6674 {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
