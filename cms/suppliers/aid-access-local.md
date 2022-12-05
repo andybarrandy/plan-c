@@ -4,9 +4,9 @@ title: Aid Access (US)
 f_cost: $150 or less
 f_ship-time: 2-3 days
 slug: aid-access-local
-updated-on: '2022-11-27T22:09:11.088Z'
+updated-on: '2022-12-01T18:01:14.061Z'
 created-on: '2020-10-14T23:47:38.230Z'
-published-on: '2022-11-27T23:10:24.841Z'
+published-on: '2022-12-01T18:01:14.061Z'
 f_display-name: Aid Access
 f_legal-level-text: 'No'
 f_tier: 1
@@ -26,6 +26,8 @@ f_states-test:
   - cms/states/connecticut.md
   - cms/states/new-hampshire.md
   - cms/states/minnesota.md
+  - cms/states/hawaii.md
+  - cms/states/rhode-island.md
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/online-consultation-by-form.md

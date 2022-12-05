@@ -5,7 +5,7 @@ f_url: https://www.pillsbypost.com
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_tier: 1
 f_legal-level-text: 'No'
-f_gestational-age-dropdown: For pregnancies up to 11 weeks
+f_gestational-age-dropdown: For pregnancies up to 12 weeks
 f_ages-served: 14+
 f_ship-time-low-limit: 2
 f_cost-sort: 150
@@ -25,9 +25,9 @@ f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/ad1.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-10-03T22:57:28.651Z'
+updated-on: '2022-12-01T21:08:20.351Z'
 created-on: '2022-04-08T23:18:14.390Z'
-published-on: '2022-10-03T22:57:28.651Z'
+published-on: '2022-12-01T21:08:20.351Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false

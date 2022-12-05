@@ -362,12 +362,12 @@ UL.hs-error-msgs LI {
         <div id="w-node-_6098f1f8-5705-af5c-4490-230c61701d3d-bcac6674" data-w-id="6098f1f8-5705-af5c-4490-230c61701d3d" class="card-white-self col-2">
           <h3 class="section-h4 home-faq">{{ texts.6f1d68f9 }}</h3>
           <div class="home-faq-bar card-2"></div><img src="{{ images.3df87b52.url }}" loading="lazy" alt="{{ images.3df87b52.alt | trim | escape }}" class="home-faq-card-image">
-          <h5 class="h4-centered">{{ texts.7ddfc249 }}</h5>
+          <h4 class="h4-centered">{{ texts.7ddfc249 }}</h4>
         </div>
         <div id="w-node-_6098f1f8-5705-af5c-4490-230c61701d44-bcac6674" data-w-id="6098f1f8-5705-af5c-4490-230c61701d44" class="card-white-self col-3">
           <h3 class="section-h4 home-faq">{{ texts.7c26a630 }}</h3>
           <div class="home-faq-bar"></div><img src="{{ images.e51ddf9.url }}" loading="lazy" alt="{{ images.e51ddf9.alt | trim | escape }}" class="home-faq-card-image card3">
-          <h5 class="h4-centered">{{ texts.-542ad0a2 }}</h5>
+          <h4 class="h4-centered">{{ texts.-542ad0a2 }}</h4>
         </div>
         <div id="w-node-_6098f1f8-5705-af5c-4490-230c61701d4b-bcac6674" class="card-grey-self">
           <div class="faq-list w-richtext">
@@ -451,33 +451,36 @@ UL.hs-error-msgs LI {
     </div>
     <div data-w-id="a1b8812c-32b9-1704-f9de-b6f194290a58" style="opacity:0" class="cards-bottom-cta"></div>
   </div>
-  <div class="page-section news-alert hide wf-section">
-    <div class="_850-container">
-      {%- assign collection = collections.press | filter: "f_tags,idin,cms/media-tags/alert.md", "ALL", page.inputPath | sort: "-f_date" | limit: 1 -%}<div class="w-dyn-list">
-        {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
-          {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-            <h6 class="slate-grey">{{ texts.79d8a3cc }}</h6>
-            <h4>{{ item.data.title }}</h4>
-            <p class="hero-paragraph">{{ item.data.f_excerpt }}</p>
-            <p class="hero-paragraph">
-              <a href="{{ item.url }}"><strong>{{ texts.-56352af }}</strong></a><br>
-            </p>
-          </div>{%- endfor -%}
-        </div>{%- endunless -%}
-        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-          <div>{{ texts.3d503d2b }}</div>
-        </div>{%- endif -%}
+  <div class="page-section pills-in-advance wf-section">
+    <div class="_950-container pills-in-advance"><img src="{{ images.1466d13d.url }}" loading="lazy" alt="{{ images.1466d13d.alt | trim | escape }}">
+      <div>
+        <div class="rich-text-pills-in-advance w-richtext">
+          <h2>{{ texts.2b98206d }}</h2>
+          <p>{{ texts.759bdfdd }}</p>
+          <p><strong>{{ texts.-5b20022c }}<sub>{{ texts.313c79 }}</sub>{{ texts.1e1567f4 }}</strong></p>
+        </div>
+        <a data-w-id="5b2f3d71-81c4-01c6-d330-08d371f7f5c2" href="{{ links.1b2792b5 }}" class="h3-link w-inline-block">
+          <div class="h3-link-wrapper">
+            <h3 class="h3-link-text">{{ texts.-204c7649 }}</h3>
+            <div class="h3-link-arrow w-embed"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <style type="text/css">
+	.st0{fill:CurrentColor;}
+</style>
+                <path class="st0" d="M30 15C30 6.71719 23.2838 0 15 0C6.71625 0 0 6.71625 0 15C0 23.2838 6.71625 30 15 30C23.2838 30 30 23.2828 30 15ZM13.6266 21.99C12.9272 21.2906 12.9272 20.1591 13.6266 19.4597L16.245 16.8741H9.31687C8.31281 16.8741 7.5 16.0613 7.5 15.0581V14.9409C7.5 13.9378 8.31281 13.125 9.31687 13.125H16.2197L13.6266 10.5619C12.9272 9.8625 12.9272 8.73094 13.6266 8.03156C14.3334 7.33594 15.4762 7.33219 16.1831 8.03156L21.9544 13.7484C22.6537 14.4441 22.6537 15.5794 21.9544 16.2778L16.1831 21.9909C15.4762 22.6894 14.3334 22.6894 13.6266 21.99Z"></path>
+              </svg></div>
+          </div>
+        </a>
       </div>
     </div>
   </div>
   <div class="page-section dark wf-section">
     <div class="_850-container">
       <div class="w-layout-grid home-disclaimer-grid">
-        <div id="w-node-fff9fbc3-38e5-9c21-4903-14a4c599e905-bcac6674" class="home-disclaimer-heading">
+        <div id="w-node-_07f28500-8fb8-798f-1bd2-1cb6a7120e5e-bcac6674" class="home-disclaimer-heading">
           <div class="disclaimer-heading">{{ texts.-7dad1a21 }}</div>
           <h2 class="section-h2 white">{{ texts.4437fd7b }}</h2>
         </div>
-        <div id="w-node-aff248d8-155a-81f6-e366-352fba5adb90-bcac6674" class="rich-text-white w-richtext">
+        <div id="w-node-_07f28500-8fb8-798f-1bd2-1cb6a7120e63-bcac6674" class="rich-text-white w-richtext">
           <p><strong>{{ texts.125a669d }}</strong>{{ texts.200d }}</p>
           <p>{{ texts.200d }}<strong>{{ texts.1a02ae30 }}</strong>{{ texts.-ec2afb6 }}</p>
         </div>
@@ -487,7 +490,7 @@ UL.hs-error-msgs LI {
   <div class="lightbox-section wf-section">
     <div class="w-layout-grid home-about-us-video">
       <a href="{{ links.23 }}" id="w-node-_0d80be74-0a7a-dbb8-9ceb-ddaf7e3ca287-bcac6674" class="video-lightbox w-inline-block w-lightbox">
-        <div class="video-lightbox-wrapper"><img src="{{ images.21372579.url }}" loading="lazy" alt="{{ images.21372579.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="home-lightbox-thumbnail">
+        <div class="video-lightbox-wrapper"><img src="{{ images.21372579.url }}" loading="lazy" alt="{{ images.21372579.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:707,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;707px&quot;}]" class="home-lightbox-thumbnail">
           <div class="home-lightbox-overlay with-background">
             <h2 class="section-h3 white video-overlay">{{ texts.4421e5ab }}</h2><img src="{{ images.-3326753c.url }}" loading="lazy" alt="{{ images.-3326753c.alt | trim | escape }}" class="play-button">
           </div>
@@ -540,7 +543,7 @@ UL.hs-error-msgs LI {
             </a>
           </div>
         </div>
-        <div class="home-take-action-column w-col w-col-5"><img src="{{ images.590056b.url }}" loading="lazy" width="278.5" data-w-id="4174a32e-08c9-c195-47eb-d0571639acee" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;27vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" alt="{{ images.590056b.alt | trim | escape }}" class="home-take-action-image"></div>
+        <div class="home-take-action-column w-col w-col-5"><img src="{{ images.-cf28949.url }}" loading="lazy" width="278.5" data-w-id="4174a32e-08c9-c195-47eb-d0571639acee" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;27vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" alt="{{ images.-cf28949.alt | trim | escape }}" class="home-take-action-image"></div>
       </div>
     </div>
   </div>
@@ -565,7 +568,7 @@ UL.hs-error-msgs LI {
         </div>
         <div class="prefooter-column right left-aligned w-col w-col-6">
           <div class="prefooter-column-inner">
-            <h6 class="cta-h6">{{ texts.-41e36acf }}</h6>
+            <p class="cta-h6"><strong>{{ texts.28dd8491 }}</strong></p>
             <a data-w-id="edb76da8-3cbb-702b-9d58-47aa0711b4cb" href="{{ links.5664243e }}" class="h3-link w-inline-block">
               <div class="h3-link-wrapper">
                 <h2 class="h3-link-text h3-link-text-light">{{ texts.65e4d7 }}</h2>
@@ -580,10 +583,10 @@ UL.hs-error-msgs LI {
             <div class="footer-social-row home-cta">
               <div class="footer-textblock prefooter">{{ texts.3a82d26f }}<a href="{{ links.10a5f41f }}" target="_blank" class="site-credit-link">{{ texts.6cb7e480 }}</a>
               </div>
-              <a href="{{ links.10a5f41f }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-6019cb11.url }}" loading="lazy" alt="{{ images.-6019cb11.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
-              <a href="{{ links.65d90418 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.15e467b0.url }}" loading="lazy" alt="{{ images.15e467b0.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
-              <a href="{{ links.64320230 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-3928c041.url }}" loading="lazy" alt="{{ images.-3928c041.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
-              <a href="{{ links.88e362a }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.7c9559f7.url }}" loading="lazy" alt="{{ images.7c9559f7.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.10a5f41f }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-6019cb11.url }}" loading="lazy" alt="{{ images.-6019cb11.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;39vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;25px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;3vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;25px&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.65d90418 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.15e467b0.url }}" loading="lazy" alt="{{ images.15e467b0.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;39vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;25px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;3vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;25px&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.64320230 }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.-3928c041.url }}" loading="lazy" alt="{{ images.-3928c041.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;39vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;25px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;3vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;25px&quot;}]" class="footer-social-logo"></a>
+              <a href="{{ links.88e362a }}" target="_blank" class="footer-socal-linkblock w-inline-block"><img src="{{ images.7c9559f7.url }}" loading="lazy" alt="{{ images.7c9559f7.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;39vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;25px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;3vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;25px&quot;}]" class="footer-social-logo"></a>
             </div>
           </div>
         </div>
@@ -763,6 +766,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });

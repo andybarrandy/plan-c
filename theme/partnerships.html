@@ -291,7 +291,7 @@ UL.hs-error-msgs LI {
       </div>
     </div>
   </div>
-  <div id="onboarding" class="page-section pink low-padding-top wf-section"><img class="absolute-image-right" src="{{ images.590056b.url }}" width="278.5" alt="{{ images.590056b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;200px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;278.5px&quot;}]" style="opacity:0" data-w-id="af15f143-db3f-8f66-e487-98ef5b7472d3" loading="lazy">
+  <div id="onboarding" class="page-section pink low-padding-top wf-section"><img class="absolute-image-right" src="{{ images.-cf28949.url }}" width="278.5" alt="{{ images.-cf28949.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;200px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;278.5px&quot;}]" style="opacity:0" data-w-id="af15f143-db3f-8f66-e487-98ef5b7472d3" loading="lazy">
     <div class="_1200-container centered">
       <div class="section-heading-wrapper">
         <h2 class="section-h2 ambassador-faq">{{ texts.-58e5ab95 }}</h2>
@@ -594,6 +594,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });

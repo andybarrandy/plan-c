@@ -386,6 +386,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
           // format time here
           inputElementValue = getCurrentDateFormatted();
         }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
+        }
         formValues[inputElementName] = inputElementValue;
       });
     var portalId = currentForm.getAttribute("hubspot-portal-id");

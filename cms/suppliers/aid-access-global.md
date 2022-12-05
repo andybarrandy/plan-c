@@ -4,9 +4,9 @@ title: Aid Access (INTL)
 f_cost: $110 or less
 f_ship-time: 14-21 days
 slug: aid-access-global
-updated-on: '2022-11-16T18:20:36.844Z'
+updated-on: '2022-12-01T18:00:38.086Z'
 created-on: '2020-10-11T22:03:55.516Z'
-published-on: '2022-11-16T18:20:36.844Z'
+published-on: '2022-12-01T18:00:38.086Z'
 f_display-name: Aid Access
 f_legal-level-text: 'Yes'
 f_tier: 3
@@ -44,8 +44,6 @@ f_states-test:
   - cms/states/wisconsin.md
   - cms/states/wyoming.md
   - cms/states/washington-dc.md
-  - cms/states/hawaii.md
-  - cms/states/rhode-island.md
   - cms/states/idaho.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_should-this-appear-under-pills-by-mail-without-clinician-support: false

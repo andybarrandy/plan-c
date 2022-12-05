@@ -210,7 +210,7 @@ UL.hs-error-msgs LI {
   <div class="color-logo-hero providers wf-section">
     <div class="providers-hero-stripe"></div>
     <div class="off-center-hero-wrapper">
-      <div class="w-layout-grid hero-grid"><img class="absolute-hero-image take-action" src="{{ images.590056b.url }}" width="278.5" alt="{{ images.590056b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;586px&quot;}]" style="opacity:0" data-w-id="88538c17-30fc-9433-68cc-d0d5e3c07151" id="w-node-_88538c17-30fc-9433-68cc-d0d5e3c07151-b06d801c" loading="lazy">
+      <div class="w-layout-grid hero-grid"><img class="absolute-hero-image take-action" src="{{ images.-cf28949.url }}" width="278.5" alt="{{ images.-cf28949.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;586px&quot;}]" style="opacity:0" data-w-id="88538c17-30fc-9433-68cc-d0d5e3c07151" id="w-node-_88538c17-30fc-9433-68cc-d0d5e3c07151-b06d801c" loading="lazy">
         <div id="w-node-_6c6c09a3-7658-90d2-c6b4-e5df3da79fa0-b06d801c" class="card-hero-content">
           <h1 class="hero-h1 wide">{{ texts.7f9f4576 }}</h1>
           <div class="w-richtext">
@@ -430,6 +430,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });

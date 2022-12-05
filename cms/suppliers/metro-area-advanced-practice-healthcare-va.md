@@ -7,9 +7,9 @@ f_cost: $150
 f_display-name: Metro Area Advanced Practice Healthcare
 f_ship-time: 3 days
 slug: metro-area-advanced-practice-healthcare-va
-updated-on: '2022-11-22T22:06:49.962Z'
+updated-on: '2022-12-01T21:05:17.845Z'
 created-on: '2021-07-09T19:15:18.895Z'
-published-on: '2022-11-22T22:06:49.962Z'
+published-on: '2022-12-01T21:05:17.845Z'
 f_states-test:
   - cms/states/virginia.md
 f_ages-served: 18+
@@ -31,7 +31,7 @@ f_financial-assistance-details: Financial assistance available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
-f_offers-sliding-scale-pricing: false
+f_offers-sliding-scale-pricing: true
 f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers

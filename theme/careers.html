@@ -297,7 +297,7 @@ UL.hs-error-msgs LI {
             </a>
           </div>
         </div>
-        <div class="home-take-action-column w-col w-col-5"><img src="{{ images.590056b.url }}" loading="lazy" width="278.5" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;27vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" alt="{{ images.590056b.alt | trim | escape }}" class="home-take-action-image"></div>
+        <div class="home-take-action-column w-col w-col-5"><img src="{{ images.-cf28949.url }}" loading="lazy" width="278.5" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;27vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" alt="{{ images.-cf28949.alt | trim | escape }}" class="home-take-action-image"></div>
       </div>
     </div>
   </div>
@@ -472,6 +472,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });

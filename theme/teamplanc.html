@@ -239,24 +239,15 @@ UL.hs-error-msgs LI {
         <h2>{{ texts.17a4e6e2 }}</h2>
         <p>{{ texts.35629c56 }}</p>
       </div>
-      <div id="hb-form-1" class="hubspot-form-wrapper-narrow w-embed w-script">
-        <script>
-/*
-window.addEventListener('load', function() {
-    // your code here
-hbspt.forms.create({
-    region: "na1",
-    portalId: "8779019",
-    formId: "6018bf96-8f73-4969-bfe6-21ef6f951a0b",
-    version: "V2_PRERELEASE",
-    cssClass: "hs-form-linear-ext",
-  });
-});*/
-</script>
-      </div>
       <div id="wf-form-Newsletter-Take-action" class="margin-bottom w-form">
-        <form id="wf-form-teamplanc-signup" name="wf-form-teamplanc-signup" data-name="teamplanc_signup" action="https://schusterman.us3.list-manage.com/subscribe/post?u=01b1704757b98f6e0e6a2f863&amp;amp;id=e5433c4107" method="post" class="form center" data-ajax="true"><input type="email" class="text-field short-new w-input" maxlength="256" name="EMAIL-7" data-name="EMAIL 7" placeholder="Your Email" id="EMAIL-7" required=""><input type="submit" value="Sign Up" data-wait="Please wait..." class="button submit email w-button"></form>
-        <div class="success-message w-form-done">
+        <form method="post" class="form center" hubspot-portal-id="8779019" name="wf-form-teamplanc-signup" hubspot-form-id="cc951d3a-ffa8-4dcb-9f74-b165efddd450" data-name="teamplanc_signup" action="/" hubspot="form" id="wf-form-teamplanc-signup" data-ajax="true"><input type="email" class="text-field short-new w-input" maxlength="256" name="email" data-name="email" placeholder="Your Email" hubspot="element" id="email-8" required=""><input type="submit" value="Sign Up" data-wait="Please wait..." class="button submit email w-button">
+          <div class="w-embed">
+            <!-- <input type="hidden" hubspot="element" data-name="source" name="source" value="Newsletter Signup"> -->
+            <input type="hidden" hubspot="element" data-name="add_me_to_the_newsletter_list" name="add_me_to_the_newsletter_list" value="on">
+            <input type="hidden" hubspot="element" data-name="datetime_stamp" name="datetime_stamp" value="">
+          </div>
+        </form>
+        <div class="success-message-white w-form-done">
           <div>{{ texts.5a0ea5a1 }}</div>
         </div>
         <div class="error-message w-form-fail">
@@ -313,7 +304,7 @@ hbspt.forms.create({
       <div class="_1200-container ig-posts">
         {%- assign collection = collections.social-posts | filter: "f_category,eq,IG Story; f_which-page-s-should-this-appear-on,idin,cms/social-toolkit-pages/teamplanc.md", "ALL", page.inputPath | sort: "f_sort" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="ig-story-grid w-dyn-items">
-            {%- for item in collection -%}<div role="listitem" class="ig-story-item w-dyn-item"><img src="{{ item.data.f_image.url }}" loading="lazy" alt="{{ item.data.f_image.alt }}" class="ig-story-image"></div>{%- endfor -%}
+            {%- for item in collection -%}<div role="listitem" class="ig-story-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;28vw&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="ig-story-image"></div>{%- endfor -%}
           </div>{%- endunless -%}
           {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.3d503d2b }}</div>
@@ -327,7 +318,7 @@ hbspt.forms.create({
       <div class="_1200-container ig-posts">
         {%- assign collection = collections.social-posts | filter: "f_category,eq,IG Story w Caption; f_which-page-s-should-this-appear-on,idin,cms/social-toolkit-pages/teamplanc.md", "ALL", page.inputPath | sort: "-updated-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="ig-story-grid w-dyn-items">
-            {%- for item in collection -%}<div role="listitem" class="ig-story-item w-dyn-item"><img src="{{ item.data.f_image.url }}" loading="lazy" alt="{{ item.data.f_image.alt }}" class="ig-story-image"></div>{%- endfor -%}
+            {%- for item in collection -%}<div role="listitem" class="ig-story-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;28vw&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="ig-story-image"></div>{%- endfor -%}
           </div>{%- endunless -%}
           {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.3d503d2b }}</div>
@@ -348,7 +339,7 @@ hbspt.forms.create({
         </div>
         {%- assign collection = collections.social-posts | filter: "f_category,eq,IG Story Blank; f_which-page-s-should-this-appear-on,idin,cms/social-toolkit-pages/teamplanc.md", "ALL", page.inputPath | sort: "-updated-on" -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="ig-story-grid w-dyn-items">
-            {%- for item in collection -%}<div role="listitem" class="ig-story-item w-dyn-item"><img src="{{ item.data.f_image.url }}" loading="lazy" alt="{{ item.data.f_image.alt }}" class="ig-story-image"></div>{%- endfor -%}
+            {%- for item in collection -%}<div role="listitem" class="ig-story-item w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;28vw&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="ig-story-image"></div>{%- endfor -%}
           </div>{%- endunless -%}
           {%- if collection.length == 0 -%}<div class="w-dyn-empty">
             <div>{{ texts.3d503d2b }}</div>
@@ -364,7 +355,7 @@ hbspt.forms.create({
           {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
               <div class="ig-post-container">
-                <div class="ig-post-row"><img src="{{ item.data.f_image.url }}" loading="lazy" alt="{{ item.data.f_image.alt }}" class="ig-post-thumbnail">
+                <div class="ig-post-row"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;37vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;380px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="ig-post-thumbnail">
                   <div class="faq-content-text ig-posts">
                     <div class="italics-header">{{ texts.-fc1946f }}</div>
                     <div class="faq-paragraph spread-the-word w-richtext">{{ item.templateContent | markdown | markdown }}</div>
@@ -637,6 +628,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });

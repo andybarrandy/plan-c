@@ -2070,9 +2070,9 @@ collections:
             label: Text
             name: '-58b97c31'
             widget: string
-          - hint: 'Original text: Become an ambassador, key: 2a203c2b'
+          - hint: 'Original text: Join our community, key: -698d3041'
             label: Text
-            name: 2a203c2b
+            name: '-698d3041'
             widget: string
           - hint: 'Original text: Partner with us, key: b14c0c0'
             label: Text
@@ -2298,17 +2298,34 @@ collections:
             label: Text
             name: '-27908841'
             widget: string
-          - hint: 'Original text: Latest News, key: 79d8a3cc'
+          - hint: 'Original text: What is “Pills in Advance?”, key: 2b98206d'
             label: Text
-            name: 79d8a3cc
+            name: 2b98206d
             widget: string
-          - hint: 'Original text: Read More →, key: -56352af'
+          - hint: >-
+              Original text: Our research shows that people in the US are
+              starting to order abortion pills in advance, to have on hand in
+              case of a missed period., key: 759bdfdd
             label: Text
-            name: '-56352af'
+            name: 759bdfdd
+            widget: text
+          - hint: >-
+              Original text: Many of the providers listed in our guide offer
+              pills in advance, just look for this , key: -5b20022c
+            label: Text
+            name: '-5b20022c'
             widget: string
-          - hint: 'Original text: No items found., key: 3d503d2b'
+          - hint: 'Original text: icon, key: 313c79'
             label: Text
-            name: 3d503d2b
+            name: 313c79
+            widget: string
+          - hint: 'Original text:  in the listing., key: 1e1567f4'
+            label: Text
+            name: 1e1567f4
+            widget: string
+          - hint: 'Original text: Get Pills in Advance, key: -204c7649'
+            label: Text
+            name: '-204c7649'
             widget: string
           - hint: 'Original text: Disclaimer:, key: -7dad1a21'
             label: Text
@@ -2399,9 +2416,9 @@ collections:
             label: Text
             name: '-5942ea5b'
             widget: string
-          - hint: 'Original text: latest updates, key: -41e36acf'
+          - hint: "Original text: LATEST\_UPDATES, key: 28dd8491"
             label: Text
-            name: '-41e36acf'
+            name: 28dd8491
             widget: string
           - hint: "Original text: Plan C in the News\_, key: 65e4d7"
             label: Text
@@ -2458,9 +2475,9 @@ collections:
             label: Text
             name: 70ab6fef
             widget: string
-          - hint: 'Original text: Become an Ambassador, key: -5f0de7b5'
+          - hint: 'Original text: Join our Community, key: de4ef9f'
             label: Text
-            name: '-5f0de7b5'
+            name: de4ef9f
             widget: string
           - hint: 'Original text: Stickers & Flyers, key: 63fe1357'
             label: Text
@@ -2722,6 +2739,10 @@ collections:
             label: Text
             name: 4ed245b
             widget: string
+          - hint: 'Original text: No items found., key: 3d503d2b'
+            label: Text
+            name: 3d503d2b
+            widget: string
           - hint: >-
               Original text: This is not legal or medical advice and does not
               substitute for the representation of an attorney or the advice of
@@ -2877,32 +2898,6 @@ collections:
                               , key: 68e7b3a
             label: Text
             name: 68e7b3a
-            widget: string
-          - hint: >-
-              Original text: There are several ways people get abortion pills in
-              this state., key: -2c49659
-            label: Text
-            name: '-2c49659'
-            widget: string
-          - hint: |-
-              Original text: ($105 or less, 3 week delivery, clinician support)
-                              , key: 3fa85adb
-            label: Text
-            name: 3fa85adb
-            widget: string
-          - hint: >-
-              Original text: ($200-$470, 4-5 day delivery possible, no clinician
-              support)
-                              , key: -291723cc
-            label: Text
-            name: '-291723cc'
-            widget: string
-          - hint: >-
-              Original text: ($200-$300 or less, 1 week delivery, clinician
-              support)
-                              , key: 5fe7ca9
-            label: Text
-            name: 5fe7ca9
             widget: string
           - hint: 'Original text: Pickup in Mexico, key: 2c504fac'
             label: Text
@@ -3521,36 +3516,6 @@ collections:
             label: Text
             name: 4bccdb7a
             widget: string
-          - hint: 'Original text: How to donate to Plan C:, key: 5382adc5'
-            label: Text
-            name: 5382adc5
-            widget: string
-          - hint: 'Original text: Click below to visit the , key: 495579e2'
-            label: Text
-            name: '495579e2'
-            widget: string
-          - hint: 'Original text: National Women''s Health Network, key: -376ae832'
-            label: Text
-            name: '-376ae832'
-            widget: string
-          - hint: 'Original text:  donation page, key: -411b15c3'
-            label: Text
-            name: '-411b15c3'
-            widget: string
-          - hint: 'Original text: Click "Donate Now", key: 2d179973'
-            label: Text
-            name: 2d179973
-            widget: string
-          - hint: 'Original text: Select Plan C, key: 22f064b0'
-            label: Text
-            name: 22f064b0
-            widget: string
-          - hint: >-
-              Original text:  from the drop down menu when entering your
-              information., key: 7945d10
-            label: Text
-            name: 7945d10
-            widget: string
           - hint: >-
               Original text: Your approach is evidence-based and innovative, and
               your organization small and bold - the kind of organization where
@@ -4102,31 +4067,29 @@ collections:
             label: Text
             name: '-5a1efd11'
             widget: string
-          - hint: 'Original text: Become an Ambassador of Information, key: -1ee80348'
+          - hint: 'Original text: The , key: 27c1ef'
             label: Text
-            name: '-1ee80348'
+            name: 27c1ef
             widget: string
-          - hint: >-
-              Original text: Join the community of Plan C volunteers dedicated
-              to spreading the word about abortion pills and how people are
-              already accessing them in all 50 states. , key: 7310493e
+          - hint: 'Original text: Plan C Community, key: df141d5'
             label: Text
-            name: 7310493e
-            widget: text
-          - hint: >-
-              Original text: Become apart of a Plan C Committee (Communications,
-              Community Organizing, or Creative Campaigns) and use your skills
-              and talents to advance the movement., key: -12484008
-            label: Text
-            name: '-12484008'
-            widget: text
-          - hint: 'Original text: Onboarding Info, key: -6dc51c6d'
-            label: Text
-            name: '-6dc51c6d'
+            name: df141d5
             widget: string
-          - hint: 'Original text: Upcoming Online Trainings, key: -53bdc850'
+          - hint: "Original text: We are a community of people who want to spread the word about abortion pills and how they are already being accessed \_in all 50 states., key: 52cff178"
             label: Text
-            name: '-53bdc850'
+            name: 52cff178
+            widget: text
+          - hint: 'Original text: Join our growing community, key: 7a664dce'
+            label: Text
+            name: 7a664dce
+            widget: string
+          - hint: 'Original text: How To Join Our Community, key: 44350534'
+            label: Text
+            name: '44350534'
+            widget: string
+          - hint: 'Original text: Upcoming Online Education Sessions, key: -4f07d8c2'
+            label: Text
+            name: '-4f07d8c2'
             widget: string
           - hint: 'Original text: Join our growing community:, key: -2d9c93d4'
             label: Text
@@ -4141,34 +4104,46 @@ collections:
             name: 657fd347
             widget: string
           - hint: >-
-              Original text: As an Ambassador of Information you’ll learn how
-              to:, key: -b56340
+              Original text: As a member of our community you'll have access
+              to:, key: 48234e9e
             label: Text
-            name: '-b56340'
+            name: 48234e9e
+            widget: string
+          - hint: 'Original text: Free Plan C stickers and , key: -4d816ad'
+            label: Text
+            name: '-4d816ad'
+            widget: string
+          - hint: 'Original text: mini-handouts to distribute, key: 3e211b90'
+            label: Text
+            name: 3e211b90
             widget: string
           - hint: >-
-              Original text: Speak with confidence about abortion pills and
-              their history., key: 6f6a171a
+              Original text: Self-Manage Abortion (SMA) education materials,
+              key: -2b311f30
             label: Text
-            name: 6f6a171a
+            name: '-2b311f30'
+            widget: string
+          - hint: 'Original text: Plan C’s Community , key: -73007fcf'
+            label: Text
+            name: '-73007fcf'
+            widget: string
+          - hint: 'Original text: Discord Server, key: -6da4d709'
+            label: Text
+            name: '-6da4d709'
             widget: string
           - hint: >-
-              Original text: Empower those around you to find and access the
-              options they seek., key: -206f12fe
+              Original text: Onboarding meeting with a Plan C team member (,
+              key: 5dee6dc0
             label: Text
-            name: '-206f12fe'
+            name: 5dee6dc0
             widget: string
-          - hint: >-
-              Original text: Normalize self-managed abortion and make it
-              mainstream., key: 6deb7290
+          - hint: 'Original text: coming Spring 2023, key: 130bf833'
             label: Text
-            name: 6deb7290
+            name: 130bf833
             widget: string
-          - hint: >-
-              Original text: Use your skills and talents to advance the
-              movement., key: 74ab81d9
+          - hint: 'Original text: ), key: 29'
             label: Text
-            name: 74ab81d9
+            name: '29'
             widget: string
           - hint: 'Original text: The onboarding process is simple:, key: -ff9f747'
             label: Text
@@ -4193,15 +4168,24 @@ collections:
             name: 5bbb6978
             widget: string
           - hint: >-
-              Original text: to request free Plan C stickers and mini-handouts
-              in both English and Spanish to share with your network or to place
-              around your community. (Don't want to wait? , key: 5404d7d2
+              Original text: to request Plan C stickers and mini-handouts in
+              both English and Spanish to share with your network or to place
+              around your community. A donation to cover our costs is requested
+              but not required. (Don't want to wait? , key: -4903abcc
             label: Text
-            name: 5404d7d2
+            name: '-4903abcc'
             widget: text
           - hint: 'Original text: Download our DIY Templates.), key: -1a226b64'
             label: Text
             name: '-1a226b64'
+            widget: string
+          - hint: 'Original text: 3., key: 65b'
+            label: Text
+            name: 65b
+            widget: string
+          - hint: 'Original text: Use Plan C''s Social Media Toolkit, key: -7e891ac2'
+            label: Text
+            name: '-7e891ac2'
             widget: string
           - hint: 'Original text: Repost recent updates from our , key: 1d68fcbc'
             label: Text
@@ -4241,23 +4225,33 @@ collections:
             label: Text
             name: 6c0df37f
             widget: string
-          - hint: 'Original text: 3., key: 65b'
+          - hint: 'Original text: 4., key: 67a'
             label: Text
-            name: 65b
+            name: 67a
             widget: string
           - hint: 'Original text: Register for one of Plan C''s , key: -d0bc813'
             label: Text
             name: '-d0bc813'
             widget: string
-          - hint: 'Original text: online training session , key: -3c8bd7bd'
+          - hint: 'Original text: online sessions , key: 41cd9196'
             label: Text
-            name: '-3c8bd7bd'
+            name: 41cd9196
             widget: string
           - hint: >-
-              Original text: During this 3 hour training, we will cover:, key:
-              -20e6b27
+              Original text: Take our live SMA Buddy course; you can find a ,
+              key: -bb93e45
             label: Text
-            name: '-20e6b27'
+            name: '-bb93e45'
+            widget: string
+          - hint: 'Original text: list of upcoming sessions here, key: -645cb70a'
+            label: Text
+            name: '-645cb70a'
+            widget: string
+          - hint: >-
+              Original text: . During this 2 hour session, we will cover:, key:
+              -f01b430
+            label: Text
+            name: '-f01b430'
             widget: string
           - hint: >-
               Original text: Introduction to Reproductive Justice, , key:
@@ -4291,78 +4285,35 @@ collections:
             label: Text
             name: 51f17329
             widget: string
-          - hint: 'Original text: 4., key: 67a'
+          - hint: 'Original text: And more!, key: 2edfdfc3'
             label: Text
-            name: 67a
+            name: 2edfdfc3
+            widget: string
+          - hint: 'Original text: 5., key: 699'
+            label: Text
+            name: '699'
             widget: string
           - hint: 'Original text: Join Plan C''s Discord Server, key: 56bc85e9'
             label: Text
             name: 56bc85e9
             widget: string
           - hint: >-
-              Original text: Discord is an invite-only home for your community -
-              a place where you can talk, hang out, and have fun with hundreds
-              of other Plan C Ambassadors. Never used Discord before? We will
-              email you a link to a beginner’s guide to Discord along with the
-              link to join Plan C’s Discord when you submit your information
-              below., key: -3afc11bc
+              Original text: The Plan C Discord is an invite-only home for your
+              community - a place where you can talk, hang out, and have fun.
+              Never used Discord before? It’s similar to Slack. To gain access
+              to the Plan C Discord, you will need to , key: -5f57939f
             label: Text
-            name: '-3afc11bc'
+            name: '-5f57939f'
             widget: text
-          - hint: >-
-              Original text: Once you are apart of Plan C's Discord server, you
-              can apply to join a committee. Plan C's Committees are a home for
-              our most involved Ambassadors. The two committees are:, key:
-              4d9758ba
+          - hint: 'Original text: fill out this form, key: -7f758d29'
             label: Text
-            name: 4d9758ba
-            widget: text
-          - hint: 'Original text: Communications, key: 4b55f77d'
-            label: Text
-            name: 4b55f77d
-            widget: string
-          - hint: 'Original text: Community Organizing, key: -7ccee189'
-            label: Text
-            name: '-7ccee189'
-            widget: string
-          - hint: 'Original text: Read the FAQ’s, key: -74863169'
-            label: Text
-            name: '-74863169'
+            name: '-7f758d29'
             widget: string
           - hint: >-
-              Original text:  below to learn more about each committee. To gain
-              access to these committees you will need to apply. You will
-              receive a link to the application when you submit your information
-              below. Please note: the committees communicate and organize
-              through a closed channel on the Plan C Discord, so you will need
-              to join the Plan C Discord to be part of a Plan C committee.
-                        , key: 4f27e1d8
+              Original text: Submit your information to join the Plan C
+              Community:, key: -51abf554
             label: Text
-            name: 4f27e1d8
-            widget: text
-          - hint: 'Original text: 5., key: 699'
-            label: Text
-            name: '699'
-            widget: string
-          - hint: >-
-              Original text: Attend Plan C’s monthly Ambassadors of Information
-              (AI) meetings on Zoom! , key: 6fde167a
-            label: Text
-            name: 6fde167a
-            widget: string
-          - hint: >-
-              Original text: You will receive a recurring Zoom meeting invite
-              link via email when you submit your information below. At these
-              meetings, you will have the opportunity to connect with other Plan
-              C Ambassadors and learn how to get more involved., key: -eb61e1e
-            label: Text
-            name: '-eb61e1e'
-            widget: text
-          - hint: >-
-              Original text: Submit your information for Onboarding:, key:
-              -4b5841f1
-            label: Text
-            name: '-4b5841f1'
+            name: '-51abf554'
             widget: string
           - hint: 'Original text: Email Address, key: -2b7010d0'
             label: Text
@@ -4383,9 +4334,11 @@ collections:
             label: Text
             name: '-3f8a8b6a'
             widget: text
-          - hint: 'Original text: Upcoming Online Trainings:, key: -23fb4176'
+          - hint: >-
+              Original text: Upcoming 'How To Be An SMA Buddy' Sessions:, key:
+              29e1e5df
             label: Text
-            name: '-23fb4176'
+            name: 29e1e5df
             widget: string
           - hint: 'Original text: -, key: 2d'
             label: Text
@@ -4410,14 +4363,14 @@ collections:
             name: 64689ccf
             widget: string
           - hint: >-
-              Original text: To request a Plan C workshop, webinar or training
-              event for a school group, please , key: 6e899bba
+              Original text: To request a Plan C workshop or webinar event for a
+              school group, please email , key: 7b84d23e
             label: Text
-            name: 6e899bba
+            name: 7b84d23e
             widget: string
-          - hint: 'Original text: fill out this form, key: -7f758d29'
+          - hint: 'Original text: partners@plancpills.org., key: 471d5923'
             label: Text
-            name: '-7f758d29'
+            name: 471d5923
             widget: string
           - hint: 'Original text: Have a question not answered here?, key: -5bdd8324'
             label: Text
@@ -4427,13 +4380,13 @@ collections:
             label: Text
             name: 7bec1424
             widget: string
-          - hint: 'Original text: ambassadors@plancpills.org, key: bab6274'
+          - hint: 'Original text: outreach@plancpills.org, key: -3c45150f'
             label: Text
-            name: bab6274
+            name: '-3c45150f'
             widget: string
-          - hint: 'Original text: Ambassadors Blog, key: -6f9c3c80'
+          - hint: 'Original text: Blog, key: 1fa3c2'
             label: Text
-            name: '-6f9c3c80'
+            name: 1fa3c2
             widget: string
           - hint: 'Original text: Read more, key: 31997f7f'
             label: Text
@@ -5580,10 +5533,6 @@ collections:
             label: Text
             name: '-358ef965'
             widget: string
-          - hint: 'Original text: ), key: 29'
-            label: Text
-            name: '29'
-            widget: string
           - hint: 'Original text: 2016, key: 1774e3'
             label: Text
             name: '1774e3'
@@ -5720,6 +5669,10 @@ collections:
           - hint: 'Original text: Podcasts, key: 1677420f'
             label: Text
             name: 1677420f
+            widget: string
+          - hint: 'Original text: Ambassadors Blog, key: -6f9c3c80'
+            label: Text
+            name: '-6f9c3c80'
             widget: string
           - hint: 'Original text: RESOURCES, key: 2fe4ce05'
             label: Text
@@ -6086,6 +6039,12 @@ collections:
           - hint: 'Original text: g., key: ca7'
             label: Text
             name: ca7
+            widget: string
+          - hint: >-
+              Original text: To request a Plan C workshop, webinar or training
+              event for a school group, please , key: 6e899bba
+            label: Text
+            name: 6e899bba
             widget: string
           - hint: 'Original text: Use Plan C’s easy to personalize , key: -6a5561cc'
             label: Text
@@ -6653,10 +6612,6 @@ collections:
           - hint: 'Original text: N/A, key: 12ac0'
             label: Text
             name: 12ac0
-            widget: string
-          - hint: 'Original text: 2021, key: 1774fd'
-            label: Text
-            name: 1774fd
             widget: string
           - hint: 'Original text: 2022, key: 1774fe'
             label: Text
@@ -7403,14 +7358,6 @@ collections:
             label: Text
             name: 6c1d2b2d
             widget: string
-          - hint: 'Original text: Jump to a section, key: -7f0c6aad'
-            label: Text
-            name: '-7f0c6aad'
-            widget: string
-          - hint: 'Original text: Mail Forwarding and Other Options, key: 6ca6222b'
-            label: Text
-            name: 6ca6222b
-            widget: string
           - hint: 'Original text: #PLAN, key: 212b9cc'
             label: Text
             name: 212b9cc
@@ -7782,6 +7729,10 @@ collections:
             label: Text
             name: 6b7c877c
             widget: string
+          - hint: 'Original text: Become an ambassador, key: 2a203c2b'
+            label: Text
+            name: 2a203c2b
+            widget: string
           - hint: 'Original text: Media Inquiries, key: 7be9e329'
             label: Text
             name: 7be9e329
@@ -8021,12 +7972,6 @@ collections:
             name: 18f9688
             widget: string
           - hint: >-
-              Original text: We recommend downloading a VPN to protect your
-              privacy online., key: 883d085
-            label: Text
-            name: 883d085
-            widget: string
-          - hint: >-
               Original text: There are many ways to protect your privacy when
               using a computer or phone. Here are some recommendations from the
               , key: -760a1e4a
@@ -8036,12 +7981,6 @@ collections:
           - hint: 'Original text: Electronic Frontier Foundation, key: -3748a0de'
             label: Text
             name: '-3748a0de'
-            widget: string
-          - hint: >-
-              Original text: How to get abortion pill access by mail in , key:
-              -3895ee43
-            label: Text
-            name: '-3895ee43'
             widget: string
           - hint: 'Original text: #ABORTION, key: -2ba37c05'
             label: Text
@@ -8252,30 +8191,6 @@ collections:
               you can, send us hot tips and tell your friends! , key: 5fc228b
             label: Text
             name: 5fc228b
-            widget: text
-          - hint: 'Original text: Price ↓, key: 5071405c'
-            label: Text
-            name: 5071405c
-            widget: string
-          - hint: 'Original text: Price ↑, key: 5071405a'
-            label: Text
-            name: 5071405a
-            widget: string
-          - hint: 'Original text: Delivery ↓, key: -48f00f79'
-            label: Text
-            name: '-48f00f79'
-            widget: string
-          - hint: 'Original text: Delivery ↑, key: -48f00f7b'
-            label: Text
-            name: '-48f00f7b'
-            widget: string
-          - hint: >-
-              Original text: If you are an organization that is planning on
-              distributing more than 500 stickers or mini flyers please submit
-              an order for 500 of the materials you would like, and then email
-              us at , key: 68f673e8
-            label: Text
-            name: 68f673e8
             widget: text
           - hint: >-
               Original text: How to request abortion pills from Las Libres, key:
@@ -8728,10 +8643,6 @@ collections:
             label: Link
             name: 38106c35
             widget: string
-          - hint: 'Original link: https://nwhn.org/donate, key: -1699bf6'
-            label: Link
-            name: '-1699bf6'
-            widget: string
           - hint: 'Original link: #opportunities, key: -3ed12092'
             label: Link
             name: '-3ed12092'
@@ -8803,19 +8714,17 @@ collections:
             label: Link
             name: '55608605'
             widget: string
-          - hint: >-
-              Original link: https://www.plancpills.org/ambassadors#FAQ, key:
-              78215322
+          - hint: 'Original link: http://www.link.com/, key: -1c21c827'
             label: Link
-            name: '78215322'
+            name: '-1c21c827'
+            widget: string
+          - hint: 'Original link: https://forms.gle/QLMFU1WBvvdPASwy8, key: -4abf5340'
+            label: Link
+            name: '-4abf5340'
             widget: string
           - hint: 'Original link: #onboarding-form, key: -5aa2194d'
             label: Link
             name: '-5aa2194d'
-            widget: string
-          - hint: 'Original link: https://forms.gle/NHHKyPFnysmjaV9f7, key: 6ca3945'
-            label: Link
-            name: 6ca3945
             widget: string
           - hint: 'Original link: mailto:ambassadors@plancpills.org, key: 3654b47c'
             label: Link
@@ -9203,7 +9112,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: i7af79746
+            name: i1ebc689e
             widget: object
             fields:
               - name: url
@@ -9385,6 +9294,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 517f6af4
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: i207dd094
             widget: object
             fields:
@@ -9503,6 +9425,19 @@ collections:
                 required: false
           - label: Image
             name: e51ddf9
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1466d13d
             widget: object
             fields:
               - name: url
@@ -9814,7 +9749,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 590056b
+            name: '-cf28949'
             widget: object
             fields:
               - name: url
@@ -10685,7 +10620,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2b902bd5'
+            name: 616d36ba
             widget: object
             fields:
               - name: url
@@ -10855,19 +10790,6 @@ collections:
                 required: false
           - label: Image
             name: '49296216'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-1a629f81'
             widget: object
             fields:
               - name: url

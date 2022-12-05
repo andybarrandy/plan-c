@@ -9,9 +9,9 @@ f_ship-time: 3 days
 slug: metro-area-advanced-practice-healthcare-me
 f_states-test:
   - cms/states/maine.md
-updated-on: '2022-11-22T22:05:57.231Z'
+updated-on: '2022-12-01T21:04:18.752Z'
 created-on: '2021-08-31T20:10:19.556Z'
-published-on: '2022-11-22T22:05:57.231Z'
+published-on: '2022-12-01T21:04:18.752Z'
 f_ages-served: 18+
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
@@ -30,7 +30,7 @@ f_sliding-scale-available: false
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
-f_offers-sliding-scale-pricing: false
+f_offers-sliding-scale-pricing: true
 f_list-on-test-results-page: false
 layout: '[suppliers].html'
 tags: suppliers

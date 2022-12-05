@@ -3,11 +3,11 @@ f_url: https://heyjane.com
 title: Hey Jane
 f_cost: $199-409
 f_ship-time-details: Depends on selected shipping method
-f_ship-time: 3-5 days
+f_ship-time: 1-5 days
 slug: hey-jane
-updated-on: '2022-11-28T06:40:11.008Z'
+updated-on: '2022-12-01T20:38:44.594Z'
 created-on: '2020-10-31T19:19:20.233Z'
-published-on: '2022-11-28T06:43:46.908Z'
+published-on: '2022-12-01T20:39:20.266Z'
 f_display-name: Hey Jane
 f_legal-level-text: 'No'
 f_tier: 1
@@ -22,7 +22,7 @@ f_states-test:
   - cms/states/connecticut.md
 f_ages-served: 18+
 f_basic-category-2: Pills by mail with clinician support
-f_ship-time-low-limit: 3
+f_ship-time-low-limit: 1
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
 f_should-this-appear-under-pills-by-mail-without-clinician-support: false
 f_gestational-age-dropdown: For pregnancies up to 10 weeks

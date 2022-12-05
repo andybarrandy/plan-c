@@ -7,9 +7,9 @@ f_cost: $100-250
 f_display-name: Full Circle Health Center
 f_ship-time: 1-3 days
 slug: full-circle-health
-updated-on: '2022-10-03T22:51:00.840Z'
+updated-on: '2022-12-01T20:52:42.269Z'
 created-on: '2021-02-11T18:36:42.781Z'
-published-on: '2022-10-03T22:51:00.840Z'
+published-on: '2022-12-01T20:52:42.269Z'
 f_states-test:
   - cms/states/new-mexico.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
@@ -20,24 +20,20 @@ f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/online-consultation-by-form.md
   - cms/supplier-options/virtual-visits-by-phone-or-video-on-request.md
-f_includes-required-for-this-to-work: AP1, OC1, VV2
+  - cms/supplier-options/ad1.md
+f_includes-required-for-this-to-work: AP1, OC1, VV2, AD1
 f_ship-time-low-limit: 2
 f_cost-sort: 100
 f_sliding-scale-available: true
 f_ages-served: All
 f_summary-2-0: "Full Circle Health states that it is an integrative health clinic that offers sexual and reproductive health care in Las Cruces, NM. We offer in office and telemedicine abortions up to 77 days from last menstrual period. The pills can only be mailed to New Mexico addresses. Insurances accepted and sliding fee available. To get in touch with us, call or text \_575-222-8594.\n\n‍"
-f_financial-assistance-details: |-
-  Financial assistance available
-
-  Accepts some insurance
-
-  Accepts Medicaid
 f_ship-time-details: Pills can also be picked up in person
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
-f_accepts-medicaid: false
+f_accepts-insurance: true
+f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: false
 f_list-on-test-results-page: false
+f_financial-assistance-details: Financial assistance available
 layout: '[suppliers].html'
 tags: suppliers
 ---

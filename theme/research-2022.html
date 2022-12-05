@@ -299,7 +299,7 @@ UL.hs-error-msgs LI {
     </div>
   </section>
   <div id="onboarding" class="page-section pink low-padding-top wf-section">
-    <div class="_1200-container centered"><img src="{{ images.590056b.url }}" loading="lazy" width="278.5" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;200px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;278.5px&quot;}]" alt="{{ images.590056b.alt | trim | escape }}" class="absolute-image-right">
+    <div class="_1200-container centered"><img src="{{ images.-cf28949.url }}" loading="lazy" width="278.5" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;200px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;278.5px&quot;}]" alt="{{ images.-cf28949.alt | trim | escape }}" class="absolute-image-right">
       <div class="rich-text-block-3 w-richtext">
         <h2>{{ texts.-53f399f2 }}</h2>
         <p>{{ texts.-73bc25d5 }}</p>
@@ -486,6 +486,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });

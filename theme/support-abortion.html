@@ -211,7 +211,7 @@ UL.hs-error-msgs LI {
   <div class="color-logo-hero take-action wf-section">
     <div class="takeacttion-hero-stripe"></div>
     <div class="off-center-hero-wrapper">
-      <div class="w-layout-grid hero-grid take-action"><img class="absolute-hero-image take-action" src="{{ images.590056b.url }}" width="278.5" alt="{{ images.590056b.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;586px&quot;}]" style="opacity:0" data-w-id="1b767c33-c94d-6e37-a562-2c75daac599c" id="w-node-_1b767c33-c94d-6e37-a562-2c75daac599c-e85ada88" loading="lazy">
+      <div class="w-layout-grid hero-grid take-action"><img class="absolute-hero-image take-action" src="{{ images.-cf28949.url }}" width="278.5" alt="{{ images.-cf28949.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;586px&quot;}]" style="opacity:0" data-w-id="1b767c33-c94d-6e37-a562-2c75daac599c" id="w-node-_1b767c33-c94d-6e37-a562-2c75daac599c-e85ada88" loading="lazy">
         <div id="w-node-ee36972f-d555-dce5-9986-a9feb3e954d2-e85ada88" class="card-hero-content">
           <h1 class="hero-h1 wide">{{ texts.-71c586f7 }}</h1>
           <div class="w-richtext">
@@ -444,7 +444,7 @@ UL.hs-error-msgs LI {
             <div class="petition-form-row"><label for="firstname" class="field-label white">{{ texts.-33504ea1 }}</label><input type="text" class="text-field-all w-input" maxlength="256" name="firstname" data-name="firstname" placeholder="" hubspot="element" id="firstname"></div>
             <div class="petition-form-row"><label for="lastname" class="field-label white">{{ texts.-6eb65efb }}</label><input type="text" class="text-field-all w-input" maxlength="256" name="lastname" data-name="lastname" placeholder="" hubspot="element" id="lastname"></div>
             <div id="w-node-ce427fa2-bcf2-f755-49cd-76da8e5d1ab4-e85ada88" class="petition-form-row"><label for="email-9" class="field-label white">{{ texts.-429208f6 }}</label><input type="email" class="text-field-all w-input" maxlength="256" name="email" data-name="email" placeholder="" hubspot="element" id="email-9" required=""></div>
-            <div class="petition-form-row"><label for="state" class="field-label white">{{ texts.-23bd4b92 }}</label><select class="state-dropdown w-select" name="state" filter-by="*" data-name="state" hubspot="element" id="state" required="">
+            <div class="petition-form-row"><label for="state" class="field-label white">{{ texts.-23bd4b92 }}</label><select id="state" name="state" data-name="state" required="" hubspot="element" class="state-dropdown w-select">
                 <option value="">{{ texts.14066d62 }}</option>
               </select></div>
             <div class="petition-button-row"><input type="submit" value="Sign Up" data-wait="Please wait..." class="button submit petition w-button"></div>
@@ -463,6 +463,7 @@ UL.hs-error-msgs LI {
               <!-- <input type="hidden" hubspot="element" data-name="source" name="source" value="Newsletter Signup"> -->
               <input type="hidden" hubspot="element" data-name="add_me_to_the_newsletter_list" name="add_me_to_the_newsletter_list" value="on">
               <input type="hidden" hubspot="element" data-name="datetime_stamp" name="datetime_stamp" value="">
+              <input type="hidden" hubspot="element" data-name="u_s__state__dropdown_" name="u_s__state__dropdown_" id="u_s__state__dropdown_" value="">
             </div>
           </form>
           <div class="success-message-white w-form-done">
@@ -720,6 +721,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
           // format time here
           inputElementValue = getCurrentDateFormatted();
         }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
+        }
         formValues[inputElementName] = inputElementValue;
       });
     var portalId = currentForm.getAttribute("hubspot-portal-id");
@@ -742,7 +748,7 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
 $('.state-list').each(function() {
   var dv = $(this).children('.load-state-abbrev').eq(0).text();
   var nv = $(this).children('.load-state-name').eq(0).text();
-  $('.state-dropdown').append('<option value="' + nv + '">' + nv + '</option>');
+  $('.state-dropdown').append('<option value="' + dv + '">' + nv + '</option>');
 });
 $('.state-dropdown').append('<option value="Outside U.S.">Outside U.S.</option>');
 </script>

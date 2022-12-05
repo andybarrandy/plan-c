@@ -251,19 +251,7 @@ UL.hs-error-msgs LI {
               </div>
             </div>
           </div>
-          <div id="w-node-_001a7710-b4b0-40a9-8d17-51d8c959e8a8-661e1cf5" class="donate-embed-wrapper">
-            <div class="w-richtext">
-              <h3>{{ texts.5382adc5 }}</h3>
-              <ol role="list">
-                <li>{{ texts.495579e2 }}<a href="{{ links.-1699bf6 }}" target="_blank">{{ texts.-376ae832 }}</a>{{ texts.-411b15c3 }}</li>
-                <li>{{ texts.2d179973 }}</li>
-                <li><strong>{{ texts.22f064b0 }}</strong>{{ texts.7945d10 }}</li>
-              </ol>
-            </div>
-            <a href="{{ links.-1699bf6 }}" target="_blank" class="button primary green w-inline-block">
-              <h4 class="button-title primary pink">{{ texts.7a59368f }}</h4>
-            </a>
-          </div>
+          <div id="w-node-_3dca637e-0ad9-2555-09cb-e95f1b237f0e-661e1cf5" class="w-embed w-iframe"><iframe id="humanitru" style="width: 100%; height: 1400px; border: 0; max-width:640px" src="https://nationalwomenshealthnetwork.humanitru.com/donate?page=plan-c-page&amp;amount=50&amp;options=1000%2C500%2C250%2C100&amp;tribute=true&amp;address=optional&amp;timings=once%2Cmonth&amp;iframe=true"></iframe></div>
         </div>
       </div>
     </div>
@@ -466,6 +454,11 @@ document.querySelectorAll('[hubspot="form"]').forEach(function (form) {
         if (inputElementName === "datetime_stamp") {
           // format time here
           inputElementValue = getCurrentDateFormatted();
+        }
+        // split state into full + abbbreviation
+        if (inputElementName === "u_s__state__dropdown_") {
+          // get full state name from selected option
+          inputElementValue = document.getElementById('state').selectedOptions[0].text;
         }
         formValues[inputElementName] = inputElementValue;
       });
