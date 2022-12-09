@@ -1472,6 +1472,46 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+  - name: test_cms
+    label: Test CMs
+    folder: cms/test-cms
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: test-cms
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[test-cms].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - name: author
     label: Authors
     folder: cms/author
@@ -4239,9 +4279,9 @@ collections:
             widget: string
           - hint: >-
               Original text: Attend our live self-managed abortion info session.
-              Tou can find a , key: 54c229a
+              You can find a , key: -396aca21
             label: Text
-            name: 54c229a
+            name: '-396aca21'
             widget: string
           - hint: 'Original text: list of upcoming sessions here, key: -645cb70a'
             label: Text
@@ -8717,10 +8757,6 @@ collections:
               key: 55608605
             label: Link
             name: '55608605'
-            widget: string
-          - hint: 'Original link: http://www.link.com/, key: -1c21c827'
-            label: Link
-            name: '-1c21c827'
             widget: string
           - hint: 'Original link: https://forms.gle/QLMFU1WBvvdPASwy8, key: -4abf5340'
             label: Link
