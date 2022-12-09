@@ -2298,6 +2298,33 @@ collections:
             label: Text
             name: '-27908841'
             widget: string
+          - hint: 'Original text: Disclaimer:, key: -7dad1a21'
+            label: Text
+            name: '-7dad1a21'
+            widget: string
+          - hint: 'Original text: Plan C is an information resource., key: 4437fd7b'
+            label: Text
+            name: 4437fd7b
+            widget: string
+          - hint: "Original text: We do not give medical or legal advice or sell abortion pills. \_This website is an educational resource for learning about how people in the US are accessing abortion pills and safely managing their own abortions. Plan C provides research-based information but does not endorse any of the services listed in the Guide to Finding Pills. Plan C is not affiliated with any of the services listed in our directory. For questions about paying for, delivery of, or how to order abortion pills from these services, please contact the service directly., key: 125a669d"
+            label: Text
+            name: 125a669d
+            widget: text
+          - hint: 'Original text: A note on language:, key: 1a02ae30'
+            label: Text
+            name: 1a02ae30
+            widget: string
+          - hint: >-
+              Original text:  Abortion pills can be used by people who have a
+              uterus and can get pregnant. This includes cisgender women and
+              people who identify as trans, non-binary, gender-expansive,
+              intersex, Two-Spirit, and more. By using a variety of terms on
+              this website—including “women”and “people who are pregnant”—we aim
+              to be inclusive of all pregnant people who need these services.,
+              key: -ec2afb6
+            label: Text
+            name: '-ec2afb6'
+            widget: text
           - hint: 'Original text: What is “Pills in Advance?”, key: 2b98206d'
             label: Text
             name: 2b98206d
@@ -2327,33 +2354,6 @@ collections:
             label: Text
             name: '-204c7649'
             widget: string
-          - hint: 'Original text: Disclaimer:, key: -7dad1a21'
-            label: Text
-            name: '-7dad1a21'
-            widget: string
-          - hint: 'Original text: Plan C is an information resource., key: 4437fd7b'
-            label: Text
-            name: 4437fd7b
-            widget: string
-          - hint: "Original text: We do not give medical or legal advice or sell abortion pills. \_This website is an educational resource for learning about how people in the US are accessing abortion pills and safely managing their own abortions. Plan C provides research-based information but does not endorse any of the services listed in the Guide to Finding Pills. Plan C is not affiliated with any of the services listed in our directory. For questions about paying for, delivery of, or how to order abortion pills from these services, please contact the service directly., key: 125a669d"
-            label: Text
-            name: 125a669d
-            widget: text
-          - hint: 'Original text: A note on language:, key: 1a02ae30'
-            label: Text
-            name: 1a02ae30
-            widget: string
-          - hint: >-
-              Original text:  Abortion pills can be used by people who have a
-              uterus and can get pregnant. This includes cisgender women and
-              people who identify as trans, non-binary, gender-expansive,
-              intersex, Two-Spirit, and more. By using a variety of terms on
-              this website—including “women”and “people who are pregnant”—we aim
-              to be inclusive of all pregnant people who need these services.,
-              key: -ec2afb6
-            label: Text
-            name: '-ec2afb6'
-            widget: text
           - hint: >-
               Original text: Video: Modern Reality of Abortion Pills, key:
               4421e5ab
@@ -4238,10 +4238,10 @@ collections:
             name: 41cd9196
             widget: string
           - hint: >-
-              Original text: Take our live SMA Buddy course; you can find a ,
-              key: -bb93e45
+              Original text: Attend our live self-managed abortion info session.
+              Tou can find a , key: 54c229a
             label: Text
-            name: '-bb93e45'
+            name: 54c229a
             widget: string
           - hint: 'Original text: list of upcoming sessions here, key: -645cb70a'
             label: Text
@@ -4335,10 +4335,10 @@ collections:
             name: '-3f8a8b6a'
             widget: text
           - hint: >-
-              Original text: Upcoming 'How To Be An SMA Buddy' Sessions:, key:
-              29e1e5df
+              Original text: Upcoming Self-Manage Abortion Info Sessions:, key:
+              237c5875
             label: Text
-            name: 29e1e5df
+            name: 237c5875
             widget: string
           - hint: 'Original text: -, key: 2d'
             label: Text
@@ -7318,6 +7318,10 @@ collections:
             label: Text
             name: 230c8097
             widget: text
+          - hint: 'Original text: The Plan C Guide, key: -1c289a9'
+            label: Text
+            name: '-1c289a9'
+            widget: string
           - hint: 'Original text: Test Results, key: -2eb1a998'
             label: Text
             name: '-2eb1a998'
