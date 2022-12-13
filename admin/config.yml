@@ -7358,10 +7358,6 @@ collections:
             label: Text
             name: 230c8097
             widget: text
-          - hint: 'Original text: The Plan C Guide, key: -1c289a9'
-            label: Text
-            name: '-1c289a9'
-            widget: string
           - hint: 'Original text: Test Results, key: -2eb1a998'
             label: Text
             name: '-2eb1a998'
@@ -9101,13 +9097,9 @@ collections:
             label: Link
             name: 639903ac
             widget: string
-          - hint: 'Original link: mailto:, key: 3187cc08'
+          - hint: 'Original link: mailto:laslibresgto@proton.me, key: 40f38ef1'
             label: Link
-            name: 3187cc08
-            widget: string
-          - hint: 'Original link: mailto:sms:+524731727025, key: -33f769c9'
-            label: Link
-            name: '-33f769c9'
+            name: 40f38ef1
             widget: string
           - hint: 'Original link: sms:+524731727025, key: 39efd13f'
             label: Link
