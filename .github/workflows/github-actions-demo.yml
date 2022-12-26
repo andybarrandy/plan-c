@@ -21,12 +21,20 @@ jobs:
           NETLIFY_AUTH_TOKEN: 'aJC1Y41geKZCVZXaQwC1zIVzVO1vE433S-G1CRBA7L4'
           NETLIFY_SITE_ID: '89bb4fa1-ccd5-4f87-9899-19151d5fbac3'
 
-      - name: 'install node modules'
-        working-directory: ./ovh
-        run: npm install
-      - name: 'upload files to OVH'
-        working-directory: ./ovh
-        run: node deploy.js
-
-
+#      - name: 'install node modules'
+#        working-directory: ./ovh
+#        run: npm install
+#      - name: 'upload files to OVH'
+#        working-directory: ./ovh
+#        run: node deploy.js
+      - name: Deploy to Edge Storage (bunny.net)
+        uses: own3d/bunny-action@main
+        env:
+          BUNNY_API_ACCESS_KEY: 0a3c4a07-2070-4d9f-b880-e029c25391112e4099fa-3ec4-4878-8265-30d3bab64575
+          BUNNY_STORAGE_HOSTNAME: storage.bunnycdn.com
+          BUNNY_STORAGE_USERNAME: planc
+          BUNNY_STORAGE_PASSWORD: c3598343-b39e-4179-844b7b311ea8-ab0f-416d
+          BUNNY_PULL_ZONE_ID: 464290
+        with:
+          args: deploy --dir=dist
 
