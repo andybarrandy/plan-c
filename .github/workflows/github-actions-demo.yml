@@ -36,5 +36,5 @@ jobs:
           BUNNY_STORAGE_PASSWORD: c3598343-b39e-4179-844b7b311ea8-ab0f-416d
           BUNNY_PULL_ZONE_ID: 464290
         with:
-          args: deploy --dir=dist
+          args: deploy --dir=public
 
