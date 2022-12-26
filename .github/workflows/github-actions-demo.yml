@@ -29,24 +29,26 @@ jobs:
 #        run: node deploy.js
 
 
-#      - name: Deploy to Edge Storage (bunny.net)
-#        uses: own3d/bunny-action@main
-#        env:
-#          BUNNY_API_ACCESS_KEY: 0a3c4a07-2070-4d9f-b880-e029c25391112e4099fa-3ec4-4878-8265-30d3bab64575
-#          BUNNY_STORAGE_HOSTNAME: storage.bunnycdn.com
-#          BUNNY_STORAGE_USERNAME: planc
-#          BUNNY_STORAGE_PASSWORD: c3598343-b39e-4179-844b7b311ea8-ab0f-416d
-#          BUNNY_PULL_ZONE_ID: 464290
-#        with:
-#          args: deploy --dir=public
-
-      - name: Deploy to BunnyCDN
-        uses: ayeressian/bunnycdn-storage-deploy@v1.1.1
+      - name: Deploy to Edge Storage (bunny.net)
+        uses: own3d/bunny-action@main
+        env:
+          BUNNY_API_ACCESS_KEY: 0a3c4a07-2070-4d9f-b880-e029c25391112e4099fa-3ec4-4878-8265-30d3bab64575
+          BUNNY_STORAGE_HOSTNAME: planc.b-cdn.net
+          BUNNY_STORAGE_USERNAME: planc
+          BUNNY_STORAGE_PASSWORD: c3598343-b39e-4179-844b7b311ea8-ab0f-416d
+          BUNNY_PULL_ZONE_ID: 464290
         with:
-          source: "public"
-          storageZoneName: "planc"
-          accessKey: "0a3c4a07-2070-4d9f-b880-e029c25391112e4099fa-3ec4-4878-8265-30d3bab64575"
-          pullZoneId: "464290"
-          pullZoneAccessKey: "c3598343-b39e-4179-844b7b311ea8-ab0f-416d"
-          remove: "true"
-          purge: "true"
+          args: deploy --dir=public
+
+          
+
+#      - name: Deploy to BunnyCDN
+#        uses: ayeressian/bunnycdn-storage-deploy@v1.1.1
+#        with:
+#          source: "public"
+#          storageZoneName: "planc"
+#          accessKey: "0a3c4a07-2070-4d9f-b880-e029c25391112e4099fa-3ec4-4878-8265-30d3bab64575"
+#          pullZoneId: "464290"
+#          pullZoneAccessKey: "c3598343-b39e-4179-844b7b311ea8-ab0f-416d"
+#          remove: "true"
+#          purge: "true"
