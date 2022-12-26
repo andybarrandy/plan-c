@@ -25,8 +25,8 @@ jobs:
         uses: own3d/bunny-action@main
         env:
           BUNNY_API_ACCESS_KEY: 0a3c4a07-2070-4d9f-b880-e029c25391112e4099fa-3ec4-4878-8265-30d3bab64575
-          BUNNY_STORAGE_USERNAME: planc
-          BUNNY_STORAGE_PASSWORD: c3598343-b39e-4179-844b7b311ea8-ab0f-416d
+          BUNNY_STORAGE_USERNAME: "planc-nearshore"
+          BUNNY_STORAGE_PASSWORD: 90cb7785-3953-44e3-ab5cb93012d7-6c1e-41d4
           BUNNY_PULL_ZONE_ID: 1092423
         with:
           args: deploy --dir=public
