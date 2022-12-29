@@ -2170,13 +2170,13 @@ collections:
             label: Text
             name: 240aad33
             widget: string
-          - hint: 'Original text: En, key: 8c9'
+          - hint: 'Original text: EnG, key: 1109e'
             label: Text
-            name: 8c9
+            name: 1109e
             widget: string
-          - hint: 'Original text: ES, key: 8ae'
+          - hint: 'Original text: ESP, key: 10d62'
             label: Text
-            name: 8ae
+            name: 10d62
             widget: string
           - hint: 'Original text: A safe, , key: -39481d80'
             label: Text
@@ -2338,33 +2338,6 @@ collections:
             label: Text
             name: '-27908841'
             widget: string
-          - hint: 'Original text: Disclaimer:, key: -7dad1a21'
-            label: Text
-            name: '-7dad1a21'
-            widget: string
-          - hint: 'Original text: Plan C is an information resource., key: 4437fd7b'
-            label: Text
-            name: 4437fd7b
-            widget: string
-          - hint: "Original text: We do not give medical or legal advice or sell abortion pills. \_This website is an educational resource for learning about how people in the US are accessing abortion pills and safely managing their own abortions. Plan C provides research-based information but does not endorse any of the services listed in the Guide to Finding Pills. Plan C is not affiliated with any of the services listed in our directory. For questions about paying for, delivery of, or how to order abortion pills from these services, please contact the service directly., key: 125a669d"
-            label: Text
-            name: 125a669d
-            widget: text
-          - hint: 'Original text: A note on language:, key: 1a02ae30'
-            label: Text
-            name: 1a02ae30
-            widget: string
-          - hint: >-
-              Original text:  Abortion pills can be used by people who have a
-              uterus and can get pregnant. This includes cisgender women and
-              people who identify as trans, non-binary, gender-expansive,
-              intersex, Two-Spirit, and more. By using a variety of terms on
-              this website—including “women”and “people who are pregnant”—we aim
-              to be inclusive of all pregnant people who need these services.,
-              key: -ec2afb6
-            label: Text
-            name: '-ec2afb6'
-            widget: text
           - hint: 'Original text: What is “Pills in Advance?”, key: 2b98206d'
             label: Text
             name: 2b98206d
@@ -2394,6 +2367,33 @@ collections:
             label: Text
             name: '-204c7649'
             widget: string
+          - hint: 'Original text: Disclaimer:, key: -7dad1a21'
+            label: Text
+            name: '-7dad1a21'
+            widget: string
+          - hint: 'Original text: Plan C is an information resource., key: 4437fd7b'
+            label: Text
+            name: 4437fd7b
+            widget: string
+          - hint: "Original text: We do not give medical or legal advice or sell abortion pills. \_This website is an educational resource for learning about how people in the US are accessing abortion pills and safely managing their own abortions. Plan C provides research-based information but does not endorse any of the services listed in the Guide to Finding Pills. Plan C is not affiliated with any of the services listed in our directory. For questions about paying for, delivery of, or how to order abortion pills from these services, please contact the service directly., key: 125a669d"
+            label: Text
+            name: 125a669d
+            widget: text
+          - hint: 'Original text: A note on language:, key: 1a02ae30'
+            label: Text
+            name: 1a02ae30
+            widget: string
+          - hint: >-
+              Original text:  Abortion pills can be used by people who have a
+              uterus and can get pregnant. This includes cisgender women and
+              people who identify as trans, non-binary, gender-expansive,
+              intersex, Two-Spirit, and more. By using a variety of terms on
+              this website—including “women”and “people who are pregnant”—we aim
+              to be inclusive of all pregnant people who need these services.,
+              key: -ec2afb6
+            label: Text
+            name: '-ec2afb6'
+            widget: text
           - hint: >-
               Original text: Video: Modern Reality of Abortion Pills, key:
               4421e5ab
@@ -2604,30 +2604,6 @@ collections:
           - hint: 'Original text: Privacy & Terms, key: 1218a835'
             label: Text
             name: 1218a835
-            widget: string
-          - hint: >-
-              Original text: Plan C uses cookies to enable our public health
-              research. By clicking "Ok" you consent to store cookies on your
-              device. We do not collect personally identifiable information.
-              Details in our , key: -7122816
-            label: Text
-            name: '-7122816'
-            widget: text
-          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
-            label: Text
-            name: '-3fbde6f6'
-            widget: string
-          - hint: 'Original text: ., key: 2e'
-            label: Text
-            name: 2e
-            widget: string
-          - hint: 'Original text: Decline, key: -40d9052a'
-            label: Text
-            name: '-40d9052a'
-            widget: string
-          - hint: 'Original text: OK, key: 9dc'
-            label: Text
-            name: 9dc
             widget: string
           - hint: 'Original text: If you have questions:, key: -5ae8ab1f'
             label: Text
@@ -3313,6 +3289,10 @@ collections:
             label: Text
             name: '-1d243c01'
             widget: string
+          - hint: 'Original text: ., key: 2e'
+            label: Text
+            name: 2e
+            widget: string
           - hint: 'Original text: All articles tagged: , key: -dc9a8ca'
             label: Text
             name: '-dc9a8ca'
@@ -3475,14 +3455,16 @@ collections:
             label: Text
             name: '-35a74ddf'
             widget: string
-          - hint: 'Original text: Pay What You Can / Pay it Forward:, key: -7150974'
+          - hint: >-
+              Original text: Stickers cost us a minimum of $10 per package to
+              fulfill. , key: -25dd3f9a
             label: Text
-            name: '-7150974'
+            name: '-25dd3f9a'
             widget: string
-          - hint: "Original text: Stickers cost us a minimum of $10 per package to fulfill. Consider donating to Plan C\_to cover this cost or pay it forward to the next person. , key: 6870e078"
+          - hint: "Original text: Consider donating to Plan C\_to cover this cost or pay it forward to the next person., key: -5f30acbe"
             label: Text
-            name: '6870e078'
-            widget: text
+            name: '-5f30acbe'
+            widget: string
           - hint: 'Original text: Thanks for your support! , key: 32805f4f'
             label: Text
             name: 32805f4f
@@ -3539,6 +3521,12 @@ collections:
               524bfbd4
             label: Text
             name: 524bfbd4
+            widget: string
+          - hint: >-
+              Original text: Please make checks payable to NWHN with "Plan C" in
+              the memo line., key: -3db16f37
+            label: Text
+            name: '-3db16f37'
             widget: string
           - hint: 'Original text: Mailing Address: , key: 1ec3dac5'
             label: Text
@@ -4431,6 +4419,10 @@ collections:
           - hint: 'Original text: Read more, key: 31997f7f'
             label: Text
             name: 31997f7f
+            widget: string
+          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
+            label: Text
+            name: '-3fbde6f6'
             widget: string
           - hint: 'Original text: updated 11.10.2020, key: -638121de'
             label: Text
@@ -7773,6 +7765,14 @@ collections:
             label: Text
             name: 2a203c2b
             widget: string
+          - hint: 'Original text: En, key: 8c9'
+            label: Text
+            name: 8c9
+            widget: string
+          - hint: 'Original text: ES, key: 8ae'
+            label: Text
+            name: 8ae
+            widget: string
           - hint: 'Original text: Media Inquiries, key: 7be9e329'
             label: Text
             name: 7be9e329
@@ -8312,6 +8312,20 @@ collections:
             label: Text
             name: '-64e30ec'
             widget: string
+          - hint: 'Original text: Protected Page, key: -11d4bbff'
+            label: Text
+            name: '-11d4bbff'
+            widget: string
+          - hint: 'Original text: Password, key: 4c641ebb'
+            label: Text
+            name: 4c641ebb
+            widget: string
+          - hint: >-
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
+            label: Text
+            name: '-f5c4b5f'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -8501,33 +8515,33 @@ collections:
             label: Link
             name: '-52ed5fd5'
             widget: string
-          - hint: 'Original link: http://instagram.com/plancpills, key: 3b69c35c'
+          - hint: 'Original link: https://instagram.com/plancpills, key: -48df62e7'
             label: Link
-            name: 3b69c35c
+            name: '-48df62e7'
             widget: string
           - hint: 'Original link: https://vm.tiktok.com/ZMR9SncCG/, key: -7de7c249'
             label: Link
             name: '-7de7c249'
             widget: string
-          - hint: 'Original link: http://www.keepitbest.com, key: -229f8350'
+          - hint: 'Original link: https://www.keepitbest.com, key: 3ab8a82d'
             label: Link
-            name: '-229f8350'
+            name: 3ab8a82d
             widget: string
-          - hint: 'Original link: http://susanacastro.net, key: -55f5a160'
+          - hint: 'Original link: https://susanacastro.net, key: 981455d'
             label: Link
-            name: '-55f5a160'
+            name: 981455d
             widget: string
-          - hint: 'Original link: http://eyesopendesign.com, key: -2b101e71'
+          - hint: 'Original link: https://eyesopendesign.com, key: 32480d0c'
             label: Link
-            name: '-2b101e71'
+            name: 32480d0c
             widget: string
-          - hint: 'Original link: http://midwesternoriginals.com/, key: -18fdd6ea'
+          - hint: 'Original link: https://midwesternoriginals.com/, key: 62b902d3'
             label: Link
-            name: '-18fdd6ea'
+            name: 62b902d3
             widget: string
-          - hint: 'Original link: http://nwhn.org, key: 9f9fd17'
+          - hint: 'Original link: https://nwhn.org, key: 408df0d4'
             label: Link
-            name: 9f9fd17
+            name: 408df0d4
             widget: string
           - hint: 'Original link: /privacy-terms, key: -680140cd'
             label: Link
@@ -8736,6 +8750,10 @@ collections:
             label: Link
             name: 156b0b22
             widget: string
+          - hint: 'Original link: http://instagram.com/plancpills, key: 3b69c35c'
+            label: Link
+            name: 3b69c35c
+            widget: string
           - hint: 'Original link: http://facebook.com/plancpills, key: -1f5dcc9c'
             label: Link
             name: '-1f5dcc9c'
@@ -8791,9 +8809,9 @@ collections:
             label: Link
             name: 6d9da848
             widget: string
-          - hint: 'Original link: http://reprojobs.org, key: -300009ec'
+          - hint: 'Original link: https://reprojobs.org, key: -56902f89'
             label: Link
-            name: '-300009ec'
+            name: '-56902f89'
             widget: string
           - hint: >-
               Original link: /assets/documents/from-secret-to-shelf-1.pdf, key:
@@ -10900,6 +10918,19 @@ collections:
                 required: false
           - label: Image
             name: '-686803ab'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4abef31c
             widget: object
             fields:
               - name: url

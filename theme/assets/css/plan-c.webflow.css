@@ -9163,6 +9163,22 @@ figcaption {
   padding-bottom: 0px;
 }
 
+.utility-page-form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
 @media screen and (max-width: 991px) {
   .h3-link-text {
     font-size: 20px;
@@ -11615,8 +11631,17 @@ figcaption {
     padding-left: 0px;
   }
 
+  .brand-link-block.w--current {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+  }
+
   .nav-brand {
+    width: 100%;
     max-width: 140px;
+    min-width: 100px;
     margin-right: 8px;
     padding-right: 0px;
   }
@@ -12638,6 +12663,22 @@ figcaption {
     height: 500px;
   }
 
+  .wg-selector3-text-lang2 {
+    font-size: 11px;
+  }
+
+  .wg-selector3-text-lang1 {
+    font-size: 11px;
+  }
+
+  .wg-selector-3.s1 {
+    padding-right: 6px;
+  }
+
+  .wg-selector-3.s2 {
+    padding-left: 6px;
+  }
+
   .nav-search-icon {
     display: block;
   }
@@ -13335,6 +13376,15 @@ figcaption {
   }
 }
 
+#w-node-_5e4a48a1-8f77-5ea9-48d6-ee43b2fc4f8d-bcac6674 {
+  -ms-grid-column-align: center;
+  justify-self: center;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+}
+
 #w-node-_07f28500-8fb8-798f-1bd2-1cb6a7120e63-bcac6674 {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
@@ -13344,15 +13394,6 @@ figcaption {
   grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
-}
-
-#w-node-_5e4a48a1-8f77-5ea9-48d6-ee43b2fc4f8d-bcac6674 {
-  -ms-grid-column-align: center;
-  justify-self: center;
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  -ms-grid-row-align: center;
-  align-self: center;
 }
 
 #w-node-f08c41c4-c6b4-dc78-ee72-2557ebddb95d-bcac6674 {
@@ -14723,17 +14764,6 @@ figcaption {
     grid-column-start: span 1;
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
-  }
-
-  #w-node-_6a9c0eac-45e2-207b-12a4-a785093763df-0d917989 {
-    -ms-grid-column-span: 1;
-    grid-column-end: 2;
-    -ms-grid-column: 1;
-    grid-column-start: 1;
-    -ms-grid-row-span: 1;
-    grid-row-end: 3;
-    -ms-grid-row: 2;
-    grid-row-start: 2;
   }
 }
 
