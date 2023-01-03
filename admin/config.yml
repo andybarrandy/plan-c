@@ -2719,6 +2719,10 @@ collections:
             label: Text
             name: '-53ef5224'
             widget: string
+          - hint: 'Original text: Most Recent, key: -70256268'
+            label: Text
+            name: '-70256268'
+            widget: string
           - hint: 'Original text: Featured, key: -d78b7b2'
             label: Text
             name: '-d78b7b2'
@@ -8570,6 +8574,10 @@ collections:
             label: Link
             name: 6e65306f
             widget: string
+          - hint: 'Original link: /media-categories/press, key: 6d9da848'
+            label: Link
+            name: 6d9da848
+            widget: string
           - hint: 'Original link: /media-tags/featured, key: 370c3aac'
             label: Link
             name: 370c3aac
@@ -8800,10 +8808,6 @@ collections:
               -24e09668
             label: Link
             name: '-24e09668'
-            widget: string
-          - hint: 'Original link: /media-categories/press, key: 6d9da848'
-            label: Link
-            name: 6d9da848
             widget: string
           - hint: 'Original link: https://reprojobs.org, key: -56902f89'
             label: Link

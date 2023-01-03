@@ -1182,6 +1182,7 @@ figcaption {
   -ms-flex-align: start;
   align-items: flex-start;
   background-color: #edece2;
+  box-shadow: 7px 7px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
 .nav-link {
@@ -8817,8 +8818,12 @@ figcaption {
   font-size: 14px;
 }
 
+.press-tag.w--current {
+  background-color: #fcaaf2;
+}
+
 .press-tag.current {
-  font-weight: 700;
+  background-color: #fcaaf2;
 }
 
 .alert-content-row {
@@ -9274,6 +9279,10 @@ figcaption {
     padding-bottom: 24px;
     padding-left: 16px;
     background-color: #f8f9f8;
+  }
+
+  .nav-dropdown-list.w--open {
+    box-shadow: none;
   }
 
   .nav-link.mobile-only {

@@ -94,7 +94,8 @@
       <div>
         <div><strong>{{ texts.-53ef5224 }}</strong></div>
         <div class="categody-list-container">
-          <a href="{{ links.370c3aac }}" class="press-tag current">{{ texts.-d78b7b2 }}</a>
+          <a href="{{ links.6d9da848 }}" class="press-tag current">{{ texts.-70256268 }}</a>
+          <a href="{{ links.370c3aac }}" class="press-tag">{{ texts.-d78b7b2 }}</a>
           <a href="{{ links.374fccfb }}" class="press-tag">{{ texts.45e7299 }}</a>
           <a href="{{ links.56b93762 }}" class="press-tag">{{ texts.-632f5bfc }}</a>
           <a href="{{ links.-78ef9b3a }}" class="press-tag">{{ texts.4b0c1ae4 }}</a>
@@ -105,7 +106,7 @@
           <a href="{{ links.37de7ebd }}" class="press-tag">{{ texts.4ed245b }}</a>
         </div>
       </div>
-      {%- assign collection = collections.press | filter: "f_tags,idin,cms/media-tags/featured.md", "ALL", page.inputPath | sort: "-f_date" | limit: 3 -%}<div class="media-tag-wrapper w-dyn-list">
+      {%- assign collection = collections.press | sort: "-f_date" | limit: 3 -%}<div class="media-tag-wrapper w-dyn-list">
         {%- unless collection.length == 0 -%}<div role="list" class="media-grid w-dyn-items">
           {%- for item in collection -%}<div role="listitem" class="media-tag-grid-card w-dyn-item">
             <a href="{{ item.url }}" class="media-link-wrapper w-inline-block">
