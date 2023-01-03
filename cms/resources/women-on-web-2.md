@@ -12,4 +12,4 @@ layout: "[resources].html"
 slug: women-on-web-2
 date: 2023-01-03T22:11:19.336Z
 ---
-The mission of Women on Web is to provide safe, accessible and affordable online abortion care to women and people around the world (for the U.S., see [aidaccess.org](http://aidaccess.org)). They work to catalyze procedural and legal change in abortion access through telemedicine, research, community outreach, and advocacy. They are building a world where safe abortion care is accessible for all women and pregnant people, free from shame and stigma.
+The mission of Women on Web is to provide safe, accessible and affordable online abortion care to women and people around the world (for the U.S., see [aidaccess.org](https://aidaccess.org)). They work to catalyze procedural and legal change in abortion access through telemedicine, research, community outreach, and advocacy. They are building a world where safe abortion care is accessible for all women and pregnant people, free from shame and stigma.
