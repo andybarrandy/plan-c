@@ -7350,10 +7350,6 @@ collections:
             label: Text
             name: 230c8097
             widget: text
-          - hint: 'Original text: The Plan C Guide, key: -1c289a9'
-            label: Text
-            name: '-1c289a9'
-            widget: string
           - hint: 'Original text: Test Results, key: -2eb1a998'
             label: Text
             name: '-2eb1a998'
