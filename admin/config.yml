@@ -7350,6 +7350,10 @@ collections:
             label: Text
             name: 230c8097
             widget: text
+          - hint: 'Original text: The Plan C Guide, key: -1c289a9'
+            label: Text
+            name: '-1c289a9'
+            widget: string
           - hint: 'Original text: Test Results, key: -2eb1a998'
             label: Text
             name: '-2eb1a998'
@@ -8750,21 +8754,17 @@ collections:
             label: Link
             name: 156b0b22
             widget: string
-          - hint: 'Original link: http://instagram.com/plancpills, key: 3b69c35c'
+          - hint: 'Original link: https://facebook.com/plancpills, key: 4ffaae07'
             label: Link
-            name: 3b69c35c
+            name: 4ffaae07
             widget: string
-          - hint: 'Original link: http://facebook.com/plancpills, key: -1f5dcc9c'
+          - hint: 'Original link: https://twitter.com/plancpills, key: -10f8d808'
             label: Link
-            name: '-1f5dcc9c'
+            name: '-10f8d808'
             widget: string
-          - hint: 'Original link: http://twitter.com/plancpills, key: -6724fd05'
+          - hint: 'Original link: https://tiktok.com/@plancpills, key: -75b98673'
             label: Link
-            name: '-6724fd05'
-            widget: string
-          - hint: 'Original link: http://tiktok.com/@plancpills, key: 341a5490'
-            label: Link
-            name: 341a5490
+            name: '-75b98673'
             widget: string
           - hint: >-
               Original link: https://www.plancpills.org/ambassadors#trainings,
