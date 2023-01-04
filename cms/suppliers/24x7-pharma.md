@@ -65,7 +65,7 @@ f_states-test:
   - cms/states/alabama.md
   - cms/states/wyoming.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: false
-f_should-this-appear-under-pills-by-mail-without-clinician-support: false
+f_should-this-appear-under-pills-by-mail-without-clinician-support: true
 f_list-under-community-support-networks: false
 f_list-on-test-results-page: false
 f_cost: $104
