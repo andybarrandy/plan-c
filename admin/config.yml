@@ -1472,46 +1472,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-  - name: test_cms
-    label: Test CMs
-    folder: cms/test-cms
-    create: true
-    identifier_field: name
-    extension: md
-    slug: '{{slug}}'
-    fields:
-      - hint: ''
-        name: title
-        label: Name
-        widget: string
-        required: true
-      - hint: ''
-        name: created-on
-        label: Created On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: updated-on
-        label: Updated On
-        widget: datetime
-        required: false
-      - hint: ''
-        name: published-on
-        label: Published On
-        widget: datetime
-        required: false
-      - label: Tags
-        widget: hidden
-        name: tags
-        default: test-cms
-      - label: Layout
-        widget: hidden
-        name: layout
-        default: '[test-cms].html'
-      - label: Publish Date
-        name: date
-        widget: datetime
-      - *ref_0
   - name: author
     label: Authors
     folder: cms/author
@@ -10942,3 +10902,4 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
+publish_mode: editorial_workflow
