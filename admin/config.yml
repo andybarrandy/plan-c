@@ -356,8 +356,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: states
     label: States
     folder: cms/states
@@ -444,8 +442,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: supplier_options
     label: Supplier Options
     folder: cms/supplier-options
@@ -515,8 +511,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: creative_ways_to_access_pills
     label: Creative Ways to Access Pills
     folder: cms/creative-ways-to-access-pills
@@ -566,8 +560,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: faq
     label: FAQs
     folder: cms/faq
@@ -630,8 +622,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: faq_documentary
     label: FAQ Documentaries
     folder: cms/faq-documentary
@@ -681,8 +671,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: documentary_screenings
     label: Documentary Screenings
     folder: cms/documentary-screenings
@@ -743,8 +731,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: faq_ambassadors
     label: FAQ Ambassadors
     folder: cms/faq-ambassadors
@@ -794,8 +780,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: ai_training_calendar
     label: AI Training Calendars
     folder: cms/ai-training-calendar
@@ -865,8 +849,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: diy_materials
     label: DIY Materials
     folder: cms/diy-materials
@@ -935,8 +917,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: actions
     label: Actions
     folder: cms/actions
@@ -1031,8 +1011,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: social_posts
     label: Social Posts
     folder: cms/social-posts
@@ -1145,8 +1123,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: faq_teamplanc
     label: FAQ TeamPlanC
     folder: cms/faq-teamplanc
@@ -1209,8 +1185,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: press
     label: Press
     folder: cms/press
@@ -1357,8 +1331,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: resources
     label: Resources
     folder: cms/resources
@@ -1497,8 +1469,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: jobs
     label: Jobs
     folder: cms/jobs
@@ -1553,8 +1523,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: team
     label: Team
     folder: cms/team
@@ -1624,8 +1592,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: author
     label: Authors
     folder: cms/author
@@ -1666,8 +1632,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: legal
     label: Legals
     folder: cms/legal
@@ -1712,8 +1676,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: content_bits
     label: Content Bits
     folder: cms/content-bits
@@ -1763,8 +1725,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: social_toolkit_pages
     label: Social Toolkit Pages
     folder: cms/social-toolkit-pages
@@ -1805,8 +1765,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: faq_category
     label: FAQ Categories
     folder: cms/faq-category
@@ -1852,8 +1810,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: media_categories
     label: Media Categories
     folder: cms/media-categories
@@ -1901,8 +1857,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: media_tags
     label: Media Tags
     folder: cms/media-tags
@@ -1943,8 +1897,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: resources_categories
     label: Resources Categories
     folder: cms/resources-categories
@@ -1985,8 +1937,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: resources_tags
     label: Resources Tags
     folder: cms/resources-tags
@@ -2044,8 +1994,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - name: action_categories
     label: Action Categories
     folder: cms/action-categories
@@ -2086,8 +2034,6 @@ collections:
         name: date
         widget: datetime
       - *ref_0
-    editor:
-      preview: false
   - label: Theme Settings
     name: settings
     identifier_field: title

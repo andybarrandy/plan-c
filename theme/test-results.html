@@ -63,20 +63,6 @@
           </div>{%- endif -%}
         </div>
       </div>
-      {%- assign collection = collections.supplier-options | sort: "f_sort" -%}<div class="w-dyn-list">
-        {%- unless collection.length == 0 -%}<div role="list" class="nest-multi-reference w-dyn-items">
-          {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-            <div class="key-terms-item-wrapper">
-              <div class="key-terms-icon"><img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" loading="lazy" width="24" alt="{{ item.data.f_icon.alt }}" src="{{ item.data.f_icon.url }}"></div>
-              <div class="key-terms-description abbreviation">{{ item.data.title }}</div>
-              <div class="key-terms-description">{{ item.data.f_display-name }}</div>
-            </div>
-          </div>{%- endfor -%}
-        </div>{%- endunless -%}
-        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-          <div>{{ texts.3d503d2b }}</div>
-        </div>{%- endif -%}
-      </div>
     </div>
     <div fs-cmsload-element="scroll-anchor" class="guide-category wf-section">
       <div class="_1200-container">
