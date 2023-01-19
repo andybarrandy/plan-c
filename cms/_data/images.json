@@ -19,12 +19,16 @@
     "url": "/assets/images/plus.svg",
     "alt": ""
   },
+  "i5d4f7aba": {
+    "url": "/assets/images/plus-white.svg",
+    "alt": ""
+  },
   "6575e38e": {
     "url": "/assets/images/6271d40b804b5ceee156fb1b_3c-just-five-little-pills.jpg",
     "alt": ""
   },
-  "i1ebc689e": {
-    "url": "/assets/images/screen-shot-2022-12-02-at-9.32.45-PM.png",
+  "5ef35b1a": {
+    "url": "/assets/images/find-abortion-pills.png",
     "alt": ""
   },
   "i33f7a9a3": {
@@ -33,6 +37,10 @@
   },
   "573ee40f": {
     "url": "/assets/images/bg-ambassadors.png",
+    "alt": ""
+  },
+  "i7c7b2ad9": {
+    "url": "/assets/images/plan-c-still.jpg",
     "alt": ""
   },
   "i208be775": {
@@ -57,6 +65,14 @@
   },
   "3159c9f0": {
     "url": "/assets/images/guttmacher-map.jpg",
+    "alt": ""
+  },
+  "7e95ac61": {
+    "url": "/assets/images/new-map-hand-tiny.png",
+    "alt": "How to get abortion pill in all 50 US States"
+  },
+  "i791965fd": {
+    "url": "/assets/images/plan-c_logo_mixed.svg",
     "alt": ""
   },
   "i4a7cf323": {
@@ -247,17 +263,13 @@
     "url": "/assets/images/blue-arrow.svg",
     "alt": "Open option"
   },
-  "-54d2bbe2": {
-    "url": "/assets/images/icons8-alert-96.png",
-    "alt": "Learn about the potential legal risk of accessing abortion pill using this service"
-  },
-  "51bb0706": {
-    "url": "/assets/images/close-black.svg",
-    "alt": "Close this window"
-  },
   "6266eb57": {
     "url": "/assets/images/black-arrow.svg",
     "alt": "Down arrow"
+  },
+  "-54d2bbe2": {
+    "url": "/assets/images/icons8-alert-96.png",
+    "alt": "Learn about the potential legal risk of accessing abortion pill using this service"
   },
   "-1c868c0d": {
     "url": "/assets/images/doctor-front-tiny.png",
@@ -271,13 +283,17 @@
     "url": "/assets/images/doctor-small.svg",
     "alt": "Details about what this abortion pill service includes"
   },
-  "376e3c93": {
-    "url": "/assets/images/calendar.png",
-    "alt": "Gestational age guidelines for this abortion pill provider"
+  "1a59af15": {
+    "url": "/assets/images/icons8-done-48.png",
+    "alt": "Can help connect with abortion funds"
   },
-  "438daea2": {
-    "url": "/assets/images/cost.png",
-    "alt": "Price, cost, financial support and information about this abortion pill provider"
+  "-3d40ad2f": {
+    "url": "/assets/images/icons8-unavailable-48.png",
+    "alt": "UDESLY-START-LIQUID{{ item.data.f_financial-assistance }}UDESLY-END-LIQUID"
+  },
+  "2e2fa680": {
+    "url": "/assets/images/icons8-today-48.png",
+    "alt": "UDESLY-START-LIQUID{{ item.data.f_gestational-age-dropdown }}UDESLY-END-LIQUID"
   },
   "-685ab6ab": {
     "url": "/assets/images/carat-black.svg",
@@ -295,10 +311,6 @@
     "url": "/assets/images/pills-tiny.png",
     "alt": "Box and bottle containing abortion pill ordered from an online pharmacy"
   },
-  "3b7d5c83": {
-    "url": "/assets/images/greenlight.svg",
-    "alt": "Icon of green circle"
-  },
   "139e6616": {
     "url": "/assets/images/pobox-tiny.png",
     "alt": "Row of virtual mailboxes used to receive abortion pills by mail though mail forwarding."
@@ -314,6 +326,10 @@
   "-652f3033": {
     "url": "/assets/images/advice.png",
     "alt": "A person receiving abortion pill advice"
+  },
+  "51bb0706": {
+    "url": "/assets/images/close-black.svg",
+    "alt": "Close this window"
   },
   "5ab7e99b": {
     "url": "/assets/images/three-across.jpg",
@@ -467,8 +483,8 @@
     "url": "/assets/images/face-mask_ultra-premium_standard-9.0-x-5.5-1636582995-cf0976e9adca88e267702c878d388563.jpg",
     "alt": ""
   },
-  "-2f87af23": {
-    "url": "https://uploads-ssl.webflow.com/5db1c76aadcfe25e881680fa/5db86dc421496616bf357c25_placeholder.svg",
+  "-66f5514d": {
+    "url": "/assets/external/5db86dc421496616bf357c25_placeholder.svg",
     "alt": ""
   },
   "-2d4d6702": {
@@ -486,6 +502,10 @@
   "-7d9a0007": {
     "url": "/assets/images/flyers-eng.png",
     "alt": "Mini-flyer in english"
+  },
+  "376e3c93": {
+    "url": "/assets/images/calendar.png",
+    "alt": "Gestational age guidelines for this abortion pill provider"
   },
   "4e1c60bf": {
     "url": "/assets/images/blue-card.svg",
@@ -519,13 +539,29 @@
     "url": "/assets/images/hand-usa.jpg",
     "alt": "How to get abortion pill in all 50 US States"
   },
-  "7e95ac61": {
-    "url": "/assets/images/new-map-hand-tiny.png",
-    "alt": "How to get abortion pill in all 50 US States"
+  "14ada288": {
+    "url": "/assets/images/miso.svg",
+    "alt": ""
+  },
+  "-26b1c3fb": {
+    "url": "/assets/images/icons8-test-48.png",
+    "alt": ""
+  },
+  "-6d24f44": {
+    "url": "/assets/images/icons8-banknotes-48.png",
+    "alt": "UDESLY-START-LIQUID{{ item.data.f_financial-assistance }}UDESLY-END-LIQUID"
+  },
+  "-655f5dcf": {
+    "url": "/assets/images/icons8-chat-room-48.png",
+    "alt": ""
   },
   "7e3ad28e": {
     "url": "/assets/images/icons8-shield-48.png",
     "alt": "Accepts Medicaid"
+  },
+  "-690783b": {
+    "url": "/assets/images/icons8-museum-48.png",
+    "alt": "Can help connect with abortion funds"
   },
   "-5ee9d8b6": {
     "url": "/assets/images/hotline-doc-hd.jpg",
@@ -551,8 +587,12 @@
     "url": "/assets/images/icon-clinic.jpg",
     "alt": "stethoscope icon"
   },
-  "4abef31c": {
-    "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
+  "-7a700be7": {
+    "url": "/assets/external/utility-lock.ae54711958.svg",
     "alt": ""
+  },
+  "107394b2": {
+    "url": "/assets/images/sundance-logo.png",
+    "alt": "Sundance Film Festival logo"
   }
 }
