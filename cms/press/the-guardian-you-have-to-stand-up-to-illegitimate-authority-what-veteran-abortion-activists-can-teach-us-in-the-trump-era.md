@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Guardian
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bd97e52cf23e708277c6_The%20Guardian-%20%E2%80%98You%20have%20to%20stand%20up%20.jpg
+    /assets/external/5fa1bd97e52cf23e708277c6_the20guardian-20e28098you20have20to20stand20up20.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -6,8 +6,7 @@ title: 'Join #TeamPlanC, our outreach group for men + male-identified folks'
 f_url-text: '#TeamPlanC Homepage'
 slug: join-teamplanc
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6272c39dd54f033f516ff5b4_Instagram%20story%20-%2021.png
+  url: /assets/external/6272c39dd54f033f516ff5b4_instagram20story20-2021.png
   alt: null
 f_category:
   - cms/action-categories/i-have-a-few-minutes.md

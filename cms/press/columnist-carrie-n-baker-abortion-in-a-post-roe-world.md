@@ -9,7 +9,7 @@ f_author-2: Carrie N. Baker
 slug: columnist-carrie-n-baker-abortion-in-a-post-roe-world
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60b157286b8bbd17734af765_e723b4e5e48d4a95bc5de6d03deb18f4.jpg
+    /assets/external/60b157286b8bbd17734af765_e723b4e5e48d4a95bc5de6d03deb18f4.jpg
   alt: null
 f_tags:
   - cms/media-tags/op-ed.md

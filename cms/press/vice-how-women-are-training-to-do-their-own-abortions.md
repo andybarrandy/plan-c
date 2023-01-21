@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bce96aa2e27472aef9a1_VICE-%20How%20Women%20Are%20Training%20to%20Do%20Their%20Own%20Abortions.jpg
+    /assets/external/5fa1bce96aa2e27472aef9a1_vice-20how20women20are20training20to20do20their20own20abortions.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

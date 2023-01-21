@@ -13,7 +13,7 @@ slug: >-
   with-roe-teetering-on-total-collapse-abortion-activism-is-more-important-than-ever
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61395838df675f5598335e91_Screen%20Shot%202021-09-08%20at%206.44.39%20PM.png
+    /assets/external/61395838df675f5598335e91_screen20shot202021-09-0820at206.44.39%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/featured.md

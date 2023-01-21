@@ -9,8 +9,7 @@ f_publication: Bloomberg
 f_author-2: Cynthia Koons
 slug: the-abortion-pill-is-safer-than-tylenol-and-almost-impossible-to-get
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/621fdb9e9e097c0184d965f7_600x-1.jpg
+  url: /assets/external/621fdb9e9e097c0184d965f7_600x-1.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

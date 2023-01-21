@@ -11,25 +11,9 @@ f_ship-time-low-limit: 2
 f_cost-sort: 149
 f_basic-category-2: Pills by mail with clinician support (Hablamos Español)
 f_includes-required-for-this-to-work: AP1, VV2, OC1, AD1
+f_cost-details-2: Sliding fee scale available.
 title: Forward Midwifery NM
 f_cost: $150
-f_summary-2-0: >-
-  Forward Midwifery states that it is a telehealth clinic that offers sexual and
-  reproductive health care. We offer abortions up to 84 days from last menstrual
-  period.
-
-
-  *   Text and phone support available.
-
-  *   The pills can only be mailed to New Mexico addresses.
-
-  *   Sliding fee available, but insurance and Medicaid not currently accepted.
-
-  *   Pricing does not include cost of follow up in-clinic treatment in the rare
-  event it is needed.
-
-
-  Hablamos Español
 f_financial-assistance-details: Financial assistance available
 f_display-name: Forward Midwifery
 f_ship-time: 2-3 days
@@ -41,16 +25,25 @@ f_includes:
   - cms/supplier-options/online-consultation-by-form.md
   - cms/supplier-options/virtual-visits-by-phone-or-video-on-request.md
   - cms/supplier-options/ad1.md
-updated-on: '2022-10-03T22:50:06.496Z'
+updated-on: '2023-01-10T20:16:42.367Z'
 created-on: '2022-03-16T19:42:51.125Z'
-published-on: '2022-10-03T22:50:06.496Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
-f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_offers-sliding-scale-pricing: true
+f_can-help-you-connect-with-abortion-funds: false
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Sliding fee scale available.
+Forward Midwifery states that it is a telehealth clinic that offers sexual and reproductive health care. We offer abortions up to 84 days from last menstrual period.
+
+*   Text and phone support available.
+*   The pills can only be mailed to New Mexico addresses.
+*   Sliding fee available, but insurance and Medicaid not currently accepted.
+*   Pricing does not include cost of follow up in-clinic treatment in the rare event it is needed.
+
+Hablamos Español

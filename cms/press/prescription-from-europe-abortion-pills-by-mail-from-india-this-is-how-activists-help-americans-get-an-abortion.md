@@ -13,7 +13,7 @@ slug: >-
   prescription-from-europe-abortion-pills-by-mail-from-india-this-is-how-activists-help-americans-get-an-abortion
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165d8b4886bb75db77c1cae_Screen%20Shot%202021-10-12%20at%2012.54.26%20PM.png
+    /assets/external/6165d8b4886bb75db77c1cae_screen20shot202021-10-1220at2012.54.26%20PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

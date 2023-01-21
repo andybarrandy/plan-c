@@ -14,8 +14,7 @@ f_publication: Bloomberg
 f_author-2: Bruce Einhorn and Dhwani Pandya
 slug: american-women-turn-to-cheap-abortion-pills-from-india-post-roe
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/637188f4b892e110042d2fb2_1400x-1.jpeg
+  url: /assets/external/637188f4b892e110042d2fb2_1400x-1.jpeg
   alt: null
 f_tags: []
 f_category:

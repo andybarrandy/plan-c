@@ -3,7 +3,7 @@ title: Federal Judge Ruling Blocks FDA Restrictions under COVID
 slug: federal-judge-ruling-blocks-fda-restrictions-under-covid
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f837fdcde6a5ce518ec1f87_5f3d82968aefe56927593a20_Screen%2520Shot%25202020-08-19%2520at%252012.48.50%2520PM.png
+    /assets/external/5f837fdcde6a5ce518ec1f87_5f3d82968aefe56927593a20_screen2520shot25202020-08-192520at252012.48.50%2520PM.png
   alt: null
 updated-on: '2020-11-17T17:35:29.700Z'
 created-on: '2020-10-11T22:01:31.570Z'

@@ -1,6 +1,5 @@
 ---
 f_should-this-appear-under-pills-by-mail-without-clinician-support: true
-f_list-on-test-results-page: false
 f_sliding-scale-available: true
 f_list-under-community-support-networks: false
 f_offers-sliding-scale-pricing: false
@@ -15,21 +14,9 @@ f_ship-time-low-limit: 10
 f_cost-sort: 390
 f_basic-category-2: Online pharmacy
 f_includes-required-for-this-to-work: AP1, AD1
+f_cost-details-2: This includes shipping.
 title: PillsOnlineRX
 f_cost: $390
-f_summary-2-0: >-
-  Online pharmacy that states that it sells abortion pills (often called MTP
-  kits or Mifegest Kit). The pills we received had the same active ingredients
-  as in the FDA-approved abortion pills available through US clinics, but the
-  manufacturers are not certified or inspected by the FDA. Our laboratory
-  testing of similar products received from online pharmacies found them to be
-  real products of acceptable quality.
-
-
-  ‍
-
-
-  ‍
 f_financial-assistance-details: No financial assistance available
 f_ship-time-details: >-
   We used "Average Delivery Time 12-15 Working Days (Shipping From Overseas)"
@@ -98,11 +85,18 @@ f_states-test:
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/ad1.md
-updated-on: '2022-12-20T23:52:22.270Z'
+updated-on: '2023-01-10T19:48:37.706Z'
 created-on: '2022-12-20T23:52:22.270Z'
-published-on: '2022-12-20T23:52:22.270Z'
+published-on: '2023-01-10T20:58:00.875Z'
+f_financial-assistance: No financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-This includes shipping.
+Online pharmacy that states that it sells abortion pills (often called MTP kits or Mifegest Kit). The pills we received had the same active ingredients as in the FDA-approved abortion pills available through US clinics, but the manufacturers are not certified or inspected by the FDA. Our laboratory testing of similar products received from online pharmacies found them to be real products of acceptable quality.
+
+‍
+
+‍

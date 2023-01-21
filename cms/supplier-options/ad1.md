@@ -7,8 +7,7 @@ updated-on: '2022-02-10T00:15:09.278Z'
 created-on: '2022-01-21T22:38:08.459Z'
 published-on: '2022-02-10T00:15:09.278Z'
 f_icon:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/620456408e9150846f86e2f7_icons8-future-48.png
+  url: /assets/external/620456408e9150846f86e2f7_icons8-future-48.png
   alt: null
 layout: '[supplier-options].html'
 tags: supplier-options

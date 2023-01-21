@@ -3,8 +3,7 @@ f_category: IG Post
 f_sort: 1
 title: Square - goodsnake english
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271e8b9c7f4fe85e07f6d68_Goodsnake-english-small.jpg
+  url: /assets/external/6271e8b9c7f4fe85e07f6d68_goodsnake-english-small.jpg
   alt: null
 slug: square-goodsnake-english
 f_which-page-s-should-this-appear-on:

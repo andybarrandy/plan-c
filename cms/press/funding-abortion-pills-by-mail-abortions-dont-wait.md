@@ -14,7 +14,7 @@ f_tags: []
 slug: funding-abortion-pills-by-mail-abortions-dont-wait
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/635fde709609b63359707d14_Screen-Shot-2022-06-03-at-2.08.53-PM.png
+    /assets/external/635fde709609b63359707d14_screen-shot-2022-06-03-at-2.08.53-PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -10,8 +10,7 @@ title: A Guide to Abortion Resources in a Post-Roe America
 f_publication: WIRED
 f_author-2: Lux Alptraum
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356b743c9fb606e8024e30e_download111.jpeg
+  url: /assets/external/6356b743c9fb606e8024e30e_download111.jpeg
   alt: null
 f_tags: []
 slug: a-guide-to-abortion-resources-in-a-post-roe-america

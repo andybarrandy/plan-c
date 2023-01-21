@@ -5,8 +5,7 @@ title: >-
   Dyer
 f_publication: Amanda Starkingsley
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa5ec052e00ff207dd7b615_episode-art-1.jpg
+  url: /assets/external/5fa5ec052e00ff207dd7b615_episode-art-1.jpg
   alt: null
 slug: speaking-light-into-abortion-rachel-dyer
 f_category:

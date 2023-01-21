@@ -13,7 +13,7 @@ slug: >-
   study-shows-an-abortion-ban-may-lead-to-a-21-increase-in-pregnancy-related-deaths
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165d981ea162878b9da23b0_Screen%20Shot%202021-10-12%20at%2012.57.25%20PM.png
+    /assets/external/6165d981ea162878b9da23b0_screen20shot202021-10-1220at2012.57.25%20PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

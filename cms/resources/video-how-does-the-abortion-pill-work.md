@@ -6,7 +6,7 @@ title: 'Video: How Does the Abortion Pill Work?'
 f_url-text: Open in new window
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f837fd7c6be0e6b62d87356_5f3d835630dcaa58f7ac0a91_image-asset.jpeg
+    /assets/external/5f837fd7c6be0e6b62d87356_5f3d835630dcaa58f7ac0a91_image-asset.jpeg
   alt: null
 slug: video-how-does-the-abortion-pill-work
 updated-on: '2020-11-10T02:40:08.872Z'

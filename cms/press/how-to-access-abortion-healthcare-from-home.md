@@ -12,8 +12,7 @@ f_publication: Mitú
 f_author-2: Bertha Isabel Crombet
 slug: how-to-access-abortion-healthcare-from-home
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356c17fb3f7f16756178ad5_GettyImages_1145435016.0.v1.jpg
+  url: /assets/external/6356c17fb3f7f16756178ad5_gettyimages_1145435016.0.v1.jpg
   alt: null
 f_tags: []
 f_category:

@@ -13,8 +13,7 @@ f_publication: The Cut
 f_author-2: Lux Alptraum
 f_tags: []
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63486d3af14cc73c2d0dfc88_thecut1.webp
+  url: /assets/external/63486d3af14cc73c2d0dfc88_thecut1.webp
   alt: null
 slug: what-to-know-about-stocking-up-on-the-abortion-pill
 f_category:

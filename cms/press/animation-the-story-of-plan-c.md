@@ -10,8 +10,7 @@ f_tags:
   - cms/media-tags/video.md
   - cms/media-tags/campaigns.md
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fae074289c799bc5fe164d1_PlanC_Animation_Img.png
+  url: /assets/external/5fae074289c799bc5fe164d1_planc_animation_img.png
   alt: null
 f_category:
   - cms/media-categories/video.md

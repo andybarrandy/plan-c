@@ -13,8 +13,7 @@ f_publication: Politico
 f_author-2: Ben Leonard and Ruth Reader
 slug: telehealth-circling-the-wagons-against-possible-end-of-roe
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356bff0dec905369d1ca8c9_download333.jpeg
+  url: /assets/external/6356bff0dec905369d1ca8c9_download333.jpeg
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

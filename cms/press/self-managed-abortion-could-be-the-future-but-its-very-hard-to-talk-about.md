@@ -8,8 +8,7 @@ title: Self-managed abortion could be the future — but it’s very hard to tal
 f_publication: The Lily
 f_author-2: Caroline Kitchener
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61dc81afe250891802cbca46_LC4HNSQPYBHZXJ2XBRIKF3EZ7Q.jpg
+  url: /assets/external/61dc81afe250891802cbca46_lc4hnsqpybhzxj2xbrikf3ez7q.jpg
   alt: null
 slug: self-managed-abortion-could-be-the-future-but-its-very-hard-to-talk-about
 f_posted-by: cms/author/plan-c.md

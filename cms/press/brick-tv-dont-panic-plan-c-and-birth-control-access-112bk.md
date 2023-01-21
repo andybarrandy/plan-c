@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: BRIC TV Brooklyn
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1beb2b4248d7f3d420aeb_Brick%20TV-%20Don%27t%20Panic-%20Plan%20C%20and%20Birth%20Control%20Access%20%7C%20112BK.png
+    /assets/external/5fa1beb2b4248d7f3d420aeb_brick20tv-20don27t20panic-20plan20c20and20birth20control20access207c20112bk.png
   alt: null
 f_category:
   - cms/media-categories/press.md

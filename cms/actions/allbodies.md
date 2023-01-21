@@ -4,8 +4,7 @@ f_sort-by: 10
 title: Allbodies
 slug: allbodies
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613fd4559e2c28e6a8864f71_allbodies-small.png
+  url: /assets/external/613fd4559e2c28e6a8864f71_allbodies-small.png
   alt: null
 f_category:
   - cms/action-categories/partnership-campaigns.md

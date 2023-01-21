@@ -13,7 +13,7 @@ f_author-2: Abigail Abrams & Jamie Ducharme
 slug: inside-the-effort-to-promote-abortion-pills-for-a-post-roe-america
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62a27c147ca5999ce998c657_Poster%201%20-%20Credit%20Outfront%20Media.jpg
+    /assets/external/62a27c147ca5999ce998c657_poster20120-20credit20outfront20media.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

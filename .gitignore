@@ -1,8 +1,0 @@
-# Local Netlify folder
-.netlify
-.idea
-public
-node_modules/**
-theme/assets/.DS_Store
-theme/.DS_Store
-cms/.DS_Store

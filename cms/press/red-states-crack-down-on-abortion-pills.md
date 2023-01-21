@@ -10,7 +10,7 @@ f_author-2: Oriana Gonzalez, Ashley Gold, Jacque Schrag
 slug: red-states-crack-down-on-abortion-pills
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c27e2a5608032fc044f17d_Screen%20Shot%202021-12-21%20at%206.23.18%20PM.png
+    /assets/external/61c27e2a5608032fc044f17d_screen20shot202021-12-2120at206.23.18%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

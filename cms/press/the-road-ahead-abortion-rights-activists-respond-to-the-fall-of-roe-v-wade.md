@@ -12,8 +12,7 @@ title: 'The Road Ahead: Abortion Rights Activists Respond to the Fall of Roe v. 
 f_publication: Oprah Daily
 f_author-2: Dani McClain
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6346f144b5e0710e019afa26_oprah1.jpeg
+  url: /assets/external/6346f144b5e0710e019afa26_oprah1.jpeg
   alt: null
 slug: the-road-ahead-abortion-rights-activists-respond-to-the-fall-of-roe-v-wade
 f_tags: []

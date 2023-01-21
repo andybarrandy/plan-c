@@ -10,7 +10,7 @@ f_author-2: Site Admin
 slug: more-texas-women-are-going-online-to-look-for-abortion-pills-2
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba8d8d4b63fc95ab1f53a_52b3e60c-18a0-4924-9456-40aeb449ae70_1140x641.jpg
+    /assets/external/614ba8d8d4b63fc95ab1f53a_52b3e60c-18a0-4924-9456-40aeb449ae70_1140x641.jpg
   alt: null
 f_category:
   - cms/media-categories/developments.md

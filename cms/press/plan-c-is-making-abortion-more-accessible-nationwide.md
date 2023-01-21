@@ -8,7 +8,7 @@ f_publication: The Progressive Magazine
 slug: plan-c-is-making-abortion-more-accessible-nationwide
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165dc589b34c6403edcf65a_Screen%20Shot%202021-09-28%20at%209.08.05%20AM.jpg
+    /assets/external/6165dc589b34c6403edcf65a_screen20shot202021-09-2820at209.08.05%20AM.jpg
   alt: null
 f_tags:
   - cms/media-tags/featured.md

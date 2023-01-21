@@ -19,8 +19,7 @@ updated-on: '2021-02-04T19:03:06.070Z'
 created-on: '2021-02-02T20:15:47.415Z'
 published-on: '2021-02-04T19:03:06.070Z'
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c136df389b20a6b866fb_unnamed0.jpg
+  url: /assets/external/5fa1c136df389b20a6b866fb_unnamed0.jpg
   alt: null
 layout: '[press].html'
 tags: press

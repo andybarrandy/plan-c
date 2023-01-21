@@ -9,7 +9,7 @@ f_author-2: Amy Littlefield
 slug: texas-republicans-cant-stop-all-medical-abortions
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/618443821197eb33caf740ee_Screen%20Shot%202021-11-04%20at%202.32.56%20PM.png
+    /assets/external/618443821197eb33caf740ee_screen20shot202021-11-0420at202.32.56%20PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

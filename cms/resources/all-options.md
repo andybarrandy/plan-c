@@ -5,7 +5,7 @@ f_url-text: all-options.org
 slug: all-options
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f837fdafacc3a0f9c59207e_5f3d7e73ac5bfc42658b7c15_1490304121.png
+    /assets/external/5f837fdafacc3a0f9c59207e_5f3d7e73ac5bfc42658b7c15_1490304121.png
   alt: null
 updated-on: '2020-10-11T22:16:05.130Z'
 created-on: '2020-10-11T21:57:47.104Z'

@@ -3,8 +3,7 @@ f_sort: 30
 title: Mini-Flyers (3", English)
 slug: mini-flyers-3-english
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/628c1ee033222ea3f64e407e_flyers-eng.png
+  url: /assets/external/628c1ee033222ea3f64e407e_flyers-eng.png
   alt: null
 updated-on: '2022-05-25T00:44:21.422Z'
 created-on: '2022-05-23T23:55:23.728Z'

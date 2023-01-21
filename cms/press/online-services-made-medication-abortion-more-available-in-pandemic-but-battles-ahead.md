@@ -12,8 +12,7 @@ f_author-2: Marie McCullough
 slug: >-
   online-services-made-medication-abortion-more-available-in-pandemic-but-battles-ahead
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60dcfc64f4faa501e9a49e9a_6V24LRFOQNGFLNFYHFHVGBHPJE.jpg
+  url: /assets/external/60dcfc64f4faa501e9a49e9a_6v24lrfoqngflnfyhfhvgbhpje.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

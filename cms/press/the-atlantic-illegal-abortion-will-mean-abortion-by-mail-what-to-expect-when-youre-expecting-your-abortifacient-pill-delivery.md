@@ -16,7 +16,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Atlantic
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c249ba1d003c416c401c_The%20Atlantic-%20Illegal%20Abortion%20Will%20Mean%20Abortion%20By%20Mail%20.jpg
+    /assets/external/5fa1c249ba1d003c416c401c_the20atlantic-20illegal20abortion20will20mean20abortion20by20mail20.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

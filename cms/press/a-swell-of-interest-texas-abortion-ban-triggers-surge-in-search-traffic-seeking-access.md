@@ -12,7 +12,7 @@ slug: >-
   a-swell-of-interest-texas-abortion-ban-triggers-surge-in-search-traffic-seeking-access
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61395744340b56f2e0f43bbf_Screen%20Shot%202021-09-08%20at%206.40.03%20PM.png
+    /assets/external/61395744340b56f2e0f43bbf_screen20shot202021-09-0820at206.40.03%20PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

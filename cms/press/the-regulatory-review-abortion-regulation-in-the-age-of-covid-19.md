@@ -21,7 +21,7 @@ f_tags:
   - cms/media-tags/telemedicine.md
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f9c7853ef7454f401c2119d_ScreenShot2020-10-14at1.29.15AM.png
+    /assets/external/5f9c7853ef7454f401c2119d_screenshot2020-10-14at1.29.15AM.png
   alt: null
 layout: '[press].html'
 tags: press

@@ -13,7 +13,7 @@ slug: >-
   the-texas-abortion-ban-has-led-to-confusion-over-access-to-emergency-contraception-and-experts-are-worried
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba307b0aec025322152cc_Screen%20Shot%202021-09-22%20at%203.45.52%20PM.png
+    /assets/external/614ba307b0aec025322152cc_screen20shot202021-09-2220at203.45.52%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

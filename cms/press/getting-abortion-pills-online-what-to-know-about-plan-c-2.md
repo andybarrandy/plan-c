@@ -13,7 +13,7 @@ f_author-2: Nancy Schimelpfening
 f_tags: []
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63615bd15c5bb75b287bb1fa_Package_Delivery_1296x728-header-1296x729.jpeg
+    /assets/external/63615bd15c5bb75b287bb1fa_package_delivery_1296x728-header-1296x729.jpeg
   alt: null
 slug: getting-abortion-pills-online-what-to-know-about-plan-c-2
 f_posted-by: cms/author/plan-c.md

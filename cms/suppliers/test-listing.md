@@ -11,9 +11,9 @@ f_ship-time-low-limit: 3
 f_cost-sort: 0
 f_basic-category-2: Pills by mail with clinician support
 f_includes-required-for-this-to-work: AP1, AP2, VV1, VV2, OC1, FC1, AD1, TXT1
+f_cost-details-2: Ask us about a discount if you can't afford the whole amount.
 title: Test Listing
 f_cost: $150
-f_summary-2-0: "Amazing Abortion Care is a telehealth clinic that offers sexual and reproductive health care. We offer abortions up to 70 days from last menstrual period. The pills can only be mailed to Massachusetts addresses.\n\n*   Quick, affordable, convenient access to safe and effective abortion pills through telehealth consultation.\n*   Offers phone and text support. Video consultation on request. \_\n*   Pricing does not include cost of follow up in-clinic treatment in the rare event it is needed.\n*   Does not currently accept Medicaid or insurance."
 f_ship-time-details: In clinic pick-up also available.
 f_display-name: Amazing Abortion Care
 f_ship-time: 3 days
@@ -28,20 +28,27 @@ f_includes:
   - cms/supplier-options/fc1.md
   - cms/supplier-options/ad1.md
   - cms/supplier-options/txt1.md
-updated-on: '2022-11-28T07:01:36.949Z'
+updated-on: '2023-01-10T19:55:36.702Z'
 created-on: '2021-11-22T22:55:57.453Z'
-published-on: '2022-11-28T07:01:36.949Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: true
 f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: true
-f_list-on-test-results-page: true
 f_additional-bullet-point-information: |-
   24/7 online support
 
   Hablamos español
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Ask us about a discount if you can't afford the whole amount.
+Amazing Abortion Care is a telehealth clinic that offers sexual and reproductive health care. We offer abortions up to 70 days from last menstrual period. The pills can only be mailed to Massachusetts addresses.
+
+*   Quick, affordable, convenient access to safe and effective abortion pills through telehealth consultation.
+*   Offers phone and text support. Video consultation on request.  
+*   Pricing does not include cost of follow up in-clinic treatment in the rare event it is needed.
+*   Does not currently accept Medicaid or insurance.

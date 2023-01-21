@@ -15,8 +15,7 @@ created-on: '2020-10-30T19:56:33.522Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Guardian
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bb6217a91e56b7b82f17_The%20Guardian-%20.jpg
+  url: /assets/external/5fa1bb6217a91e56b7b82f17_the20guardian-20.jpg
   alt: null
 f_source-url: >-
   https://www.theguardian.com/world/2020/apr/30/us-states-ban-abortions-coronavirus-leave-women-desperate

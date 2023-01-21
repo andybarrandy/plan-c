@@ -9,7 +9,7 @@ f_author-2: Amy Littlefield
 slug: will-the-biden-administration-get-bolder-on-improving-abortion-access
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6088ae1f65d7ee229b4dde10_Screen%20Shot%202021-04-27%20at%206.36.28%20PM.png
+    /assets/external/6088ae1f65d7ee229b4dde10_screen20shot202021-04-2720at206.36.28%20PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

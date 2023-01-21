@@ -12,7 +12,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Rewire News
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bbdfab40aa280ac81361_Rewire.News-%20How%20to%20Get%20an%20Abortion.jpg
+    /assets/external/5fa1bbdfab40aa280ac81361_rewire.News-%20How%20to%20Get%20an%20Abortion.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

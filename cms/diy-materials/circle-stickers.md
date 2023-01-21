@@ -3,8 +3,7 @@ f_sort: 10
 title: Circle Stickers
 slug: circle-stickers
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/628d7961f5aba78c563d6be7_circlestickers.png
+  url: /assets/external/628d7961f5aba78c563d6be7_circlestickers.png
   alt: null
 updated-on: '2022-05-25T00:53:12.368Z'
 created-on: '2022-05-25T00:36:11.826Z'

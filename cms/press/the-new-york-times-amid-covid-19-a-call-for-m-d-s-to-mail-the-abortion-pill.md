@@ -22,8 +22,7 @@ f_tags:
   - cms/media-tags/telemedicine.md
   - cms/media-tags/featured.md
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f9c60bb09941dfdbc8fc711_12FixesAdams-superJumbo.jpg
+  url: /assets/external/5f9c60bb09941dfdbc8fc711_12fixesadams-superjumbo.jpg
   alt: null
 f_author-2: Patrick Adams
 layout: '[press].html'

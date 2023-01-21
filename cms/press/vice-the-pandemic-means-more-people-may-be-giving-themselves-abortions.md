@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bc342754126aeb8e6b7f_VICE-%20The%20Pandemic%20Means%20More%20People%20May%20Be%20Giving%20Themselves%20Abortions.jpg
+    /assets/external/5fa1bc342754126aeb8e6b7f_vice-20the20pandemic20means20more20people20may20be20giving20themselves20abortions.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

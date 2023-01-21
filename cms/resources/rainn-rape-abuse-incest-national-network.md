@@ -4,7 +4,7 @@ title: RAINN (Rape, Abuse & Incest National Network)
 slug: rainn-rape-abuse-incest-national-network
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61006a2cb4d30d9c676aa2b4_Screen%20Shot%202021-07-27%20at%201.18.47%20PM.png
+    /assets/external/61006a2cb4d30d9c676aa2b4_screen20shot202021-07-2720at201.18.47%20PM.png
   alt: null
 f_category: cms/resources-categories/hotline.md
 updated-on: '2021-12-01T23:38:58.937Z'

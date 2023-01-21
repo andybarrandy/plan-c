@@ -17,8 +17,7 @@ f_tags: []
 slug: >-
   why-do-social-media-platforms-keep-removing-posts-about-safe-and-legal-abortion-pills
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63558bed7ac8afc013dbd0d7_20220513-abortion-pills.webp
+  url: /assets/external/63558bed7ac8afc013dbd0d7_20220513-abortion-pills.webp
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -3,8 +3,7 @@ f_sort: 10
 title: QR Code Stickers (2")
 slug: qr-code-stickers-2
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/628c1e7954c04d5e53e17574_stickers.png
+  url: /assets/external/628c1e7954c04d5e53e17574_stickers.png
   alt: null
 updated-on: '2022-05-25T00:23:21.252Z'
 created-on: '2022-05-23T23:53:51.113Z'

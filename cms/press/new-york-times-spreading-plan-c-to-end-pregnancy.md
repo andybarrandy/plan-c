@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The New York Times
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c4c288a0922ebad952b8_New%20York%20Times-%20Spreading%20Plan%20C%20to%20End%20Pregnancy.jpeg
+    /assets/external/5fa1c4c288a0922ebad952b8_new20york20times-20spreading20plan20c20to20end20pregnancy.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md

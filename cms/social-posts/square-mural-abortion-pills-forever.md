@@ -4,8 +4,7 @@ f_sort: 1
 title: Square - Mural Abortion Pills Forever
 slug: square-mural-abortion-pills-forever
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6250b7c23232fc38f8f18671_1%20-%20Abortion%20Pills.jpeg
+  url: /assets/external/6250b7c23232fc38f8f18671_120-20abortion20pills.jpeg
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/plan-c-social-toolkit.md

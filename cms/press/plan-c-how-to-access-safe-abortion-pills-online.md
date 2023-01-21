@@ -10,7 +10,7 @@ f_author-2: Samantha Gilstrap
 slug: plan-c-how-to-access-safe-abortion-pills-online
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613958f5c3f936767861fee5_Screen%20Shot%202021-09-08%20at%206.48.26%20PM.png
+    /assets/external/613958f5c3f936767861fee5_screen20shot202021-09-0820at206.48.26%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/featured.md

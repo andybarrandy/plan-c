@@ -16,8 +16,7 @@ f_author-2: Carrie N. Baker
 slug: >-
   kellys-story-overcoming-s-b-8-and-a-crisis-pregnancy-center-to-have-an-abortion-in-texas
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63458f60a2ea7703ddc576ef_msmag1.jpeg
+  url: /assets/external/63458f60a2ea7703ddc576ef_msmag1.jpeg
   alt: null
 f_tags: []
 f_category:

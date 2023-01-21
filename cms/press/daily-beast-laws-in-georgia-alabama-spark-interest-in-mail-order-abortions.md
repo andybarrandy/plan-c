@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Daily Beast
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c0e20f6a1c3a185ec463_Daily%20Beast-%20Laws%20in%20Georgia%2C%20Alabama%20Spark%20Interest%20in%20Mail-Order%20Abortions.png
+    /assets/external/5fa1c0e20f6a1c3a185ec463_daily20beast-20laws20in20georgia2c20alabama20spark20interest20in20mail-order20abortions.png
   alt: null
 f_category:
   - cms/media-categories/press.md

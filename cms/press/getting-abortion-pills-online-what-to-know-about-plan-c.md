@@ -19,7 +19,7 @@ created-on: '2021-11-04T20:44:13.700Z'
 published-on: '2021-11-04T20:47:04.769Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/618446bb1e181f69827a1049_Screen%20Shot%202021-11-04%20at%202.46.39%20PM.png
+    /assets/external/618446bb1e181f69827a1049_screen20shot202021-11-0420at202.46.39%20PM.png
   alt: null
 layout: '[press].html'
 tags: press

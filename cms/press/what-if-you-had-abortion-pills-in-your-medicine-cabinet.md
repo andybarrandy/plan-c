@@ -9,7 +9,7 @@ f_publication: The New York Times
 f_author-2: Patrick Adams
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6181e53b76ea2c96d56af2c2_Screen%20Shot%202021-11-02%20at%207.25.37%20PM.png
+    /assets/external/6181e53b76ea2c96d56af2c2_screen20shot202021-11-0220at207.25.37%20PM.png
   alt: null
 slug: what-if-you-had-abortion-pills-in-your-medicine-cabinet
 f_category:

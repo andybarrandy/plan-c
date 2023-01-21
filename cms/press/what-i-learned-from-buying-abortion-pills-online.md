@@ -8,8 +8,7 @@ title: What I Learned From Buying Abortion Pills Online
 f_publication: Rewire News
 f_author-2: Steph Black
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6026da976a69a344d5565aa5_3-740x525.jpg
+  url: /assets/external/6026da976a69a344d5565aa5_3-740x525.jpg
   alt: null
 slug: what-i-learned-from-buying-abortion-pills-online
 f_posted-by: cms/author/plan-c.md

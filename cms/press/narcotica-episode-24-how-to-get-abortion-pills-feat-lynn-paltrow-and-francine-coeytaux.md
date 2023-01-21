@@ -12,7 +12,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Narcotica
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bede67a40941b357ec99_Narcotica-%20Episode%2024-%20How%20To%20Get%20Abortion%20Pills%20Feat.%20Lynn%20Paltrow%20and%20Francine%20Coeytaux.png
+    /assets/external/5fa1bede67a40941b357ec99_narcotica-20episode2024-20how20to20get20abortion20pills20feat.%20Lynn%20Paltrow%20and%20Francine%20Coeytaux.png
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -17,8 +17,7 @@ slug: >-
   new-abortion-clinics-are-opening-near-borders-and-airports-to-stretch-access-as-far-as-it-will-go
 f_tags: []
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6359bbb534bbb46e49849bdc_border-abortion-clinics-04.webp
+  url: /assets/external/6359bbb534bbb46e49849bdc_border-abortion-clinics-04.webp
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

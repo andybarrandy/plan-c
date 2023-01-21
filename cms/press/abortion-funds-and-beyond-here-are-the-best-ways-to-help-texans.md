@@ -10,7 +10,7 @@ f_author-2: Kylie Cheung
 slug: abortion-funds-and-beyond-here-are-the-best-ways-to-help-texans
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613955e36e2aa87ab9049f18_Screen%20Shot%202021-09-08%20at%206.35.20%20PM.png
+    /assets/external/613955e36e2aa87ab9049f18_screen20shot202021-09-0820at206.35.20%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

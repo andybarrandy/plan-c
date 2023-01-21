@@ -11,8 +11,7 @@ title: '‘Uterus surveillance’: The scramble to keep abortion data from pryin
 f_publication: Politico
 f_author-2: Ben Leonard
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356bed8f0a2127343ff7cf9_download222.jpeg
+  url: /assets/external/6356bed8f0a2127343ff7cf9_download222.jpeg
   alt: null
 slug: uterus-surveillance-the-scramble-to-keep-abortion-data-from-prying-eyes
 f_tags: []

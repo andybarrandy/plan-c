@@ -1,14 +1,15 @@
 ---
 f_url: https://abortionrx.com
+f_cost-details-2: We got a discount for paying with PayPal.
 title: Abortion Rx
 f_cost: $239
 f_ship-time-details: We used "Express" shipping
 f_display-name: Abortion Rx
 f_ship-time: 8 days
 slug: abortion-rx
-updated-on: '2022-10-03T22:41:47.682Z'
+updated-on: '2023-01-10T19:54:39.637Z'
 created-on: '2020-10-29T08:10:06.787Z'
-published-on: '2022-10-03T22:41:47.682Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_legal-level-text: 'Yes'
 f_states-test:
   - cms/states/arkansas.md
@@ -74,31 +75,25 @@ f_ages-served: All
 f_basic-category-2: Online pharmacy
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
-f_includes-required-for-this-to-work: AP1
+  - cms/supplier-options/ad1.md
+f_includes-required-for-this-to-work: AP1, AD1
 f_cost-sort: 239
 f_sliding-scale-available: true
-f_summary-2-0: >-
-  Online pharmacy that states that sells abortion pills (often called MTP kits
-  or Mifegest Kit). The pills we received had the same active ingredients as in
-  the FDA-approved abortion pills available through US clinics, but the
-  manufacturers are not certified or inspected by the FDA. Our laboratory
-  testing of similar products received from online pharmacies found them to be
-  real products of acceptable quality.
-
-
-  ‍
-
-
-  ‍
 f_financial-assistance-details: No financial assistance available
 f_tier: 3
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_financial-assistance: No financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-We got a discount for paying with PayPal.
+Online pharmacy that states that sells abortion pills (often called MTP kits or Mifegest Kit). The pills we received had the same active ingredients as in the FDA-approved abortion pills available through US clinics, but the manufacturers are not certified or inspected by the FDA. Our laboratory testing of similar products received from online pharmacies found them to be real products of acceptable quality.
+
+‍
+
+‍

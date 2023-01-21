@@ -4,8 +4,7 @@ f_sort: 4
 title: Square - illustration the hands that need them (alt)
 slug: square-illustration-the-hands-that-need-them-alt
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6250b8094329665feeb3a0d2_4%20-%20abortion%20pills%20belong.jpg
+  url: /assets/external/6250b8094329665feeb3a0d2_420-20abortion20pills20belong.jpg
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/plan-c-social-toolkit.md

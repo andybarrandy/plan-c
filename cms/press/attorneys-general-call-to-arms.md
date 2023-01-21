@@ -11,8 +11,7 @@ f_excerpt: >-
 title: Attorneys General Call to Arms
 slug: attorneys-general-call-to-arms
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa34bc89625fb37f45e69c8_image%2024.jpg
+  url: /assets/external/5fa34bc89625fb37f45e69c8_image2024.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

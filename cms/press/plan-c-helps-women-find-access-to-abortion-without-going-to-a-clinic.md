@@ -10,7 +10,7 @@ f_author-2: LaMonica Peters
 slug: plan-c-helps-women-find-access-to-abortion-without-going-to-a-clinic
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c27f7f70ea646cf2cf2ddf_Screen%20Shot%202021-12-21%20at%206.29.14%20PM.png
+    /assets/external/61c27f7f70ea646cf2cf2ddf_screen20shot202021-12-2120at206.29.14%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

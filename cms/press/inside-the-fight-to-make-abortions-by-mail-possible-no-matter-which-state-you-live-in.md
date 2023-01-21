@@ -16,7 +16,7 @@ slug: >-
   inside-the-fight-to-make-abortions-by-mail-possible-no-matter-which-state-you-live-in
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62a27cffb3789e31e55fa217_Screen%20Shot%202022-06-09%20at%204.06.35%20PM.png
+    /assets/external/62a27cffb3789e31e55fa217_screen20shot202022-06-0920at204.06.35%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/legal.md

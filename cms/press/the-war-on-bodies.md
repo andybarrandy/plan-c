@@ -8,8 +8,7 @@ title: The war on bodies
 f_publication: Prospect Magazine
 f_author-2: Mary Fitzgerald
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165ff94855ec053fbad66fb_Fitzgerald_header.jpg
+  url: /assets/external/6165ff94855ec053fbad66fb_fitzgerald_header.jpg
   alt: null
 slug: the-war-on-bodies
 f_category:

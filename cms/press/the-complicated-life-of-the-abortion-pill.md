@@ -12,8 +12,7 @@ title: The Complicated Life of the Abortion Pill
 f_publication: The New Yorker
 f_author-2: Lauren Collins
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63487c61fa6160623857f0f0_Collins_Abortion_Pills.webp
+  url: /assets/external/63487c61fa6160623857f0f0_collins_abortion_pills.webp
   alt: null
 slug: the-complicated-life-of-the-abortion-pill
 f_tags: []

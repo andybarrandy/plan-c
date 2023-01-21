@@ -13,7 +13,7 @@ slug: >-
   fda-lifts-some-abortion-pill-restrictions-leaves-others-in-place-ignores-the-science-and-smacks-of-political-interference
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c28932a70fce78168b64f7_Medication-Abortion-Care-Is-Safe-and-Effective%E2%80%94Its-Time-Everyone-Has-Equal-Access-1.jpg
+    /assets/external/61c28932a70fce78168b64f7_medication-abortion-care-is-safe-and-effectivee28094its-time-everyone-has-equal-access-1.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

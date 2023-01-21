@@ -10,7 +10,7 @@ f_author-2: Dianna Wray
 slug: texas-aimed-to-ban-abortion-pills-but-the-law-has-had-little-effect
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6238ea6dd6f43aae70c23dd2_Screen%20Shot%202022-03-21%20at%203.12.36%20PM.png
+    /assets/external/6238ea6dd6f43aae70c23dd2_screen20shot202022-03-2120at203.12.36%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

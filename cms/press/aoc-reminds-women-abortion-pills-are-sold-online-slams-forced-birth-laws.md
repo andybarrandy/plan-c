@@ -10,7 +10,7 @@ f_author-2: Cammy Pedroja
 slug: aoc-reminds-women-abortion-pills-are-sold-online-slams-forced-birth-laws
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613959aaa4df5870b96f4e0c_Screen%20Shot%202021-09-08%20at%206.51.26%20PM.png
+    /assets/external/613959aaa4df5870b96f4e0c_screen20shot202021-09-0820at206.51.26%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

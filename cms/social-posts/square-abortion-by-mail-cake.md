@@ -5,7 +5,7 @@ title: Square - Abortion by mail cake
 slug: square-abortion-by-mail-cake
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271d4cd3102c54c159afe78_2%20-%20Abortion%20by%20mail%20in%20all%2050%20states.jpeg
+    /assets/external/6271d4cd3102c54c159afe78_220-20abortion20by20mail20in20all205020states.jpeg
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/plan-c-social-toolkit.md

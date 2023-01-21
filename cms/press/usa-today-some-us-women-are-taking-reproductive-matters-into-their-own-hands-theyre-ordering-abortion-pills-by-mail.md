@@ -13,8 +13,7 @@ created-on: '2020-10-30T19:56:23.108Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: USA Today
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bf3cdb99893bfe3e3d31_USA%20TODAY-%20Some%20US%20women%20.png
+  url: /assets/external/5fa1bf3cdb99893bfe3e3d31_usa20today-20some20us20women20.png
   alt: null
 f_category:
   - cms/media-categories/press.md

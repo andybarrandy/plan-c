@@ -12,8 +12,7 @@ f_author-2: Morgan O'Hanlon
 slug: >-
   interest-in-self-managed-abortion-rising-in-texas-as-new-restrictions-face-legal-challenges
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614babfb87350c6899e7c3ec_GGRYGNLPJSFCNWNIZZWENB5PKM.jpg
+  url: /assets/external/614babfb87350c6899e7c3ec_ggrygnlpjsfcnwnizzwenb5pkm.jpg
   alt: null
 f_category:
   - cms/media-categories/developments.md

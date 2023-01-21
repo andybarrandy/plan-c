@@ -9,8 +9,7 @@ f_publication: Rewire News
 f_author-2: Susan Rinkunas
 slug: unacceptable-care-why-patients-manage-their-own-abortion
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6026ddc0ec72292dce08a541_2-copy-740x525.jpg
+  url: /assets/external/6026ddc0ec72292dce08a541_2-copy-740x525.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

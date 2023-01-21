@@ -5,7 +5,7 @@ f_url-text: AbortionClinics.Com
 slug: abortion-clinics-online
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6184411013d1fb8652cfea37_Screen%20Shot%202021-11-04%20at%202.22.13%20PM.png
+    /assets/external/6184411013d1fb8652cfea37_screen20shot202021-11-0420at202.22.13%20PM.png
   alt: null
 f_category: cms/resources-categories/access-health.md
 f_tag:

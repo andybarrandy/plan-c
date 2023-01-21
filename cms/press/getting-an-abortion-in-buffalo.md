@@ -9,7 +9,7 @@ f_author-2: Christen Clifford
 slug: getting-an-abortion-in-buffalo
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c2760d560803358e3e8d06_Screen%20Shot%202021-12-21%20at%205.49.07%20PM.png
+    /assets/external/61c2760d560803358e3e8d06_screen20shot202021-12-2120at205.49.07%20PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -13,7 +13,7 @@ f_author-2: SSIR Editors
 slug: how-should-the-social-sector-respond-to-an-abortion-upheaval
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634ebcedfb9c7384aff81f30_SCOTUS-Abortion-Opinion-592x431.jpeg
+    /assets/external/634ebcedfb9c7384aff81f30_scotus-abortion-opinion-592x431.jpeg
   alt: null
 f_tags: []
 f_category:

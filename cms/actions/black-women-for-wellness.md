@@ -3,8 +3,7 @@ f_open-link-in-new-tab: false
 f_sort-by: 20
 title: Black Women for Wellness
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613fd4730456a263a723e736_bwfw-small.png
+  url: /assets/external/613fd4730456a263a723e736_bwfw-small.png
   alt: null
 slug: black-women-for-wellness
 f_category:

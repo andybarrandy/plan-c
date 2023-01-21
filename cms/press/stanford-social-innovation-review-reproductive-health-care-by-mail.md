@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Stanford Social Innovation Review
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c2971aad5c1bbd2cb7d9_Stanford%20Social%20Innovation%20Review-%20Reproductive%20Health%20Care%20by%20Mail.png
+    /assets/external/5fa1c2971aad5c1bbd2cb7d9_stanford20social20innovation20review-20reproductive20health20care20by20mail.png
   alt: null
 f_category:
   - cms/media-categories/press.md

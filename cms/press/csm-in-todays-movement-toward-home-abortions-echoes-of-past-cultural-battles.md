@@ -11,7 +11,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: CSM
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c4327d022a1c62188721_CSM-%20In%20today%27s%20movement%20toward%20home%20abortions%2C%20echoes%20of%20past%20cultural%20battles.jpeg
+    /assets/external/5fa1c4327d022a1c62188721_csm-20in20today27s20movement20toward20home20abortions2c20echoes20of20past20cultural20battles.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md

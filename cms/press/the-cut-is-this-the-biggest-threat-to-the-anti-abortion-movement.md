@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Cut
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c0904d2eea5975c1fc73_The%20Cut-%20Is%20This%20the%20Biggest%20Threat%20to%20the%20Anti-Abortion%20Movement%3F.png
+    /assets/external/5fa1c0904d2eea5975c1fc73_the20cut-20is20this20the20biggest20threat20to20the20anti-abortion20movement3f.png
   alt: null
 f_category:
   - cms/media-categories/press.md

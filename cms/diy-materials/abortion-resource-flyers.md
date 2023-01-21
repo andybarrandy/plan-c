@@ -2,8 +2,7 @@
 f_sort: 50
 title: Abortion Resource Flyers
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/628c1f34fef683c7c64fabc5_resource-flyer.png
+  url: /assets/external/628c1f34fef683c7c64fabc5_resource-flyer.png
   alt: null
 slug: abortion-resource-flyers
 updated-on: '2022-06-27T19:56:29.443Z'

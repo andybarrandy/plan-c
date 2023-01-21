@@ -4,8 +4,7 @@ f_source-url: https://www.youtube.com/watch?v=bjKAW5cvFpQ
 title: 'PSA: We’re Calling for a #21stCenturyAbortion'
 f_publication: Plan C
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa5f01a5216b2a7ae170bff_plancpills.org_21st%2B(3).png
+  url: /assets/external/5fa5f01a5216b2a7ae170bff_plancpills.org_21st%2B(3).png
   alt: null
 slug: psa-were-calling-for-a-21stcenturyabortion
 f_category:

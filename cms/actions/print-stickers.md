@@ -10,8 +10,7 @@ f_category:
   - cms/action-categories/i-have-time-every-month.md
 f_sort-by: 1
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6279c656a47f8652a1cca290_stickers-collage-2.jpg
+  url: /assets/external/6279c656a47f8652a1cca290_stickers-collage-2.jpg
   alt: null
 layout: '[actions].html'
 tags: actions

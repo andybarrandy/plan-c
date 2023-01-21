@@ -19,7 +19,7 @@ f_publication: The Verge
 f_author-2: Lux Alptraum
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62a22e9aa01ef41b2d9e7e64_Plan%20C-16%20-%20credit%20Hana%20Mendel.jpg
+    /assets/external/62a22e9aa01ef41b2d9e7e64_plan20c-1620-20credit20hana20mendel.jpg
   alt: null
 slug: what-does-the-future-of-abortion-look-like
 f_category:

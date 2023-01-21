@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: East Idaho News
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bfbfdb645f21b2a73ddb_East%20Idaho%20News-%20Pocatello%20attorney.jpg
+    /assets/external/5fa1bfbfdb645f21b2a73ddb_east20idaho20news-20pocatello20attorney.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

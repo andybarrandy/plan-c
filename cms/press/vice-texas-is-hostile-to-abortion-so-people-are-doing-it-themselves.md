@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bda8557802858c32d2d9_VICE-%20Texas%20Is%20Hostile%20to%20Abortion%2C%20So%20People%20Are%20Doing%20It%20Themselves.jpg
+    /assets/external/5fa1bda8557802858c32d2d9_vice-20texas20is20hostile20to20abortion2c20so20people20are20doing20it20themselves.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

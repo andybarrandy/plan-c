@@ -6,7 +6,7 @@ title: Manodiversa
 slug: diverse-women-also-abort-manodiversa
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60d22181bfef8c4d8a7c08de_Screen%20Shot%202021-06-22%20at%201.44.34%20PM.png
+    /assets/external/60d22181bfef8c4d8a7c08de_screen20shot202021-06-2220at201.44.34%20PM.png
   alt: null
 f_category: cms/resources-categories/international.md
 updated-on: '2021-06-22T17:52:23.428Z'

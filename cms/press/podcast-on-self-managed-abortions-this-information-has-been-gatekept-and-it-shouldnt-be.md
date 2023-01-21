@@ -17,8 +17,7 @@ updated-on: '2020-11-17T17:37:04.851Z'
 created-on: '2020-11-10T03:24:56.328Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5faa0aef694aa7b75128f178_sma-podcast.png
+  url: /assets/external/5faa0aef694aa7b75128f178_sma-podcast.png
   alt: null
 f_author-2: Rachel Dyer
 layout: '[press].html'

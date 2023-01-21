@@ -13,8 +13,7 @@ title: >-
 f_publication: CNBC
 f_author-2: Spencer Kimball
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6346f7be6c4bdf49b9acbe34_cnbc1.webp
+  url: /assets/external/6346f7be6c4bdf49b9acbe34_cnbc1.webp
   alt: null
 slug: >-
   women-in-states-that-ban-abortion-will-still-be-able-to-get-abortion-pills-online-from-overseas

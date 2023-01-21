@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: NPR
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be395635df018956a96e_NPR-%20With%20Abortion%20Restrictions%20On%20The%20Rise%2C%20Some%20Women%20Induce%20Their%20Own.jpg
+    /assets/external/5fa1be395635df018956a96e_npr-20with20abortion20restrictions20on20the20rise2c20some20women20induce20their20own.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

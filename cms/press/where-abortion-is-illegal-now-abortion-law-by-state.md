@@ -12,8 +12,7 @@ f_publication: Teen Vogue
 f_author-2: Brittney McNamara
 slug: where-abortion-is-illegal-now-abortion-law-by-state
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6348841a60bf4d5de00aca26_download99.jpeg
+  url: /assets/external/6348841a60bf4d5de00aca26_download99.jpeg
   alt: null
 f_tags: []
 f_category:

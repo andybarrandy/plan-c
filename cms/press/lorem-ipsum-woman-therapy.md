@@ -8,8 +8,7 @@ created-on: '2020-10-30T19:56:26.143Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: LOREM IPSUM
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be54590f7d208118a052_LOREM%20IPSUM-%20Woman%20therapy.png
+  url: /assets/external/5fa1be54590f7d208118a052_lorem20ipsum-20woman20therapy.png
   alt: null
 f_category:
   - cms/media-categories/press.md

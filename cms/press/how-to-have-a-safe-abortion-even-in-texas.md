@@ -9,7 +9,7 @@ f_author-2: Gloria Oladipo
 slug: how-to-have-a-safe-abortion-even-in-texas
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614badbf72fcf0bb7d0f8372_Screen%20Shot%202021-09-22%20at%204.31.37%20PM.png
+    /assets/external/614badbf72fcf0bb7d0f8372_screen20shot202021-09-2220at204.31.37%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

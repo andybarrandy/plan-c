@@ -13,7 +13,7 @@ slug: >-
   an-fda-decision-gives-more-access-to-abortion-pills-by-mail-but-state-laws-differ
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c28abef8ab1b48482bb054_npr_we_podcasttile_wide-d643b76ff7dca4d2da0f591039f917e5635f6267.jpg
+    /assets/external/61c28abef8ab1b48482bb054_npr_we_podcasttile_wide-d643b76ff7dca4d2da0f591039f917e5635f6267.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

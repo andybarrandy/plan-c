@@ -14,8 +14,7 @@ f_publication: The Austin Chronicle
 f_author-2: Maggie Q. Thompson
 slug: texas-abortion-advocates-on-what-happens-next
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63503d0406c70561a012cc1d_pols_feature6-1.jpeg
+  url: /assets/external/63503d0406c70561a012cc1d_pols_feature6-1.jpeg
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

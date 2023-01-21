@@ -9,8 +9,7 @@ title: >-
 slug: >-
   no-test-medication-abortion-a-sample-protocol-for-increasing-access-during-a-pandemic-and-beyond
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa34b7ac72ae4b02a1e432f_image%2024.png
+  url: /assets/external/5fa34b7ac72ae4b02a1e432f_image2024.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

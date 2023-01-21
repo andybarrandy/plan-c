@@ -16,8 +16,7 @@ created-on: '2020-10-30T19:56:33.141Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Rewire News
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f9c7fa9e4578a3ea31ff743_pill_1-740x525-1.jpg
+  url: /assets/external/5f9c7fa9e4578a3ea31ff743_pill_1-740x525-1.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

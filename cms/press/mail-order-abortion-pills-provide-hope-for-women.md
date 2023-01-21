@@ -11,7 +11,7 @@ f_author-2: The World Tonight with Kelly + Nayyera
 slug: mail-order-abortion-pills-provide-hope-for-women
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61806317b1bdbcfa90e6cd1b_Screen%20Shot%202021-11-01%20at%203.58.32%20PM.png
+    /assets/external/61806317b1bdbcfa90e6cd1b_screen20shot202021-11-0120at203.58.32%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/featured.md

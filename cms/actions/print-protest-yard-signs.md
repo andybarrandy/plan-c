@@ -4,8 +4,7 @@ title: Protest March + Yard Signs
 f_url-text: Download the template
 slug: print-protest-yard-signs
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/627d3acdd0adb6bad84b1430_yard-signs.png
+  url: /assets/external/627d3acdd0adb6bad84b1430_yard-signs.png
   alt: null
 f_category:
   - cms/action-categories/i-have-a-few-minutes.md

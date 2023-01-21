@@ -21,8 +21,7 @@ f_publication: Femtastic Podcast
 f_author-2: Katie Breen
 slug: how-the-abortion-underground-is-prepping-for-a-post-roe-v-wade-world
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6348750bdb4fb64017c480eb_41twn%2BUrO-L._SL500_.jpg
+  url: /assets/external/6348750bdb4fb64017c480eb_41twn2buro-l._SL500_.jpg
   alt: null
 f_tags: []
 f_category:

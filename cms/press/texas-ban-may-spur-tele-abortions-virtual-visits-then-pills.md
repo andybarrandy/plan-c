@@ -8,8 +8,7 @@ title: 'Texas Ban May Spur Tele-Abortions: Virtual Visits, Then Pills'
 f_publication: Bloomberg
 f_author-2: 'Carey Goldberg and Catarina Saraiva '
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61395a66442f1ef5533710ed_1000x-1.jpg
+  url: /assets/external/61395a66442f1ef5533710ed_1000x-1.jpg
   alt: null
 slug: texas-ban-may-spur-tele-abortions-virtual-visits-then-pills
 f_category:

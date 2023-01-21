@@ -4,8 +4,7 @@ title: howtouseabortionpill.org
 f_url-text: howtouseabortionpill.org
 slug: howtouseabortionpill
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1fcbcbcce7a6708440b4d_howtouse2.svg
+  url: /assets/external/5fa1fcbcbcce7a6708440b4d_howtouse2.svg
   alt: null
 updated-on: '2022-05-10T17:02:21.914Z'
 created-on: '2020-10-11T21:57:45.318Z'

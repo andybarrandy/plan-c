@@ -14,8 +14,7 @@ f_author-2: Vandana Ravikumar
 slug: >-
   how-are-abortion-pills-different-from-plan-b-what-to-know-after-supreme-court-leak
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63503368b56c409f6560cb27_AP21335525942926.jpeg
+  url: /assets/external/63503368b56c409f6560cb27_ap21335525942926.jpeg
   alt: null
 f_tags: []
 f_category:

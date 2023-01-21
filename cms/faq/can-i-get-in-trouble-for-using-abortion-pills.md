@@ -1,9 +1,9 @@
 ---
 title: Can I get in trouble for using abortion pills?
 slug: can-i-get-in-trouble-for-using-abortion-pills
-updated-on: '2022-10-26T19:41:40.110Z'
+updated-on: '2022-12-20T18:14:33.891Z'
 created-on: '2020-10-29T07:44:22.281Z'
-published-on: '2022-10-26T19:41:40.110Z'
+published-on: '2022-12-20T18:14:33.891Z'
 f_sort-by: 110
 f_category: cms/faq-category/safety-considerations.md
 layout: '[faq].html'
@@ -18,17 +18,17 @@ The [Repro Legal Helpline](https://www.reprolegalhelpline.org/sma-contact-the-he
 
 ##### ‍**Why have some people gotten in legal trouble?**
 
-Self-managed abortion is not a criminal act, and restricting abortion access is considered by leading justice organizations to be a human rights violation. However, some people who have used abortion pills on their own have gotten in [legal trouble](https://www.ifwhenhow.org/wp-content/uploads/2020/04/20_04_Final_SMA_TheLaw_COVID-19_FactSheet_PDF.pdf) in the United States. Between 2000 and 2020, there have been [at least 61 cases](file:///Users/Elisa/Downloads/22_08_SMA-Criminalization-Research-Preliminary-Release-Findings-Brief_FINAL-1.pdf) where people have been prosecuted for self-managing their abortions (charges have varied from concealing a birth to homicide) or helping someone else self-manage an abortion. During that same time, research suggests that a hundred thousand (or likely more) people have self-managed their abortions. We do not know how new laws about abortion will affect the criminalization of people for self-managing an abortion.
+Self-managed abortion is not a criminal act, and restricting abortion access is considered by leading justice organizations to be a human rights violation. However, some people who have used abortion pills on their own have gotten in [legal trouble](https://www.ifwhenhow.org/wp-content/uploads/2021/11/20_04_Final_SMA_TheLaw_COVID-19_FactSheet_PDF.pdf) in the United States. Between 2000 and 2020, there have been [at least 61 cases](https://www.ifwhenhow.org/resources/self-care-criminalized-preliminary-findings/) where people have been prosecuted for self-managing their abortions (charges have varied from concealing a birth to homicide) or helping someone else self-manage an abortion. During that same time, research suggests that a hundred thousand (or likely more) people have self-managed their abortions. We do not know how new laws about abortion will affect the criminalization of people for self-managing an abortion.
 
 ##### These examples can help you understand the ways in which people have gotten in legal trouble in the past:
 
 > **Example 1:** “I went to urgent care because I was scared about the bleeding, and my doctor reported me to the police.”
 
-Everyone should be able to access urgent care when they are concerned about their health. But, in a few cases urgent care staff have called the police on people who have taken abortion pills that they purchased online. This is not ethical and should not happen. When seeking urgent or emergent care, people are not required to report to clinicians that they have used abortion pills. The symptoms after taking abortion pills are the same as a miscarriage. [Blood tests do not reveal any differences between a miscarriage and a medication abortion](http://gynuity.org/resources/info/faq-on-misoprostol-detection-in-blood/). Medical providers can safely and effectively care for patients who have used abortion pills without needing to know their full medical history.
+Everyone should be able to access urgent care when they are concerned about their health. But, in a few cases urgent care staff have called the police on people who have taken abortion pills that they purchased online. This is not ethical and should not happen. When seeking urgent or emergent care, people are not required to report to clinicians that they have used abortion pills. The symptoms after taking abortion pills are the same as a miscarriage. [Blood tests do not reveal any differences between a miscarriage and a medication abortion](https://gynuity.org/resources/info/faq-on-misoprostol-detection-in-blood/). Medical providers can safely and effectively care for patients who have used abortion pills without needing to know their full medical history.
 
 Federal law ([EMTALA](https://www.cms.gov/medicareprovider-enrollment-and-certificationsurveycertificationgeninfopolicy-and-memos-states-and/reinforcement-emtala-obligations-specific-patients-who-are-pregnant-or-are-experiencing-pregnancy-0)) also says that clinicians must provide abortion care to address a medical emergency for all patients who present at a hospital emergency department. This applies even in states that have restrictions on abortion.
 
-People can often avoid the need for urgent care by consulting with a knowledgeable clinician by phone. The [Miscarriage and Abortion Hotline](http://www.mahotline.org) offers free text and phone assistance to anyone who has medical questions.
+People can often avoid the need for urgent care by consulting with a knowledgeable clinician by phone. The [Miscarriage and Abortion Hotline](https://www.mahotline.org) offers free text and phone assistance to anyone who has medical questions.
 
 > **Example 2:** “The tissue that came out was bigger than I expected and I didn’t know what to do with it.”
 

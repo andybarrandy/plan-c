@@ -13,6 +13,10 @@ f_cost-sort: 320
 f_basic-category-2: Pills by mail with clinician support
 f_ages-served-details: In-clinic services available for those under 16
 f_includes-required-for-this-to-work: AP1, VV1
+f_cost-details-2: |-
+  Can help connect patients with abortion funds
+
+  ‍
 title: Planned Parenthood League of Massachusetts
 f_cost: $0-700
 f_financial-assistance-details: |-
@@ -30,31 +34,20 @@ f_states-test:
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-10-03T22:56:53.085Z'
+updated-on: '2023-01-10T20:13:38.378Z'
 created-on: '2022-01-20T22:31:10.139Z'
-published-on: '2022-10-03T22:56:53.085Z'
-f_summary-2-0: >-
-  Planned Parenthood League of Massachusetts states that it is proud to offer
-  medication abortion care via telehealth to patients across Massachusetts in an
-  effort to increase access and remove barriers to much needed health care.
-  Price range dependent on need for birth control prescription, follow-up care,
-  and potential for in-clinic services in the event of ineligibility for
-  Mife-by-Mail, if patient chooses.
-
-
-  If you’re interested in telemedicine abortion care, please give us a call at
-  1-800-258-4448 to schedule an appointment. There is no online appointment
-  scheduling for this service at this time. Please expect the visit to take
-  approximately 90 minutes. Pills can only be mailed to Massachusetts addresses.
+published-on: '2023-01-10T20:58:00.875Z'
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
-f_accepts-medicaid: false
+f_accepts-insurance: true
+f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_can-help-you-connect-with-abortion-funds: false
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Can help connect patients with abortion funds
+Planned Parenthood League of Massachusetts states that it is proud to offer medication abortion care via telehealth to patients across Massachusetts in an effort to increase access and remove barriers to much needed health care. Price range dependent on need for birth control prescription, follow-up care, and potential for in-clinic services in the event of ineligibility for Mife-by-Mail, if patient chooses.
 
-‍
+If you’re interested in telemedicine abortion care, please give us a call at 1-800-258-4448 to schedule an appointment. There is no online appointment scheduling for this service at this time. Please expect the visit to take approximately 90 minutes. Pills can only be mailed to Massachusetts addresses.

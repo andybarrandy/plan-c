@@ -10,7 +10,7 @@ f_author-2: Carrie N. Baker
 slug: people-are-getting-creative-obtaining-abortion-pills-online
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62041d049e6ce90d160099b1_TelemedicineAbortionMap-2-1024x642.png
+    /assets/external/62041d049e6ce90d160099b1_telemedicineabortionmap-2-1024x642.png
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -9,7 +9,7 @@ f_author-2: Kiara Alfonseca
 slug: medication-abortion-put-in-spotlight-by-texas-ban
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614bae592734963b875cc168_texas-abortion-protest-gty-jc-210909_1631200352185_hpMain_16x9_992.jpg
+    /assets/external/614bae592734963b875cc168_texas-abortion-protest-gty-jc-210909_1631200352185_hpmain_16x9_992.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

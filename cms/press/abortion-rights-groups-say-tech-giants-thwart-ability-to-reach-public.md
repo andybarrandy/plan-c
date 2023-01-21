@@ -9,7 +9,7 @@ f_publication: The Hill
 f_author-2: Rebecca Klar
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61dc837dc0faea25ca816f59_Screen%20Shot%202022-01-10%20at%2012.05.20%20PM.png
+    /assets/external/61dc837dc0faea25ca816f59_screen20shot202022-01-1020at2012.05.20%20PM.png
   alt: null
 slug: abortion-rights-groups-say-tech-giants-thwart-ability-to-reach-public
 f_posted-by: cms/author/plan-c.md

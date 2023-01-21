@@ -8,13 +8,13 @@ title: Square - The Facts carousel
 slug: square-the-facts-carousel
 f_multi-image:
   - url: >-
-      https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271d404009df8285013faf4_3a%20-%20Just%20five%20little%20pills.jpeg
+      /assets/external/6271d404009df8285013faf4_3a20-20just20five20little20pills.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271d40bf090c2e8aa3c72c8_3b%20-%20Just%20five%20little%20pills.jpeg
+      /assets/external/6271d40bf090c2e8aa3c72c8_3b20-20just20five20little20pills.jpeg
     alt: null
   - url: >-
-      https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271d40b804b5ceee156fb1b_3c%20-%20Just%20five%20little%20pills.jpeg
+      /assets/external/6271d40b804b5ceee156fb1b_3c20-20just20five20little20pills.jpeg
     alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/plan-c-social-toolkit.md

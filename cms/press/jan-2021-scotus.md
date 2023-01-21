@@ -12,8 +12,7 @@ f_category:
 f_tags:
   - cms/media-tags/legal.md
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/600130a529438c2b934c0cf1_Plan%20C%20-%20%20SCOTUS.png
+  url: /assets/external/600130a529438c2b934c0cf1_plan20c20-2020scotus.png
   alt: null
 f_excerpt: >-
   On January 12, 2021, despite the ongoing national emergency due to the

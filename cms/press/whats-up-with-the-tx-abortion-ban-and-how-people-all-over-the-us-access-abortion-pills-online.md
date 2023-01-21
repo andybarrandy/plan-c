@@ -13,7 +13,7 @@ slug: >-
   whats-up-with-the-tx-abortion-ban-and-how-people-all-over-the-us-access-abortion-pills-online
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6184424e93188013df2bea09_Screen%20Shot%202021-11-04%20at%202.27.47%20PM.png
+    /assets/external/6184424e93188013df2bea09_screen20shot202021-11-0420at202.27.47%20PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

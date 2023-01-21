@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Rewire News
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c199cac710ea459af9f2_Rewire-%20There%27s%20Now%20an%20Option.jpg
+    /assets/external/5fa1c199cac710ea459af9f2_rewire-20there27s20now20an20option.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

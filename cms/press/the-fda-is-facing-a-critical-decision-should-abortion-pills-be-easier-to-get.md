@@ -9,7 +9,7 @@ f_publication: Huffington Post
 f_author-2: Alanna Vagianos
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61dc80c44f98c85e40ab20c5_Screen%20Shot%202022-01-10%20at%2011.53.42%20AM.png
+    /assets/external/61dc80c44f98c85e40ab20c5_screen20shot202022-01-1020at2011.53.42%20AM.png
   alt: null
 slug: the-fda-is-facing-a-critical-decision-should-abortion-pills-be-easier-to-get
 f_posted-by: cms/author/plan-c.md

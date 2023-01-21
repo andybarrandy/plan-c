@@ -10,7 +10,7 @@ f_author-2: Katie Way
 slug: how-to-get-an-abortion-if-youre-under-18
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61395c69442f1ebcfc37697a_Screen%20Shot%202021-09-08%20at%207.03.07%20PM.png
+    /assets/external/61395c69442f1ebcfc37697a_screen20shot202021-09-0820at207.03.07%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

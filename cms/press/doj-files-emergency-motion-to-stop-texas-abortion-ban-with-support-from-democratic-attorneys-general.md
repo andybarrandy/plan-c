@@ -10,8 +10,7 @@ title: >-
 f_publication: Ms. Magazine
 f_author-2: Carrie N. Baker
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba81dc5ef502d20007091_1.jpg
+  url: /assets/external/614ba81dc5ef502d20007091_1.jpg
   alt: null
 slug: >-
   doj-files-emergency-motion-to-stop-texas-abortion-ban-with-support-from-democratic-attorneys-general

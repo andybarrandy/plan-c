@@ -12,8 +12,7 @@ f_author-2: Kelly Hayes
 slug: >-
   plan-c-tbaf-partner-to-host-mobile-billboard-outreach-event-highlighting-abortion-pill-access-saturday
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62041a0a2470abea2bfe488a_Mockup-Truck_Tampa.png
+  url: /assets/external/62041a0a2470abea2bfe488a_mockup-truck_tampa.png
   alt: null
 f_category:
   - cms/media-categories/press.md

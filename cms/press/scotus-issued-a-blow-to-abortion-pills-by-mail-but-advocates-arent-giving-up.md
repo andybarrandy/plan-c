@@ -8,8 +8,7 @@ title: SCOTUS Issued a Blow to Abortion Pills by Mail, But Advocates Aren’t Gi
 f_publication: Truthout
 f_author-2: Amy Littlefield
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/600f7062236334e22aa40ac6_2021_0122-miso2-1200x900.jpg
+  url: /assets/external/600f7062236334e22aa40ac6_2021_0122-miso2-1200x900.jpg
   alt: null
 slug: scotus-issued-a-blow-to-abortion-pills-by-mail-but-advocates-arent-giving-up
 f_tags:

@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bec76aa2e2e99fafbcaa_VICE-%20Buying%20Abortion%20Pills%20Online%20Is%20Overwhelmingly%20Safe%2C%20But%20Maybe%20Illegal.jpg
+    /assets/external/5fa1bec76aa2e2e99fafbcaa_vice-20buying20abortion20pills20online20is20overwhelmingly20safe2c20but20maybe20illegal.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

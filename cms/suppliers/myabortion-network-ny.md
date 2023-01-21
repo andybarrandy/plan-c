@@ -11,17 +11,11 @@ f_ship-time-low-limit: 3
 f_cost-sort: 600
 f_basic-category-2: Pills by mail with clinician support
 f_includes-required-for-this-to-work: AP1, OC1, VV1
+f_cost-details-2: >-
+  Pricing varies by location. Check the website for details. Discounts may be
+  available for those who cannot pay the entire amount.
 title: MyAbortion Network NY
 f_cost: $600
-f_summary-2-0: >-
-  Early abortion is safe and common. MyAbortion Network states that it offers
-  private and personalized options for ending your early pregnancy, including by
-  using pills in the comfort of your own home. We are primary care clinicians
-  who believe that early abortion care can and should be part of regular medical
-  care.
-
-
-  ‍
 f_financial-assistance-details: |-
   Financial assistance available
 
@@ -38,16 +32,20 @@ f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/online-consultation-by-form.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-10-03T23:00:37.953Z'
+updated-on: '2023-01-10T20:12:09.835Z'
 created-on: '2021-12-09T19:39:55.396Z'
-published-on: '2022-10-03T23:00:37.953Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
+f_accepts-insurance: true
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_can-help-you-connect-with-abortion-funds: false
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Pricing varies by location. Check the website for details. Discounts may be available for those who cannot pay the entire amount.
+Early abortion is safe and common. MyAbortion Network states that it offers private and personalized options for ending your early pregnancy, including by using pills in the comfort of your own home. We are primary care clinicians who believe that early abortion care can and should be part of regular medical care.
+
+‍

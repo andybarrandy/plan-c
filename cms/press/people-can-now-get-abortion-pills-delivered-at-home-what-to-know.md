@@ -10,7 +10,7 @@ f_author-2: Julia Ries
 slug: people-can-now-get-abortion-pills-delivered-at-home-what-to-know
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/607f18e6767e1456a8fb96df_Screenshot_2021-04-20%20People%20Can%20Now%20Get%20Abortion%20Pills%20Through%20the%20Mail.png
+    /assets/external/607f18e6767e1456a8fb96df_screenshot_2021-04-2020people20can20now20get20abortion20pills20through20the20mail.png
   alt: null
 f_category:
   - cms/media-categories/press.md

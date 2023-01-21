@@ -13,7 +13,7 @@ slug: >-
   self-managed-abortions-could-be-legally-riskier-after-texass-six-week-law-advocates-say
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614bad122a1f1947f66121ed_Screen%20Shot%202021-09-22%20at%204.28.45%20PM.png
+    /assets/external/614bad122a1f1947f66121ed_screen20shot202021-09-2220at204.28.45%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

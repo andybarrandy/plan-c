@@ -15,7 +15,7 @@ f_publication: PolitiFact
 f_author-2: Amy Sherman
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6351616fd827eb40a99f21cf_dd63ff5744c35597997091b5f1c5cf19.jpeg
+    /assets/external/6351616fd827eb40a99f21cf_dd63ff5744c35597997091b5f1c5cf19.jpeg
   alt: null
 slug: what-would-the-end-of-roe-mean-for-access-to-abortion-pill
 f_tags: []

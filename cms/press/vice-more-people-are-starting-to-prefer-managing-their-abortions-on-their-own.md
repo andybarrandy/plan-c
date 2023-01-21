@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be0942745200a6a819e7_VICE-%20More%20People%20Are%20Starting%20to%20Prefer%20Managing%20Their%20Abortions%20on%20Their%20Own.png
+    /assets/external/5fa1be0942745200a6a819e7_vice-20more20people20are20starting20to20prefer20managing20their20abortions20on20their20own.png
   alt: null
 f_category:
   - cms/media-categories/press.md

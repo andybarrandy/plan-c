@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: CNN
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c15017a91e4c35be1618_CNN-%20Online%20abortion%20pill%20provider%20ordered%20to%20cease%20delivery%20by%20FDA.jpg
+    /assets/external/5fa1c15017a91e4c35be1618_cnn-20online20abortion20pill20provider20ordered20to20cease20delivery20by20fda.jpg
   alt: null
 f_source-url: >-
   https://www.cnn.com/2019/03/15/health/fda-aid-access-abortion-pill-warning/index.html

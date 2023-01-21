@@ -10,7 +10,7 @@ f_author-2: Ambar Pardilla and Arielle Avila
 slug: 20-organizations-fighting-the-texas-abortion-ban
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6139566c6e2aa8e0a90515ed_Screen%20Shot%202021-09-08%20at%206.37.16%20PM.png
+    /assets/external/6139566c6e2aa8e0a90515ed_screen20shot202021-09-0820at206.37.16%20PM.png
   alt: null
 f_category:
   - cms/media-categories/press.md

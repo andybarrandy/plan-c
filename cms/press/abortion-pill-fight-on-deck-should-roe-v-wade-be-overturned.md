@@ -18,7 +18,7 @@ title: Abortion Pill Fight on Deck Should Roe V. Wade Be Overturned
 f_publication: Cheddar
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62a27dc0cfd74df59a58203f_Screen%20Shot%202022-06-09%20at%204.09.46%20PM.png
+    /assets/external/62a27dc0cfd74df59a58203f_screen20shot202022-06-0920at204.09.46%20PM.png
   alt: null
 slug: abortion-pill-fight-on-deck-should-roe-v-wade-be-overturned
 f_posted-by: cms/author/plan-c.md

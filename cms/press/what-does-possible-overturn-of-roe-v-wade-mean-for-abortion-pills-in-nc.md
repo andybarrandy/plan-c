@@ -13,8 +13,7 @@ f_publication: WRAL
 f_author-2: Laura Leslie
 slug: what-does-possible-overturn-of-roe-v-wade-mean-for-abortion-pills-in-nc
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63503bad825c5ce492a4a270_download777.jpeg
+  url: /assets/external/63503bad825c5ce492a4a270_download777.jpeg
   alt: null
 f_tags: []
 f_category:

@@ -13,7 +13,7 @@ slug: >-
   texas-abortion-law-complicates-san-antonio-groups-mission-to-help-undocumented-immigrants-even-those-raped-en-route-to-the-u-s
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c273f10c3b075498254028_Screen%20Shot%202021-12-21%20at%205.40.03%20PM.png
+    /assets/external/61c273f10c3b075498254028_screen20shot202021-12-2120at205.40.03%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

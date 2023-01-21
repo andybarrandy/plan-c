@@ -17,7 +17,7 @@ created-on: '2020-10-30T19:56:35.643Z'
 published-on: '2022-05-09T20:20:59.935Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1b1022b5585e177781111_THE%20V%20WORD-%20IN%20THEIR%20SHOES-%20FRANCINE%20COEYTAUX.png
+    /assets/external/5fa1b1022b5585e177781111_the20v20word-20in20their20shoes-20francine20coeytaux.png
   alt: null
 f_publication: The V Word
 f_source-url: https://vwordpod.com/episode/self-managed-abortion-with-francine-coeytaux/

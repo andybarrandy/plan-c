@@ -9,7 +9,7 @@ published-on: '2022-05-09T20:21:52.895Z'
 f_publication: Ms Magazine
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bccc4274526737a75034_Ms%20Magazine-%20We%20Heart-%20The%20Animated%20History%20of%20Abortion%20Pills.png
+    /assets/external/5fa1bccc4274526737a75034_ms20magazine-20we20heart-20the20animated20history20of20abortion20pills.png
   alt: null
 f_category:
   - cms/media-categories/press.md

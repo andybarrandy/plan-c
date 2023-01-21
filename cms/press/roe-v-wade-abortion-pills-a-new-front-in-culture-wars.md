@@ -10,8 +10,7 @@ title: 'Roe v Wade: Abortion pills a new front in culture wars'
 f_publication: BBC News
 f_author-2: Holly Honderich
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6346efac8197a95788cdf7be_bbc1.jpeg
+  url: /assets/external/6346efac8197a95788cdf7be_bbc1.jpeg
   alt: null
 slug: roe-v-wade-abortion-pills-a-new-front-in-culture-wars
 f_tags: []

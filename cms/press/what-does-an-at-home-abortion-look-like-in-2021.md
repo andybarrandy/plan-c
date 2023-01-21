@@ -10,7 +10,7 @@ f_author-2: Lizzie Widdicombe
 slug: what-does-an-at-home-abortion-look-like-in-2021
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c2726a563240feec9c0b5f_Screen%20Shot%202021-12-21%20at%205.33.22%20PM.png
+    /assets/external/61c2726a563240feec9c0b5f_screen20shot202021-12-2120at205.33.22%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

@@ -5,7 +5,7 @@ title: 2 Plus Abortions
 f_url-text: 2plusabortions.com
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6000e90ade3ef40c72b7f67a_Screen%20Shot%202021-01-14%20at%204.59.45%20PM.png
+    /assets/external/6000e90ade3ef40c72b7f67a_screen20shot202021-01-1420at204.59.45%20PM.png
   alt: null
 slug: 2-plus-abortions
 f_category: cms/resources-categories/advocacy.md

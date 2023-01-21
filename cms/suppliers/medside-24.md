@@ -1,12 +1,13 @@
 ---
 f_url: https://www.medside24.com/order
+f_cost-details-2: We paid by debit card.
 title: Medside 24
 f_cost: $195
 f_ship-time: 12-13 days
 slug: medside-24
-updated-on: '2022-11-28T06:37:44.221Z'
+updated-on: '2023-01-10T19:55:00.528Z'
 created-on: '2020-10-31T19:19:23.201Z'
-published-on: '2022-11-28T06:43:46.908Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_display-name: Medside 24
 f_legal-level-text: 'Yes'
 f_states-test:
@@ -79,25 +80,20 @@ f_financial-assistance-details: No financial assistance available
 f_gestational-age-dropdown: For pregnancies up to 11 weeks
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
-f_includes-required-for-this-to-work: AP1
-f_summary-2-0: >-
-  Online pharmacy that states that it sells abortion pills (often called MTP
-  kits or Mifegest Kit). The pills we received had the same active ingredients
-  as in the FDA-approved abortion pills available through US clinics, but the
-  manufacturers are not certified or inspected by the FDA. Our laboratory
-  testing of similar products received from online pharmacies found them to be
-  real products of acceptable quality.
-
-
-  ‍
+  - cms/supplier-options/ad1.md
+f_includes-required-for-this-to-work: AP1, AD1
 f_tier: 3
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: true
+f_financial-assistance: No financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-We paid by debit card.
+Online pharmacy that states that it sells abortion pills (often called MTP kits or Mifegest Kit). The pills we received had the same active ingredients as in the FDA-approved abortion pills available through US clinics, but the manufacturers are not certified or inspected by the FDA. Our laboratory testing of similar products received from online pharmacies found them to be real products of acceptable quality.
+
+‍

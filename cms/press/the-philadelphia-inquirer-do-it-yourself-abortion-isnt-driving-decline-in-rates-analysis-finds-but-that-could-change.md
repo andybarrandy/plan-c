@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Philadelphia Inquirer
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bde6c28782454807e00c_The%20Philadelphia%20Inquirer-%20Do-it-yourself%20.png
+    /assets/external/5fa1bde6c28782454807e00c_the20philadelphia20inquirer-20do-it-yourself20.png
   alt: null
 f_category:
   - cms/media-categories/press.md

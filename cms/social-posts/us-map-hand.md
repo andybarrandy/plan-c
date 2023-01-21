@@ -3,8 +3,7 @@ f_category: IG Post
 title: Square - US Map + hand illustration
 slug: us-map-hand
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62b7dbb9e4857d0d9fa6862f_PlanC_Reality-Post5.png
+  url: /assets/external/62b7dbb9e4857d0d9fa6862f_planc_reality-post5.png
   alt: null
 updated-on: '2022-06-26T04:08:30.981Z'
 created-on: '2022-04-08T22:33:28.260Z'

@@ -13,7 +13,7 @@ f_publication: CNN
 f_author-2: Jennifer Korn and Clare Duffy
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63489fd631a556adf3697451_220624124352-03-abortion-rights-activists-062422.jpeg
+    /assets/external/63489fd631a556adf3697451_220624124352-03-abortion-rights-activists-062422.jpeg
   alt: null
 slug: >-
   search-histories-location-data-text-messages-how-personal-data-could-be-used-to-enforce-anti-abortion-laws

@@ -4,8 +4,7 @@ f_sort: 4
 title: Square - US Map + hand illustration no caption
 slug: square-us-map-hand-illustration-no-caption
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6250b815cc34d1aa1896f4ff_unnamed.png
+  url: /assets/external/6250b815cc34d1aa1896f4ff_unnamed.png
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/plan-c-social-toolkit.md

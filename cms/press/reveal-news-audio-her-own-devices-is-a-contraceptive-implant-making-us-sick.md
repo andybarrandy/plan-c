@@ -11,7 +11,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Reveal News
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c42153f5430aeec762a5_Reveal%20News%20%5Baudio%5D-%20Her%20own%20devices-%20Is%20a%20contraceptive%20implant%20making%20us%20sick%3F.png
+    /assets/external/5fa1c42153f5430aeec762a5_reveal20news205baudio5d-20her20own20devices-20is20a20contraceptive20implant20making20us20sick3f.png
   alt: null
 f_category:
   - cms/media-categories/press.md

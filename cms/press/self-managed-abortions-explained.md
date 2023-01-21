@@ -10,7 +10,7 @@ f_author-2: Kady Ruth Ashcraft
 slug: self-managed-abortions-explained
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62a27ed89cf3c1786f24ba4c_Screen%20Shot%202022-06-09%20at%204.14.28%20PM.png
+    /assets/external/62a27ed89cf3c1786f24ba4c_screen20shot202022-06-0920at204.14.28%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

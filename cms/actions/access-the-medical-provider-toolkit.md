@@ -3,8 +3,7 @@ f_url-text: Access the Toolkit
 title: Access the medical provider toolkit
 slug: access-the-medical-provider-toolkit
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa5ba71f9ced01b3f1f1e62_doctor-pills.jpg
+  url: /assets/external/5fa5ba71f9ced01b3f1f1e62_doctor-pills.jpg
   alt: null
 updated-on: '2020-11-06T21:04:53.167Z'
 created-on: '2020-10-11T21:06:46.526Z'

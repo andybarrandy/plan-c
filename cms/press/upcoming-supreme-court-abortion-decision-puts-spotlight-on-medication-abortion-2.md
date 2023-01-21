@@ -11,8 +11,7 @@ title: Upcoming Supreme Court abortion decision puts spotlight on medication abo
 f_publication: CBS
 f_author-2: ' Melissa Quinn'
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/635031355fa826750fcae040_download999.jpeg
+  url: /assets/external/635031355fa826750fcae040_download999.jpeg
   alt: null
 slug: >-
   upcoming-supreme-court-abortion-decision-puts-spotlight-on-medication-abortion-2

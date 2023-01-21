@@ -14,7 +14,7 @@ created-on: '2020-10-30T19:56:36.810Z'
 published-on: '2021-02-02T20:48:01.920Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa33d0ff81fd60df3db4068_U.S.-Based-Online-Pharmacy-First-to-Ship-Abortion-Pills-to-Patients-Inside-the-U.S..jpg
+    /assets/external/5fa33d0ff81fd60df3db4068_u.S.-Based-Online-Pharmacy-First-to-Ship-Abortion-Pills-to-Patients-Inside-the-U.S..jpg
   alt: null
 f_publication: Ms. Magazine
 f_source-url: >-

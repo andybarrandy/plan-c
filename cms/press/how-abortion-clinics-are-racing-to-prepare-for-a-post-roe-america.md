@@ -13,7 +13,7 @@ f_publication: WIRED
 f_author-2: Max G. Levy
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634ebcedfb9c7384aff81f30_SCOTUS-Abortion-Opinion-592x431.jpeg
+    /assets/external/634ebcedfb9c7384aff81f30_scotus-abortion-opinion-592x431.jpeg
   alt: null
 slug: how-abortion-clinics-are-racing-to-prepare-for-a-post-roe-america
 f_tags: []

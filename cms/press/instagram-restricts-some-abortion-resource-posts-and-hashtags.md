@@ -13,7 +13,7 @@ f_author-2: Ben Goggin
 slug: instagram-restricts-some-abortion-resource-posts-and-hashtags
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6348869902fd7d5308be65a0_220624-abortion-pill-mjf-1216-5e9f8b.webp
+    /assets/external/6348869902fd7d5308be65a0_220624-abortion-pill-mjf-1216-5e9f8b.webp
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

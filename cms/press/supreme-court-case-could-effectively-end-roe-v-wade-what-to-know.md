@@ -10,7 +10,7 @@ f_author-2: Julia Ries
 slug: supreme-court-case-could-effectively-end-roe-v-wade-what-to-know
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c27ae41ca6c910a590382c_Screen%20Shot%202021-12-21%20at%206.09.45%20PM.png
+    /assets/external/61c27ae41ca6c910a590382c_screen20shot202021-12-2120at206.09.45%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

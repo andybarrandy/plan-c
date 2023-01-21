@@ -4,7 +4,7 @@ title: Judicial Bypass Wikipedia
 slug: judicial-bypass-wikipedia
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/610069e4b4254a6bbe1027fb_Screen%20Shot%202021-07-27%20at%201.17.35%20PM.png
+    /assets/external/610069e4b4254a6bbe1027fb_screen20shot202021-07-2720at201.17.35%20PM.png
   alt: null
 f_category: cms/resources-categories/legal.md
 updated-on: '2021-08-20T21:33:43.988Z'

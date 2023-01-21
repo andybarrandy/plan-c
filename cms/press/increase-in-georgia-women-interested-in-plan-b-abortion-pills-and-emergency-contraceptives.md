@@ -17,8 +17,7 @@ f_author-2: Sawyer Buccy
 slug: >-
   increase-in-georgia-women-interested-in-plan-b-abortion-pills-and-emergency-contraceptives
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6346ebc6f583d1442519ff7f_msmag3.jpeg
+  url: /assets/external/6346ebc6f583d1442519ff7f_msmag3.jpeg
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

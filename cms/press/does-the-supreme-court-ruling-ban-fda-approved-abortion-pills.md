@@ -13,8 +13,7 @@ f_publication: Poynter
 f_author-2: Al Tompkins
 slug: does-the-supreme-court-ruling-ban-fda-approved-abortion-pills
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634889e4a12fd69d5bf41e49_AP_22124662794265-1500x1002.jpeg
+  url: /assets/external/634889e4a12fd69d5bf41e49_ap_22124662794265-1500x1002.jpeg
   alt: null
 f_tags: []
 f_category:

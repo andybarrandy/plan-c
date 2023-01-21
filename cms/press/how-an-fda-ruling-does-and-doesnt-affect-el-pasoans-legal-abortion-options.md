@@ -10,8 +10,7 @@ title: >-
 f_publication: El Paso Matters
 f_author-2: Victoria Rossi
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61dc84a1e1095525dc7d217c_Abortion-feature-photo-820x394.jpg
+  url: /assets/external/61dc84a1e1095525dc7d217c_abortion-feature-photo-820x394.jpg
   alt: null
 slug: how-an-fda-ruling-does-and-doesnt-affect-el-pasoans-legal-abortion-options
 f_category:

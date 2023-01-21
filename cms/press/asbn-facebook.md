@@ -11,7 +11,7 @@ f_publication: ASBN
 slug: asbn-facebook
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62b4cc64130c7580c70f9bbb_Screen%20Shot%202022-06-23%20at%201.26.06%20PM.png
+    /assets/external/62b4cc64130c7580c70f9bbb_screen20shot202022-06-2320at201.26.06%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

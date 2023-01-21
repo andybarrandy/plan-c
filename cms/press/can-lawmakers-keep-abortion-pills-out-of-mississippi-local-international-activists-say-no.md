@@ -15,8 +15,7 @@ slug: >-
   can-lawmakers-keep-abortion-pills-out-of-mississippi-local-international-activists-say-no
 f_tags: []
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356bac700508800d4348595_abortion-medication-scaled.webp
+  url: /assets/external/6356bac700508800d4348595_abortion-medication-scaled.webp
   alt: null
 f_category:
   - cms/media-categories/press.md

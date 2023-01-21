@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: BUST Magazine
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c40525214db387419f67_BUST%20Magazine-%20Special%20Delivery-%20Abortion%20Pills%20By%20Mail.jpg
+    /assets/external/5fa1c40525214db387419f67_bust20magazine-20special20delivery-20abortion20pills20by20mail.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

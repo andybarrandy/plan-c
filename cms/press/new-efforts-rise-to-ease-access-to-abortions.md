@@ -9,8 +9,7 @@ f_publication: Northwest Arkansas Democrat Gazette
 f_author-2: ' Compiled Democrat-Gazette Staff From Wire Reports'
 slug: new-efforts-rise-to-ease-access-to-abortions
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61395bbe633d1d1ce5b20552_AP21247566684459_t800.jpg
+  url: /assets/external/61395bbe633d1d1ce5b20552_ap21247566684459_t800.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

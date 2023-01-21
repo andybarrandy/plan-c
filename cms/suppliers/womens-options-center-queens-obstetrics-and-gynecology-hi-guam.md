@@ -11,9 +11,9 @@ f_ship-time-low-limit: 3
 f_cost-sort: 300
 f_basic-category-2: Pills by mail with clinician support
 f_includes-required-for-this-to-work: AP1, VV1
+f_cost-details-2: Price depends on complexity of your case and whether you need an ultrasound
 title: Women's Options Center (Queens Obstetrics and Gynecology) HI Guam
-f_cost: $300-$580
-f_summary-2-0: "Women's Options Center states that it offers the full range of reproductive health care including medical and surgical abortion, contraceptive counseling and prenatal care. \_We offer in-person visits on O’ahu and telemedicine services throughout Hawai’i and Guam. We support you fully and are proud to provide care for whatever choice you make."
+f_cost: $300-580
 f_financial-assistance-details: |-
   Financial assistance available
 
@@ -32,16 +32,18 @@ f_states-test:
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-10-03T22:52:36.714Z'
+updated-on: '2023-01-10T20:14:34.386Z'
 created-on: '2022-03-16T20:22:46.681Z'
-published-on: '2022-10-03T22:52:36.714Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
-f_accepts-medicaid: false
+f_accepts-insurance: true
+f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_can-help-you-connect-with-abortion-funds: true
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Price depends on complexity of your case and whether you need an ultrasound
+Women's Options Center states that it offers the full range of reproductive health care including medical and surgical abortion, contraceptive counseling and prenatal care.  We offer in-person visits on O’ahu and telemedicine services throughout Hawai’i and Guam. We support you fully and are proud to provide care for whatever choice you make.

@@ -10,7 +10,7 @@ f_author-2: Tessa Stuart
 slug: how-to-order-an-abortion-online
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614bac85659b31dcfad3aa09_Screen%20Shot%202021-09-22%20at%204.26.23%20PM.png
+    /assets/external/614bac85659b31dcfad3aa09_screen20shot202021-09-2220at204.26.23%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

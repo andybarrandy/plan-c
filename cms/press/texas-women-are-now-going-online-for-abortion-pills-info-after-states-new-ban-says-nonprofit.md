@@ -13,7 +13,7 @@ slug: >-
   texas-women-are-now-going-online-for-abortion-pills-info-after-states-new-ban-says-nonprofit
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba710452c34c51a2f1cf5_Screen%20Shot%202021-09-22%20at%204.03.03%20PM.png
+    /assets/external/614ba710452c34c51a2f1cf5_screen20shot202021-09-2220at204.03.03%20PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: BUST Magazine
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c2198d5deaea9550f008_BUST%20Magazine-%20Cut%20The%20Bullshit-.jpg
+    /assets/external/5fa1c2198d5deaea9550f008_bust20magazine-20cut20the20bullshit-.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

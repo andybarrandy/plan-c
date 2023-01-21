@@ -9,8 +9,7 @@ f_publication: Political Gabfest Podcast, Slate
 f_author-2: Political Gabfest Podcast
 slug: the-true-crime-edition
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165dbabe59842db618aca2e_1.jpg
+  url: /assets/external/6165dbabe59842db618aca2e_1.jpg
   alt: null
 f_category:
   - cms/media-categories/developments.md

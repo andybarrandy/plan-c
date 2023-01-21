@@ -10,8 +10,7 @@ f_publication: Feminist Sleeper Cell Podcast
 f_author-2: Feminist Sleeper Cell Podcast
 slug: feminist-sleeper-cell-podcast-episode-109-did-you-get-your-lawyers-at-walmart
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6088a8a954696a01eced5efa_website-pod-header.jpg
+  url: /assets/external/6088a8a954696a01eced5efa_website-pod-header.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

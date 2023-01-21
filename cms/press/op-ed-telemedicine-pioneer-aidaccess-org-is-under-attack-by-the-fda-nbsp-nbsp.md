@@ -8,8 +8,7 @@ created-on: '2020-10-30T19:56:18.090Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Plan C
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c136df389b20a6b866fb_unnamed0.jpg
+  url: /assets/external/5fa1c136df389b20a6b866fb_unnamed0.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

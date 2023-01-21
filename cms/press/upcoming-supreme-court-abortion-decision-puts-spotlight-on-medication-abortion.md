@@ -10,7 +10,7 @@ f_author-2: Melissa Quinn
 slug: upcoming-supreme-court-abortion-decision-puts-spotlight-on-medication-abortion
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c28880a70fce2ca18afb86_Screen%20Shot%202021-12-21%20at%207.07.42%20PM.png
+    /assets/external/61c28880a70fce2ca18afb86_screen20shot202021-12-2120at207.07.42%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/featured.md

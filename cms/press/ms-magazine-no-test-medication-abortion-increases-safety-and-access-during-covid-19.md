@@ -13,7 +13,7 @@ created-on: '2020-10-30T19:56:34.380Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1b1acaa1f6559d034a472_Ms%20Magazine-%20No-Test%20Medication%20Abortion%20Increases%20Safety%20and%20Access%20During%20COVID-19.jpg
+    /assets/external/5fa1b1acaa1f6559d034a472_ms20magazine-20no-test20medication20abortion20increases20safety20and20access20during20covid-19.jpg
   alt: null
 f_publication: Ms Magazine
 f_source-url: >-

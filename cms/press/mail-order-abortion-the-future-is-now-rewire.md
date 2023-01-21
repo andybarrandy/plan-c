@@ -8,8 +8,7 @@ created-on: '2020-10-30T19:56:10.167Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Rewire News
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c534c491bbe6caf7b5ea_shutterstock_352041650-740x525.jpg
+  url: /assets/external/5fa1c534c491bbe6caf7b5ea_shutterstock_352041650-740x525.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

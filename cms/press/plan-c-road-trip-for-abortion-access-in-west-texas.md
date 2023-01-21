@@ -17,7 +17,7 @@ created-on: '2021-08-31T23:25:23.320Z'
 published-on: '2021-09-03T02:24:55.642Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6131606c981072a7c1e6b658_PLan%20C%20Truck%20back%20-%20Credit%20Plan%20C.jpg
+    /assets/external/6131606c981072a7c1e6b658_plan20c20truck20back20-20credit20plan20c.jpg
   alt: null
 layout: '[press].html'
 tags: press
@@ -31,7 +31,7 @@ In response to this developing situation of a statewide “abortion desert” on
 
 ‍
 
-![](https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613183b2264b19eb9a04c8ad_three-across.jpg)
+![](/assets/external/613183b2264b19eb9a04c8ad_three-across.jpg)
 
 1) [@thesweetfeminist](http://instagram.com/thesweetfeminist), 2) SI Design Loft, 3) [@yessiichula](http://instagram.com/yessiichula http://instagram.com/yessiichula)
 
@@ -43,7 +43,7 @@ We began at Texas Tech, hopping out in the central plaza to talk with students a
 
 ‍
 
-![](https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61315fbc1a9e9d08639facd6_Truck_color%20-%20Credit%20Plan%20C.jpg)
+![](/assets/external/61315fbc1a9e9d08639facd6_truck_color20-20credit20plan20c.jpg)
 
 The Plan C Truck in West Texas.
 
@@ -55,7 +55,7 @@ Instead of being discouraged, we took this as a reminder that we cannot accompli
 
 In Texas, we continued our art-meets-activism journey at the historic Cadillac Ranch: a DIY art installation in Amarillo featuring a row of cadillacs jutting out of the sandy soil. Each one is decorated in decades of spray paint tags, mark upon mark layered on to create a chaotic and beautiful collective collage.
 
-![](https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6131601204bd9ca85e709939_Cadillac%20Ranch%20Car%201%20-%20Credit%20Plan%20C.jpeg)
+![](/assets/external/6131601204bd9ca85e709939_cadillac20ranch20car20120-20credit20plan20c.jpeg)
 
 Car at Cadillac Ranch, Amarillo TX.
 

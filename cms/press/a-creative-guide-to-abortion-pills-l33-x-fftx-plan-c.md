@@ -8,8 +8,7 @@ f_publication: Plan C
 f_author-2: Plan C Team
 slug: a-creative-guide-to-abortion-pills-l33-x-fftx-plan-c
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/632c90b442b77742686aa946_FFTX%20(1).png
+  url: /assets/external/632c90b442b77742686aa946_fftx201.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

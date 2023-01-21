@@ -4,8 +4,7 @@ f_sort: 1
 title: Square - Abortion Pills Available via Telehealth
 slug: square-abortion-pills-available-via-telehealth
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6272c3b26d2d7f1c480dc17e_Instagram%20story%20-%2020.png
+  url: /assets/external/6272c3b26d2d7f1c480dc17e_instagram20story20-2020.png
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/teamplanc.md

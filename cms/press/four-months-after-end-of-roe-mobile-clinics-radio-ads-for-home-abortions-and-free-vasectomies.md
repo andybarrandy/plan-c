@@ -17,8 +17,7 @@ title: >-
 f_publication: St. Louis Post-Dispatch
 f_author-2: Michele Munz
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63718c8bf1ff4682bfb20d18_636452feee1b4.webp
+  url: /assets/external/63718c8bf1ff4682bfb20d18_636452feee1b4.webp
   alt: null
 slug: >-
   four-months-after-end-of-roe-mobile-clinics-radio-ads-for-home-abortions-and-free-vasectomies

@@ -12,8 +12,7 @@ f_author-2: Carrie N. Baker
 slug: >-
   telemedicine-abortion-provider-rebecca-gomperts-gets-abortion-pills-into-the-hands-of-those-who-need-them-its-a-privilege
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/621fdcd502401124f6266621_GettyImages-1228673171.jpg
+  url: /assets/external/621fdcd502401124f6266621_gettyimages-1228673171.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

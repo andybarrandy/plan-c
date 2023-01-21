@@ -8,8 +8,7 @@ f_excerpt: >-
 title: ACOG Statement on Mailing Abortion Pills
 slug: acog-statement-on-mailing
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa312d468ff8ab773faedb2_press-dev-acog.jpg
+  url: /assets/external/5fa312d468ff8ab773faedb2_press-dev-acog.jpg
   alt: null
 f_category:
   - cms/media-categories/developments.md

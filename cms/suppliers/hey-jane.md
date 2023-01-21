@@ -1,13 +1,16 @@
 ---
 f_url: https://heyjane.com
+f_cost-details-2: >-
+  Sliding scale available for those needing financial assistance. Some insurance
+  plans accepted. Additional financial assistance available.
 title: Hey Jane
 f_cost: $199-409
 f_ship-time-details: Depends on selected shipping method
 f_ship-time: 1-5 days
 slug: hey-jane
-updated-on: '2022-12-01T20:38:44.594Z'
+updated-on: '2023-01-10T20:21:41.913Z'
 created-on: '2020-10-31T19:19:20.233Z'
-published-on: '2022-12-01T20:39:20.266Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_display-name: Hey Jane
 f_legal-level-text: 'No'
 f_tier: 1
@@ -33,32 +36,6 @@ f_includes:
 f_includes-required-for-this-to-work: AP1, VV2, OC1
 f_cost-sort: 199
 f_sliding-scale-available: true
-f_summary-2-0: >-
-  Hey Jane states that it is a virtual clinic offering safe and private abortion
-  care from home. With Hey Jane, you get FDA-approved abortion pills discreetly
-  delivered fast, plus ongoing medical and emotional support. Our Complete Care
-  model means that we ensure your privacy, safety, and support every step of the
-  way.
-
-
-  *   Some insurance plans accepted
-
-  *   Financial assistance through sliding scale and abortion funds available  
-      
-  *   Consult with a medical provider within 1-2 business days
-
-  *   FDA-approved medication sent in discreet packaging
-
-  *   Free shipping
-
-  *   Text, call, or video chat with our clinical care team
-
-  *   24/7 urgent medical support if you need it
-
-  *   Access to our private peer-to-peer support forum
-
-
-  Learn more at [heyjane.com](http://heyjane.com)
 f_financial-assistance-details: |-
   Some insurance plans accepted
 
@@ -71,9 +48,23 @@ f_list-under-community-support-networks: false
 f_accepts-insurance: true
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: true
-f_list-on-test-results-page: true
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: true
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Sliding scale available for those needing financial assistance. Some insurance plans accepted. Additional financial assistance available.
+Hey Jane states that it is a virtual clinic offering safe and private abortion care from home. With Hey Jane, you get FDA-approved abortion pills discreetly delivered fast, plus ongoing medical and emotional support. Our Complete Care model means that we ensure your privacy, safety, and support every step of the way.
+
+*   Some insurance plans accepted
+*   Financial assistance through sliding scale and abortion funds available  
+    
+*   Consult with a medical provider within 1-2 business days
+*   FDA-approved medication sent in discreet packaging
+*   Free shipping
+*   Text, call, or video chat with our clinical care team
+*   24/7 urgent medical support if you need it
+*   Access to our private peer-to-peer support forum
+
+Learn more at [heyjane.com](https://heyjane.com)

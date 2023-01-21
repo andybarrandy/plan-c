@@ -4,8 +4,7 @@ f_sort: 1
 title: Square - Abortion Pills Available 50 States
 slug: square-abortion-pills-available-50-states
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6272c39dd54f033f516ff5b4_Instagram%20story%20-%2021.png
+  url: /assets/external/6272c39dd54f033f516ff5b4_instagram20story20-2021.png
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/teamplanc.md

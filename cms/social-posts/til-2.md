@@ -3,8 +3,7 @@ f_category: IG Story
 title: 'Art - TIL #2 Abortion pills are available in all 50 states'
 slug: til-2
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271e6cb6aa05bfef0c8bae1_Instagram%20story%20-%2022.png
+  url: /assets/external/6271e6cb6aa05bfef0c8bae1_instagram20story20-2022.png
   alt: null
 updated-on: '2022-05-04T02:37:04.011Z'
 created-on: '2022-04-08T22:30:02.532Z'

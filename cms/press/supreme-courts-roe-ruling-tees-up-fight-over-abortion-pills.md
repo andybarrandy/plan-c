@@ -14,8 +14,7 @@ f_author-2: Ian Lopez
 slug: supreme-courts-roe-ruling-tees-up-fight-over-abortion-pills
 f_tags: []
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6346f51cbe919fb17d6d76d4_bloomberg4.jpeg
+  url: /assets/external/6346f51cbe919fb17d6d76d4_bloomberg4.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md

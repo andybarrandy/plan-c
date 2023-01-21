@@ -5,7 +5,7 @@ f_url-text: reprocare.com
 slug: reprocare
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f837fdc61fa25428f54ca3e_5f3d828c47c9a1e30358a9ff_Screen%2520Shot%25202020-08-19%2520at%252012.48.55%2520PM.png
+    /assets/external/5f837fdc61fa25428f54ca3e_5f3d828c47c9a1e30358a9ff_screen2520shot25202020-08-192520at252012.48.55%2520PM.png
   alt: null
 updated-on: '2022-08-18T21:34:05.084Z'
 created-on: '2020-10-11T21:57:48.176Z'

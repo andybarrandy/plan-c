@@ -12,7 +12,7 @@ created-on: '2020-10-30T19:56:35.209Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1b121e52cf26f9d804c71_Ms%20Magazine-%20Feminist%20Multi-Front%20Battle%20to%20End%20FDA%E2%80%99s%20Abortion%20Pill%20Restriction.jpg
+    /assets/external/5fa1b121e52cf26f9d804c71_ms20magazine-20feminist20multi-front20battle20to20end20fdae28099s20abortion20pill20restriction.jpg
   alt: null
 f_publication: Ms Magazine
 f_source-url: >-

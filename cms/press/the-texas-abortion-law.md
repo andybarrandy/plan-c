@@ -9,8 +9,7 @@ f_publication: Idaho State Journal
 f_author-2: Leonard Hitchcock
 slug: the-texas-abortion-law
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba249b56827e3310fef9c_5f2da6cdecf91.image.jpg
+  url: /assets/external/614ba249b56827e3310fef9c_5f2da6cdecf91.image.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

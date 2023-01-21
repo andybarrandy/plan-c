@@ -8,8 +8,7 @@ title: Supreme Court Reinstates Barriers to Abortion by Telemedicine
 f_publication: The Regulatory Review
 f_author-2: Carrie N. Baker
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60510cd261e988267432691a_1212435862.jpg
+  url: /assets/external/60510cd261e988267432691a_1212435862.jpg
   alt: null
 slug: supreme-court-reinstates-barriers-to-abortion-by-telemedicine
 f_posted-by: cms/author/plan-c.md

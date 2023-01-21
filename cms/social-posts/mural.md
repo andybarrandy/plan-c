@@ -2,8 +2,7 @@
 f_category: IG Post
 title: Square - Mural
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6250b7c23232fc38f8f18671_1%20-%20Abortion%20Pills.jpeg
+  url: /assets/external/6250b7c23232fc38f8f18671_120-20abortion20pills.jpeg
   alt: null
 slug: mural
 updated-on: '2022-05-05T01:07:26.074Z'

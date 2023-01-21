@@ -9,7 +9,7 @@ f_author-2: Andrea Zelinski
 slug: in-texas-the-return-of-whisper-networks
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165de4cd70e9b68a14c95ca_Screen%20Shot%202021-10-12%20at%201.18.30%20PM.png
+    /assets/external/6165de4cd70e9b68a14c95ca_screen20shot202021-10-1220at201.18.30%20PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

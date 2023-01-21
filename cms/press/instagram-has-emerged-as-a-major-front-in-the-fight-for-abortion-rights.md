@@ -10,7 +10,7 @@ f_author-2: Jessica Lucas
 slug: instagram-has-emerged-as-a-major-front-in-the-fight-for-abortion-rights
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba3bd8a987c518cd960fa_Screen%20Shot%202021-09-22%20at%203.48.07%20PM.png
+    /assets/external/614ba3bd8a987c518cd960fa_screen20shot202021-09-2220at203.48.07%20PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

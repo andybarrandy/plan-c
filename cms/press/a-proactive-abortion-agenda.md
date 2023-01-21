@@ -8,8 +8,7 @@ title: A Proactive Abortion Agenda
 f_publication: Center for American Progress
 f_author-2: ' Jamille Fields Allsbrook and Nora Ellmann'
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6068cbf2efa38a80a2fb95b8_ProactiveAbortionAgendaReport.jpg
+  url: /assets/external/6068cbf2efa38a80a2fb95b8_proactiveabortionagendareport.jpg
   alt: null
 slug: a-proactive-abortion-agenda
 f_posted-by: cms/author/plan-c.md

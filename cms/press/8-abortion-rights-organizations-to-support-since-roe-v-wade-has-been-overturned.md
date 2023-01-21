@@ -16,7 +16,7 @@ slug: >-
   8-abortion-rights-organizations-to-support-since-roe-v-wade-has-been-overturned
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6360910790c235e1253c86d3_keepabortionlegal_750x422_creditonimage.jpeg
+    /assets/external/6360910790c235e1253c86d3_keepabortionlegal_750x422_creditonimage.jpeg
   alt: null
 f_tags: []
 f_category:

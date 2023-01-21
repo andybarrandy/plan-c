@@ -13,8 +13,7 @@ f_author-2: 'Christopher Rowland, Laurie McGinley and Jacob Bogage '
 slug: abortion-pills-by-mail-pose-challenge-for-officials-in-red-states
 f_tags: []
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634db476d8deb5172647fb32_imrs.webp
+  url: /assets/external/634db476d8deb5172647fb32_imrs.webp
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -12,8 +12,7 @@ title: US women stock up on birth control amid fears Roe v Wade will be overturn
 f_publication: 'The Independent '
 f_author-2: Nathan Place
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6350398d2c1a6474fb8554bb_download888.jpeg
+  url: /assets/external/6350398d2c1a6474fb8554bb_download888.jpeg
   alt: null
 slug: us-women-stock-up-on-birth-control-amid-fears-roe-v-wade-will-be-overturned
 f_tags: []

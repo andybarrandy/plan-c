@@ -16,7 +16,7 @@ slug: overturning-of-roe-v-wade-would-change-landscape-for-medication-abortion
 f_tags: []
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634db91aeb47a711d1e31738_gettyimages-1212435862_wide-152d1d3d280ef03a3c9eebc5fab8c8814cd72ee6-s1400-c100.jpeg
+    /assets/external/634db91aeb47a711d1e31738_gettyimages-1212435862_wide-152d1d3d280ef03a3c9eebc5fab8c8814cd72ee6-s1400-c100.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md

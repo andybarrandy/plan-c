@@ -5,8 +5,7 @@ title: Online Abortion Resource Squad (OARS)
 f_url-text: onlineabortionresources.org
 slug: online-abortion-resource-squad-oars
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/603040c9ddfaa853105b7a9a_oars-logo.png
+  url: /assets/external/603040c9ddfaa853105b7a9a_oars-logo.png
   alt: null
 f_category: cms/resources-categories/advocacy.md
 updated-on: '2021-02-19T22:50:54.680Z'

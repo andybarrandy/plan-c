@@ -9,7 +9,7 @@ f_author-2: 'Samantha Schmidt and Sammy Westfall '
 slug: abortion-pills-are-booming-worldwide-will-their-use-grow-in-texas
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba9e233d50c4c8b8b8cf2_Screen%20Shot%202021-09-22%20at%204.14.21%20PM.png
+    /assets/external/614ba9e233d50c4c8b8b8cf2_screen20shot202021-09-2220at204.14.21%20PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

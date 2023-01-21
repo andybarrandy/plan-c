@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bc4bbd3cc3c33c3bbb8a_VICE-%20What%20to%20Know%20About%20Giving%20Yourself%20an%20Abortion.jpg
+    /assets/external/5fa1bc4bbd3cc3c33c3bbb8a_vice-20what20to20know20about20giving20yourself20an20abortion.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

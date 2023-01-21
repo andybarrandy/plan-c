@@ -12,28 +12,9 @@ f_ship-time-low-limit: 2
 f_cost-sort: 195
 f_basic-category-2: Pills by mail with clinician support
 f_includes-required-for-this-to-work: AP1, VV1, AD1, AP2
+f_cost-details-2: Sliding fee scale available.
 title: Luna Flow Health CA
 f_cost: $195-395
-f_summary-2-0: >-
-  Luna Flow Health states that it is a holistic virtual abortion service. We
-  provide the medication abortion with care that addresses the whole person,
-  body-mind-spirit. Our board certified physician is an inclusive,
-  trauma-informed provider. We welcome all ages and genders.
-
-
-  *   Consult with a board certified physician
-
-  *   Abortion medications discreetly delivered to your door in 1-2 days
-
-  *   Includes pain and anti-nausea medications
-
-  *   Free shipping
-
-  *   Direct patient to physician text communicationAccess to emotion support
-  sessionsSliding scale fees based on income
-
-
-  Text or call with questions at 805-267-9281.
 f_financial-assistance-details: |-
   Financial assistance available
 
@@ -49,16 +30,26 @@ f_includes:
   - cms/supplier-options/ad1.md
   - cms/supplier-options/ap2.md
   - cms/supplier-options/virtual-visits-by-phone-or-video.md
-updated-on: '2022-11-21T18:15:40.920Z'
+updated-on: '2023-01-11T06:14:49.677Z'
 created-on: '2022-09-27T23:03:10.974Z'
-published-on: '2022-11-21T18:15:40.920Z'
+published-on: '2023-01-11T06:18:48.473Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
-f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_offers-sliding-scale-pricing: true
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: true
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Sliding fee scale available.
+Luna Flow Health states that it is a holistic virtual abortion service. We provide the medication abortion with care that addresses the whole person, body-mind-spirit. Our board certified physician is an inclusive, trauma-informed provider. We welcome all ages and genders.
+
+*   Consult with a board certified physician
+*   Abortion medications discreetly delivered to your door in 1-2 days
+*   Includes pain and anti-nausea medications
+*   Free shipping
+*   Direct patient to physician text communicationAccess to emotion support sessionsSliding scale fees based on income
+
+Text or call with questions at 805-267-9281.

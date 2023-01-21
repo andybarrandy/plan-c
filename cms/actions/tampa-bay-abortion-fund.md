@@ -3,8 +3,7 @@ f_open-link-in-new-tab: false
 f_sort-by: 30
 title: Tampa Bay Abortion Fund
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62cdb8e6447f70de6355b99f_TBAF-truck.jpg
+  url: /assets/external/62cdb8e6447f70de6355b99f_tbaf-truck.jpg
   alt: null
 slug: tampa-bay-abortion-fund
 f_category:

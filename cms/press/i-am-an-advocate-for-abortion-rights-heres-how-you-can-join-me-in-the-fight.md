@@ -12,8 +12,7 @@ f_publication: The Progressive
 f_author-2: Steph Black
 slug: i-am-an-advocate-for-abortion-rights-heres-how-you-can-join-me-in-the-fight
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634daeeca56a53d994eca701_stephblack2.jpeg
+  url: /assets/external/634daeeca56a53d994eca701_stephblack2.jpeg
   alt: null
 f_tags: []
 f_category:

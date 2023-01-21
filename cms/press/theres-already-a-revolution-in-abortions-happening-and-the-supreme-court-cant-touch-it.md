@@ -17,7 +17,7 @@ f_publication: Slate
 f_author-2: Christina Cauterucci
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356ba08abe5393f4e845635_c2035e01-92cc-4c0e-9740-ab61d346343c.jpeg
+    /assets/external/6356ba08abe5393f4e845635_c2035e01-92cc-4c0e-9740-ab61d346343c.jpeg
   alt: null
 f_tags: []
 slug: >-

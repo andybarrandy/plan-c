@@ -13,7 +13,7 @@ f_publication: INPUT
 f_author-2: Andrew Paul
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63922539bf746b9a37f125ef_4138e869-26fb-41ff-8daa-89795a1bf917-getty-1404674453.jpeg
+    /assets/external/63922539bf746b9a37f125ef_4138e869-26fb-41ff-8daa-89795a1bf917-getty-1404674453.jpeg
   alt: null
 f_tags: []
 slug: scotus-just-overturned-roe-v-wade-heres-how-to-fight-back

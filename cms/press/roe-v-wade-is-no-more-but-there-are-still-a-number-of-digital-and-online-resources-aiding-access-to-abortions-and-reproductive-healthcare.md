@@ -21,7 +21,7 @@ slug: >-
   roe-v-wade-is-no-more-but-there-are-still-a-number-of-digital-and-online-resources-aiding-access-to-abortions-and-reproductive-healthcare
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356bdaf769c14f4424ab3fe_Abortion%20Protest%20Main%20by%20Araya%20Doheny%20FilmMagic.jpeg
+    /assets/external/6356bdaf769c14f4424ab3fe_abortion20protest20main20by20araya20doheny20filmmagic.jpeg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

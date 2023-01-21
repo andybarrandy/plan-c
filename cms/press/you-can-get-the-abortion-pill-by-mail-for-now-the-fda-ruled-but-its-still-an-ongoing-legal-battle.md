@@ -10,8 +10,7 @@ title: >-
 f_publication: The Lily
 f_author-2: Julianne McShane
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6089b5db6108215b03e9f582_6RRWJ3KDTRGLVH3CYWUDCFYLSI.jpg
+  url: /assets/external/6089b5db6108215b03e9f582_6rrwj3kdtrglvh3cywudcfylsi.jpg
   alt: null
 slug: >-
   you-can-get-the-abortion-pill-by-mail-for-now-the-fda-ruled-but-its-still-an-ongoing-legal-battle

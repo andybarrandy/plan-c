@@ -4,9 +4,9 @@ title: Abortion Delivered
 f_cost: $0-350
 f_ship-time: 2-3 days
 slug: abortion-delivered
-updated-on: '2022-10-03T22:39:24.491Z'
+updated-on: '2023-01-10T20:19:39.146Z'
 created-on: '2020-10-31T19:19:21.395Z'
-published-on: '2022-10-03T22:39:24.491Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_display-name: Abortion Delivered
 f_legal-level-text: 'No'
 f_tier: 1
@@ -26,22 +26,19 @@ f_includes-required-for-this-to-work: AP1, VV1
 f_cost-sort: 350
 f_sliding-scale-available: true
 f_gestational-age-dropdown: For pregnancies up to 10 weeks
-f_summary-2-0: >-
-  Abortion Delivered states it is a physician-supported digital reproductive
-  health clinic. They are dedicated to providing convenient, fast access to
-  abortion pills by mail for at-home abortion for patients who have early
-  pregnancies and no medical contraindications.
-
-
-  ‍
+f_cost-details-2: Discounts available based on need.
 f_financial-assistance-details: Financial assistance available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_can-help-you-connect-with-abortion-funds: false
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Discounts available based on need.
+Abortion Delivered states it is a physician-supported digital reproductive health clinic. They are dedicated to providing convenient, fast access to abortion pills by mail for at-home abortion for patients who have early pregnancies and no medical contraindications.
+
+‍

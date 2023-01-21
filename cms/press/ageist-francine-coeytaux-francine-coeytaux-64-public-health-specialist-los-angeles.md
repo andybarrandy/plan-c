@@ -10,7 +10,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Ageist
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c0310f6a1c902f5e7a42_Ageist-%20Francine%20Coeytaux%20francine%20coeytaux%2C%2064%2C%20public%20health%20specialist%2C%20los%20angeles.png
+    /assets/external/5fa1c0310f6a1c902f5e7a42_ageist-20francine20coeytaux20francine20coeytaux2c20642c20public20health20specialist2c20los20angeles.png
   alt: null
 f_category:
   - cms/media-categories/press.md

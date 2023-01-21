@@ -12,7 +12,7 @@ slug: >-
   educating-texans-on-how-to-get-abortion-pills-online-your-nearest-provider-is-in-your-pocket
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61395449b7184608b11a5df4_Truck-on-road-Credit-Tracy-Tragos-1024x538.png
+    /assets/external/61395449b7184608b11a5df4_truck-on-road-credit-tracy-tragos-1024x538.png
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -4,8 +4,7 @@ f_sort: 2
 title: Square - goodsnake spanish
 slug: square-goodsnake-spanish
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6271d5a11977951c905daa8b_goodsnake-spanish.png
+  url: /assets/external/6271d5a11977951c905daa8b_goodsnake-spanish.png
   alt: null
 f_which-page-s-should-this-appear-on:
   - cms/social-toolkit-pages/plan-c-social-toolkit.md

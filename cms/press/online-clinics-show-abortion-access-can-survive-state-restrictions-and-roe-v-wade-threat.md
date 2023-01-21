@@ -11,7 +11,7 @@ f_publication: USA Today
 f_author-2: Rachel Rebouché and Ushma Upadhyay
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/607f1832c15c74c93b8ccd9f_Screen%20Shot%202021-04-20%20at%2012.06.24%20PM.png
+    /assets/external/607f1832c15c74c93b8ccd9f_screen20shot202021-04-2020at2012.06.24%20PM.png
   alt: null
 slug: >-
   online-clinics-show-abortion-access-can-survive-state-restrictions-and-roe-v-wade-threat

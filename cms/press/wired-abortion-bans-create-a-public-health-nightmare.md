@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Wired
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c0ccebcb38854194aabd_WIRED-%20Abortion%20Bans%20Create%20a%20Public%20Health%20Nightmare.png
+    /assets/external/5fa1c0ccebcb38854194aabd_wired-20abortion20bans20create20a20public20health20nightmare.png
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -7,8 +7,7 @@ title: Can you get an ‘abortion by mail’ in Missouri or Kansas? Here’s wha
 f_publication: The Kansas City Star
 f_author-2: Natalie Wellington
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6238ee3cbce37ccf0596408a_AP22054815663644.jpg
+  url: /assets/external/6238ee3cbce37ccf0596408a_ap22054815663644.jpg
   alt: null
 slug: can-you-get-an-abortion-by-mail-in-missouri-or-kansas-heres-what-to-know
 f_posted-by: cms/author/plan-c.md

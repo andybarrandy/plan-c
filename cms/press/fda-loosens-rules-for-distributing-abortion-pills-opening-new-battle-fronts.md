@@ -8,8 +8,7 @@ f_publication: Politico
 f_author-2: Alice Miranda Ollstein
 slug: fda-loosens-rules-for-distributing-abortion-pills-opening-new-battle-fronts
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c28224d297746ed85668b5_static.politico.com.jpg
+  url: /assets/external/61c28224d297746ed85668b5_static.politico.com.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

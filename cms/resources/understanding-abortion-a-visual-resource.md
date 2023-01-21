@@ -2,8 +2,7 @@
 f_url: https://www.ippf.org/resource/understanding-abortion-visual-resource
 title: 'Understanding abortion: a visual resource'
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/605947f37f464e1ed708ac5a_Untitled%20design.jpg
+  url: /assets/external/605947f37f464e1ed708ac5a_untitled20design.jpg
   alt: null
 slug: understanding-abortion-a-visual-resource
 f_category: cms/resources-categories/access-health.md

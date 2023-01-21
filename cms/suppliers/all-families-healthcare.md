@@ -2,14 +2,15 @@
 f_url: https://www.allfamilieshealth.org
 f_tier: 1
 f_legal-level-text: 'No'
+f_cost-details-2: Discounts available, accepts Montana Medicaid
 title: All Families Healthcare
 f_cost: $0-300
 f_display-name: All Families Healthcare
 f_ship-time: 2-3 days
 slug: all-families-healthcare
-updated-on: '2022-11-28T06:36:51.916Z'
+updated-on: '2023-01-10T19:58:23.304Z'
 created-on: '2020-11-13T23:12:18.569Z'
-published-on: '2022-11-28T06:43:46.908Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_states-test:
   - cms/states/montana.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
@@ -26,7 +27,6 @@ f_ship-time-low-limit: 2
 f_cost-sort: 75
 f_sliding-scale-available: true
 f_ages-served: All
-f_summary-2-0: "All Families Healthcare states that it is a sexual and reproductive health clinic in Northwest Montana. In addition to general reproductive health services, we offer in office abortions to 12 weeks, and medication abortion to 11 weeks from last menstrual period, including by mail. Financial assistance available. Please inquire.\_We look forward to serving you.\n\n‍"
 f_financial-assistance-details: |-
   Financial assistance available  
   Accepts Medicaid
@@ -41,13 +41,17 @@ f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: true
 f_additional-bullet-point-information: |-
   Includes abortion pills, ibuprofen and anti-nausea medication
 
   24 hour phone support for urgent needs
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Discounts available, accepts Montana Medicaid
+All Families Healthcare states that it is a sexual and reproductive health clinic in Northwest Montana. In addition to general reproductive health services, we offer in office abortions to 12 weeks, and medication abortion to 11 weeks from last menstrual period, including by mail. Financial assistance available. Please inquire. We look forward to serving you.
+
+‍

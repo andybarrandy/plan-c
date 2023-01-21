@@ -9,8 +9,7 @@ f_publication: Politico
 f_author-2: Alice Miranda Ollstein and Darius Tahir
 slug: quite-hopeful-abortion-pill-decision-could-reshape-reproductive-health-war
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c280d6b3e2d7195382a796_static.politico.com.jpg
+  url: /assets/external/61c280d6b3e2d7195382a796_static.politico.com.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

@@ -24,8 +24,7 @@ created-on: '2020-10-30T19:56:34.815Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: ACOG
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bb1a668da94a429230ea_ACOG%20.png
+  url: /assets/external/5fa1bb1a668da94a429230ea_acog20.png
   alt: null
 f_source-url: >-
   https://www.acog.org/news/news-releases/2020/05/acog-suit-petitions-the-fda-to-remove-burdensome-barriers-to-reproductive-care-during-covid-19

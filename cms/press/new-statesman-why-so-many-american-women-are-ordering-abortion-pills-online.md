@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: New Statesman
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c0abebcb383435949ffb_New%20Statesman-%20Why%20so%20many%20American%20women%20are%20ordering%20abortion%20pills%20online.png
+    /assets/external/5fa1c0abebcb383435949ffb_new20statesman-20why20so20many20american20women20are20ordering20abortion20pills20online.png
   alt: null
 f_category:
   - cms/media-categories/press.md

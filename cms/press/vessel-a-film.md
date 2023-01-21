@@ -6,8 +6,7 @@ title: 'VESSEL: A Film'
 f_publication: Plan C
 slug: vessel-a-film
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa5f0e2b4449fddc463d375_image%204.png
+  url: /assets/external/5fa5f0e2b4449fddc463d375_image204.png
   alt: null
 f_category:
   - cms/media-categories/video.md

@@ -4,12 +4,13 @@ title: Aid Access (INTL)
 f_cost: $110 or less
 f_ship-time: 14-21 days
 slug: aid-access-global
-updated-on: '2022-12-01T18:00:38.086Z'
+updated-on: '2023-01-10T19:46:30.263Z'
 created-on: '2020-10-11T22:03:55.516Z'
-published-on: '2022-12-01T18:00:38.086Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_display-name: Aid Access
 f_legal-level-text: 'Yes'
 f_tier: 3
+f_cost-details-2: The fee can be discounted based on need.
 f_states-test:
   - cms/states/alabama.md
   - cms/states/arizona.md
@@ -25,7 +26,6 @@ f_states-test:
   - cms/states/louisiana.md
   - cms/states/mississippi.md
   - cms/states/missouri.md
-  - cms/states/montana.md
   - cms/states/nebraska.md
   - cms/states/north-carolina.md
   - cms/states/north-dakota.md
@@ -42,7 +42,6 @@ f_states-test:
   - cms/states/us-virgin-islands.md
   - cms/states/west-virginia.md
   - cms/states/wisconsin.md
-  - cms/states/wyoming.md
   - cms/states/washington-dc.md
   - cms/states/idaho.md
 f_should-this-appear-under-pills-by-mail-with-clinician-support: true
@@ -58,24 +57,18 @@ f_sliding-scale-available: true
 f_ages-served: All
 f_gestational-age-dropdown: For pregnancies up to 12 weeks
 f_ship-time-low-limit: 18
-f_summary-2-0: >-
-  Aid Access states that it is a doctor-supported fully online telemedicine
-  service for self-managed abortion with pills for patients who have early
-  pregnancies and no medical contraindications. In this state, the medications
-  are prescribed by a licensed doctor in Amsterdam and shipped from a reputable
-  pharmacy in India. They are generic versions of the FDA-approved products
-  available in the United States.
-
-
-  ‍
 f_financial-assistance-details: Financial assistance available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
-f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_offers-sliding-scale-pricing: true
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-The fee can be discounted based on need.
+Aid Access states that it is a doctor-supported fully online telemedicine service for self-managed abortion with pills for patients who have early pregnancies and no medical contraindications. In this state, the medications are prescribed by a licensed doctor in Amsterdam and shipped from a reputable pharmacy in India. They are generic versions of the FDA-approved products available in the United States.
+
+‍

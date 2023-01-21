@@ -6,8 +6,7 @@ title: The First Abortion Case Before a Post-Ginsburg Supreme Court
 f_publication: The New Yorker
 f_author-2: Margaret Talbot
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f9c7fa9e4578a3ea31ff743_pill_1-740x525-1.jpg
+  url: /assets/external/5f9c7fa9e4578a3ea31ff743_pill_1-740x525-1.jpg
   alt: null
 slug: the-first-abortion-case-before-a-post-ginsburg-supreme-court
 f_posted-by: cms/author/plan-c.md

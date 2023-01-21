@@ -9,8 +9,7 @@ f_publication: Girl Talk HQ
 f_author-2: Plan C team
 slug: breaking-down-myths-misinformation-about-abortion-pills
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6139537d4426e5864afc2bbc_Instagram_post_extra-1024x791.png
+  url: /assets/external/6139537d4426e5864afc2bbc_instagram_post_extra-1024x791.png
   alt: null
 f_category:
   - cms/media-categories/press.md

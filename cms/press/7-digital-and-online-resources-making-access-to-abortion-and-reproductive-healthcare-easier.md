@@ -19,7 +19,7 @@ f_author-2: Brian Bell
 f_tags: []
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6356bdaf769c14f4424ab3fe_Abortion%20Protest%20Main%20by%20Araya%20Doheny%20FilmMagic.jpeg
+    /assets/external/6356bdaf769c14f4424ab3fe_abortion20protest20main20by20araya20doheny20filmmagic.jpeg
   alt: null
 slug: >-
   7-digital-and-online-resources-making-access-to-abortion-and-reproductive-healthcare-easier

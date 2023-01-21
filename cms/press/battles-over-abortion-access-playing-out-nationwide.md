@@ -10,7 +10,7 @@ f_author-2: Newsy
 slug: battles-over-abortion-access-playing-out-nationwide
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c2790830dbe901416fea71_Screen%20Shot%202021-12-21%20at%206.01.44%20PM.png
+    /assets/external/61c2790830dbe901416fea71_screen20shot202021-12-2120at206.01.44%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

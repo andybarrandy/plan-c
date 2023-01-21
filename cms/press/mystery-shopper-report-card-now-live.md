@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Plan C
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c3daab40aa62a1cb7918_ScreenShot2019-12-04at7.13.46PM.png
+    /assets/external/5fa1c3daab40aa62a1cb7918_screenshot2019-12-04at7.13.46PM.png
   alt: null
 f_category:
   - cms/media-categories/developments.md

@@ -3,8 +3,7 @@ f_sort: 40
 title: Protest/Yard Signs
 slug: protest-yard-signs
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/627d3acdd0adb6bad84b1430_yard-signs.png
+  url: /assets/external/627d3acdd0adb6bad84b1430_yard-signs.png
   alt: null
 updated-on: '2022-05-25T00:29:03.895Z'
 created-on: '2022-05-23T23:55:53.517Z'

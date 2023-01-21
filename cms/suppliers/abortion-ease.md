@@ -10,22 +10,10 @@ f_ages-served: All
 f_ship-time-low-limit: 4
 f_cost-sort: 302
 f_basic-category-2: Online pharmacy
-f_includes-required-for-this-to-work: AP1
+f_includes-required-for-this-to-work: AP1, AD1
+f_cost-details-2: This includes the Paypal fee.
 title: Abortion Ease
 f_cost: $302
-f_summary-2-0: >-
-  Online pharmacy that states that it sells abortion pills (often called MTP
-  kits or Mifegest Kit). The pills we received had the same active ingredients
-  as in the FDA-approved abortion pills available through US clinics, but the
-  manufacturers are not certified or inspected by the FDA. Our laboratory
-  testing of similar products received from online pharmacies found them to be
-  real products of acceptable quality.
-
-
-  ‍
-
-
-  ‍
 f_financial-assistance-details: No financial assistance available
 f_ship-time-details: We used "US Express" shipping
 f_display-name: Abortion Ease
@@ -33,6 +21,7 @@ f_ship-time: About 4 days
 slug: abortion-ease
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
+  - cms/supplier-options/ad1.md
 f_states-test:
   - cms/states/arkansas.md
   - cms/states/california.md
@@ -90,16 +79,22 @@ f_states-test:
   - cms/states/wisconsin.md
   - cms/states/alabama.md
   - cms/states/wyoming.md
-updated-on: '2022-11-15T21:57:50.703Z'
+updated-on: '2023-01-10T19:54:13.070Z'
 created-on: '2022-11-15T21:48:21.284Z'
-published-on: '2022-11-15T21:58:16.468Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_contact-email: info@abortionease.com
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_financial-assistance: No financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-This includes the Paypal fee.
+Online pharmacy that states that it sells abortion pills (often called MTP kits or Mifegest Kit). The pills we received had the same active ingredients as in the FDA-approved abortion pills available through US clinics, but the manufacturers are not certified or inspected by the FDA. Our laboratory testing of similar products received from online pharmacies found them to be real products of acceptable quality.
+
+‍
+
+‍

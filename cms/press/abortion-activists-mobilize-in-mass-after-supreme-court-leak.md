@@ -13,7 +13,7 @@ f_author-2: Martha Bebinger
 slug: abortion-activists-mobilize-in-mass-after-supreme-court-leak
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/635034e215725f23d1d45d22_0503_defend-abortion-rally18-1000x667.jpeg
+    /assets/external/635034e215725f23d1d45d22_0503_defend-abortion-rally18-1000x667.jpeg
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

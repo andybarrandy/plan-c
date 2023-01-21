@@ -8,8 +8,7 @@ title: 'As Abortion Pills Take Off, Some States Move to Curb Them '
 f_publication: PEW Charitable Trusts
 f_author-2: 'Christine Vestal '
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6238ed8c5635a63e454e6173_16x9_M.jpg
+  url: /assets/external/6238ed8c5635a63e454e6173_16x9_m.jpg
   alt: null
 slug: as-abortion-pills-take-off-some-states-move-to-curb-them
 f_tags:

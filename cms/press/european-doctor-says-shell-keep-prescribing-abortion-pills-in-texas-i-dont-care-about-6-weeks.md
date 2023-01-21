@@ -12,8 +12,7 @@ f_author-2: Haley Ott
 slug: >-
   european-doctor-says-shell-keep-prescribing-abortion-pills-in-texas-i-dont-care-about-6-weeks
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165da80e598421a2f8939a5_gettyimages-1235196684.jpg
+  url: /assets/external/6165da80e598421a2f8939a5_gettyimages-1235196684.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

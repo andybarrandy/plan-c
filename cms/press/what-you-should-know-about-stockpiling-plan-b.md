@@ -15,7 +15,7 @@ f_author-2: Claire Bugos
 slug: what-you-should-know-about-stockpiling-plan-b
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/635184796c37d26490ac8530_GettyImages-1271623757-008797452e3a474aa9956699cefbf0fe.webp
+    /assets/external/635184796c37d26490ac8530_gettyimages-1271623757-008797452e3a474aa9956699cefbf0fe.webp
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

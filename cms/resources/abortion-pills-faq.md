@@ -11,7 +11,7 @@ f_url-text: Abortion Pills FAQ
 slug: abortion-pills-faq
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f8373e6cc81a18b4a3137bf_5f74dd8ecd927b90b36cf93e_plan-c-card.svg
+    /assets/external/5f8373e6cc81a18b4a3137bf_5f74dd8ecd927b90b36cf93e_plan-c-card.svg
   alt: null
 f_category: cms/resources-categories/instructions.md
 updated-on: '2022-05-09T19:57:21.899Z'

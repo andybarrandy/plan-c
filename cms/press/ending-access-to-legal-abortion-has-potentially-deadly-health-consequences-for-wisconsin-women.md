@@ -15,7 +15,7 @@ f_publication: Milwaukee Journal Sentinel
 f_author-2: Jenny Higgins, Laura Jacques, and Taryn Valley
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634dad40b0dc4b089c778efd_12a8c7d8-ccba-4985-afa4-a421008c00d5-GTY_1236273858.webp
+    /assets/external/634dad40b0dc4b089c778efd_12a8c7d8-ccba-4985-afa4-a421008c00d5-gty_1236273858.webp
   alt: null
 slug: >-
   ending-access-to-legal-abortion-has-potentially-deadly-health-consequences-for-wisconsin-women

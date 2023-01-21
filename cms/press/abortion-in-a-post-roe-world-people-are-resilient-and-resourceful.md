@@ -9,8 +9,7 @@ f_publication: Ms. Magazine
 f_author-2: Carrie N. Baker
 slug: abortion-in-a-post-roe-world-people-are-resilient-and-resourceful
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60babb942ac7d3068f33a4e8_self-managed-abortion-1.jpeg
+  url: /assets/external/60babb942ac7d3068f33a4e8_self-managed-abortion-1.jpeg
   alt: null
 f_tags:
   - cms/media-tags/featured.md

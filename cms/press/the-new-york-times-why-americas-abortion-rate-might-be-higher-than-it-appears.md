@@ -11,7 +11,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The New York Times
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be2116e0531b217bf79a_The%20New%20York%20Times-%20Why%20America%E2%80%99s%20Abortion%20Rate%20Might%20Be%20Higher%20Than%20It%20Appears.jpg
+    /assets/external/5fa1be2116e0531b217bf79a_the20new20york20times-20why20americae28099s20abortion20rate20might20be20higher20than20it20appears.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

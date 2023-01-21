@@ -15,8 +15,7 @@ f_author-2: Fiona Ward
 slug: >-
   alexandria-ocasio-cortez-uses-instagram-to-share-abortion-ban-loopholes-to-help-those-in-red-states
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634880f8541473b8f62441d3_aoc1.webp
+  url: /assets/external/634880f8541473b8f62441d3_aoc1.webp
   alt: null
 f_tags: []
 f_category:

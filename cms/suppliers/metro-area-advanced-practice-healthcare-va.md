@@ -2,14 +2,15 @@
 f_url: https://metroarea.health/abortion
 f_tier: 1
 f_legal-level-text: 'No'
+f_cost-details-2: Sliding fee scale available. House call additional $50.
 title: Metro Area Advanced Practice Healthcare VA
 f_cost: $150
 f_display-name: Metro Area Advanced Practice Healthcare
 f_ship-time: 3 days
 slug: metro-area-advanced-practice-healthcare-va
-updated-on: '2022-12-01T21:05:17.845Z'
+updated-on: '2023-01-10T19:57:03.563Z'
 created-on: '2021-07-09T19:15:18.895Z'
-published-on: '2022-12-01T21:05:17.845Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_states-test:
   - cms/states/virginia.md
 f_ages-served: 18+
@@ -24,7 +25,6 @@ f_includes:
   - cms/supplier-options/ad1.md
 f_includes-required-for-this-to-work: AP1, OC1, VV2, AD1
 f_ship-time-low-limit: 3
-f_summary-2-0: "Metro Area Advanced Practice Healthcare states that it offers is a clinic that provides telehealth sexual and reproductive health care. We offer medication abortion up to 70 days from your last menstrual period. \_\n\n*   Offers phone and text support. Video visits available on request.\n*   The pills can be mailed only to a Virginia address.\n*   Sliding scale available.\n*   Medicaid and insurance not currently accepted."
 f_cost-sort: 149
 f_sliding-scale-available: true
 f_financial-assistance-details: Financial assistance available
@@ -32,9 +32,16 @@ f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: true
-f_list-on-test-results-page: false
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Sliding fee scale available. House call additional $50.
+Metro Area Advanced Practice Healthcare states that it offers is a clinic that provides telehealth sexual and reproductive health care. We offer medication abortion up to 70 days from your last menstrual period.  
+
+*   Offers phone and text support. Video visits available on request.
+*   The pills can be mailed only to a Virginia address.
+*   Sliding scale available.
+*   Medicaid and insurance not currently accepted.

@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Cycles+Sex Podcast
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c3b5427452566faa5a7b_Cycles%2BSex%20Podcast%20%3A%3A%20Politics%20in%20our%20Privates.jpg
+    /assets/external/5fa1c3b5427452566faa5a7b_cycles2bsex20podcast203a3a20politics20in20our20privates.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -11,8 +11,7 @@ updated-on: '2022-07-11T21:48:13.443Z'
 created-on: '2021-07-08T19:45:28.030Z'
 published-on: '2022-07-11T21:48:13.443Z'
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62cc99a233b1e97b96dd470a_fakeclinics-small.jpg
+  url: /assets/external/62cc99a233b1e97b96dd470a_fakeclinics-small.jpg
   alt: null
 layout: '[actions].html'
 tags: actions

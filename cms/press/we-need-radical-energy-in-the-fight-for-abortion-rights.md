@@ -8,8 +8,7 @@ f_publication: Jacobin
 f_author-2: Anne Rumberger
 slug: we-need-radical-energy-in-the-fight-for-abortion-rights
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c27c70bdb9524ac11df860_GettyImages-1235654088.jpg
+  url: /assets/external/61c27c70bdb9524ac11df860_gettyimages-1235654088.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

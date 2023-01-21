@@ -13,8 +13,7 @@ created-on: '2020-10-30T19:56:21.364Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Fast Company
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c002a973f61625df6483_Fast%20Company-%20The%20wave%20.jpg
+  url: /assets/external/5fa1c002a973f61625df6483_fast20company-20the20wave20.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

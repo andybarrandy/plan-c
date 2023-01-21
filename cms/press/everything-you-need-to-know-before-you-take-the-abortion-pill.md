@@ -8,7 +8,7 @@ f_publication: Shape
 f_author-2: Amanda Chatel
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61e8558d599bcc2cab2369cc_Screen%20Shot%202022-01-19%20at%2011.16.33%20AM.png
+    /assets/external/61e8558d599bcc2cab2369cc_screen20shot202022-01-1920at2011.16.33%20AM.png
   alt: null
 slug: everything-you-need-to-know-before-you-take-the-abortion-pill
 f_posted-by: cms/author/plan-c.md

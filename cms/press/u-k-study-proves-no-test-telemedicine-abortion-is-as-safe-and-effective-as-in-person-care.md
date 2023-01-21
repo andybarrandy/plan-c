@@ -11,7 +11,7 @@ f_publication: Ms. Magazine
 f_author-2: Carrie N. Baker
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/603d5187807df603f8867210_Screen%20Shot%202021-03-01%20at%201.41.15%20PM.png
+    /assets/external/603d5187807df603f8867210_screen20shot202021-03-0120at201.41.15%20PM.png
   alt: null
 slug: >-
   u-k-study-proves-no-test-telemedicine-abortion-is-as-safe-and-effective-as-in-person-care

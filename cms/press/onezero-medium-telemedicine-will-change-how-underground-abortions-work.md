@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: OneZero - Medium
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c048bb763c24879e64ee_OneZero%20-%20Medium-%20Telemedicine%20Will%20Change%20How%20Underground%20Abortions%20Work.png
+    /assets/external/5fa1c048bb763c24879e64ee_onezero20-20medium-20telemedicine20will20change20how20underground20abortions20work.png
   alt: null
 f_category:
   - cms/media-categories/press.md

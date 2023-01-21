@@ -11,7 +11,7 @@ f_author-2: safe2choose
 slug: safe-2-choose-south-africa-animation
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/609c6800b796c00a4f5c0e32_Screen%20Shot%202021-05-12%20at%204.42.50%20PM.png
+    /assets/external/609c6800b796c00a4f5c0e32_screen20shot202021-05-1220at204.42.50%20PM.png
   alt: null
 f_category:
   - cms/media-categories/video.md

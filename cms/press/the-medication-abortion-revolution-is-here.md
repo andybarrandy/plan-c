@@ -9,8 +9,7 @@ f_publication: Dame Magazine
 f_author-2: Lauren Rankin
 slug: the-medication-abortion-revolution-is-here
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61e854cd7808346fe1bb0e5f_medical-abortion.jpg
+  url: /assets/external/61e854cd7808346fe1bb0e5f_medical-abortion.jpg
   alt: null
 f_tags:
   - cms/media-tags/telemedicine.md

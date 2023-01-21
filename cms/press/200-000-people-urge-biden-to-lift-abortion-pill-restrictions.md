@@ -10,7 +10,7 @@ f_author-2: Carrie N. Baker
 slug: 200-000-people-urge-biden-to-lift-abortion-pill-restrictions
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60622dd3fb90ff145c351ad4_200000-People-Urge-Biden-to-Lift-Abortion-Pill-Restrictions.jpg
+    /assets/external/60622dd3fb90ff145c351ad4_200000-people-urge-biden-to-lift-abortion-pill-restrictions.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

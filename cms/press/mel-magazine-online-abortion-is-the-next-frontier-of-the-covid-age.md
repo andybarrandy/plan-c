@@ -16,8 +16,7 @@ f_tags:
   - cms/media-tags/telemedicine.md
   - cms/media-tags/featured.md
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f9c604de857e56f453f2cdd_telabortion-1024x427-1.jpg
+  url: /assets/external/5f9c604de857e56f453f2cdd_telabortion-1024x427-1.jpg
   alt: null
 f_source-url: >-
   https://melmagazine.com/en-us/story/online-abortion-is-the-next-frontier-of-the-covid-age

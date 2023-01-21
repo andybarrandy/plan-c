@@ -4,7 +4,7 @@ title: ineedana.com
 f_url-text: INeedAnA.com
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5f837fd8cc81a144ca316080_5f3d7f0955f59acf131b5b34_Screen%2520Shot%25202020-08-19%2520at%252012.35.18%2520PM.png
+    /assets/external/5f837fd8cc81a144ca316080_5f3d7f0955f59acf131b5b34_screen2520shot25202020-08-192520at252012.35.18%2520PM.png
   alt: null
 slug: i-need-an-a
 updated-on: '2022-05-09T17:40:50.712Z'

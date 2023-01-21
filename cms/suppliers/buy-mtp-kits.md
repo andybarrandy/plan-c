@@ -1,14 +1,17 @@
 ---
 f_url: >-
   https://www.buymtpkits.com/en/12-mtp-kit-mifepristone-and-misoprostol-for-abortion.html
+f_cost-details-2: >-
+  We paid by credit card. Check your email as they often request payment through
+  a PayPal account.
 title: Buy MTP Kits
 f_cost: $301
 f_ship-time-details: We used FedEx/DHL shipping
 f_ship-time: 6 days
 slug: buy-mtp-kits
-updated-on: '2022-10-03T22:45:32.552Z'
+updated-on: '2023-01-10T19:54:24.062Z'
 created-on: '2020-10-31T19:19:22.901Z'
-published-on: '2022-10-03T22:45:32.552Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_display-name: Buy MTP Kits
 f_legal-level-text: 'Yes'
 f_states-test:
@@ -73,33 +76,27 @@ f_should-this-appear-under-pills-by-mail-with-clinician-support: false
 f_should-this-appear-under-pills-by-mail-without-clinician-support: true
 f_includes:
   - cms/supplier-options/abortion-pills-mifepristone-misoprostol.md
+  - cms/supplier-options/ad1.md
 f_ages-served: All
 f_basic-category-2: Online pharmacy
-f_includes-required-for-this-to-work: AP1
+f_includes-required-for-this-to-work: AP1, AD1
 f_cost-sort: 301
 f_sliding-scale-available: true
-f_summary-2-0: >-
-  Online pharmacy that states that it sells abortion pills (often called MTP
-  kits or Mifegest Kit). The pills we received had the same active ingredients
-  as in the FDA-approved abortion pills available through US clinics, but the
-  manufacturers are not certified or inspected by the FDA. Our laboratory
-  testing of similar products received from online pharmacies found them to be
-  real products of acceptable quality.
-
-
-  ‍
-
-
-  ‍
 f_financial-assistance-details: No financial assistance available
 f_tier: 3
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_financial-assistance: No financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-We paid by credit card. Check your email as they often request payment through a PayPal account.
+Online pharmacy that states that it sells abortion pills (often called MTP kits or Mifegest Kit). The pills we received had the same active ingredients as in the FDA-approved abortion pills available through US clinics, but the manufacturers are not certified or inspected by the FDA. Our laboratory testing of similar products received from online pharmacies found them to be real products of acceptable quality.
+
+‍
+
+‍

@@ -12,8 +12,7 @@ f_author-2: Carrie N. Baker
 slug: >-
   online-abortion-provider-christie-pitney-of-forward-midwifery-fast-convenient-care
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62041c59dd4c3f14e8aeaddd_forward-midwifery-1024x1016.png
+  url: /assets/external/62041c59dd4c3f14e8aeaddd_forward-midwifery-1024x1016.png
   alt: null
 f_category:
   - cms/media-categories/press.md

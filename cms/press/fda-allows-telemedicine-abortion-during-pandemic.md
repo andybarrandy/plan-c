@@ -9,7 +9,7 @@ f_author-2: Carrie N. Baker
 slug: fda-allows-telemedicine-abortion-during-pandemic
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/607f1d5ac77e9984c5b4f6e3_Abortion_pill-2048x1634-1-1024x817.jpg
+    /assets/external/607f1d5ac77e9984c5b4f6e3_abortion_pill-2048x1634-1-1024x817.jpg
   alt: null
 f_category:
   - cms/media-categories/developments.md

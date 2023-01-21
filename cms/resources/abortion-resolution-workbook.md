@@ -3,7 +3,7 @@ f_url: https://www.pregnancyoptions.info/abortion-resolution-workbook
 title: Abortion Resolution Workbook
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6100697a9a6fe18c550be2c4_Screen%20Shot%202021-07-27%20at%201.15.36%20PM.png
+    /assets/external/6100697a9a6fe18c550be2c4_screen20shot202021-07-2720at201.15.36%20PM.png
   alt: null
 slug: abortion-resolution-workbook
 f_category: cms/resources-categories/access-health.md

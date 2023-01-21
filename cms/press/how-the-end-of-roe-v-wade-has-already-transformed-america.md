@@ -10,8 +10,7 @@ title: How the end of Roe v Wade has already transformed America
 f_publication: The Guardian
 f_author-2: Archie Bland
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63488d5d9791955e4e0df3db_7967.webp
+  url: /assets/external/63488d5d9791955e4e0df3db_7967.webp
   alt: null
 slug: how-the-end-of-roe-v-wade-has-already-transformed-america
 f_tags: []

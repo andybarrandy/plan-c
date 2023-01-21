@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The New York Times
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be84ba1d003fac69cd9c_The%20New%20York%20Times-%20Abortion%20Pills%20Should%20Be%20Everywhere.jpg
+    /assets/external/5fa1be84ba1d003fac69cd9c_the20new20york20times-20abortion20pills20should20be20everywhere.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

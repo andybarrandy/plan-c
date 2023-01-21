@@ -13,7 +13,7 @@ f_author-2: Eli Cahan
 slug: with-roe-v-wade-overturned-medication-abortions-take-center-stage
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/635163e4e065d3725b19d18b_abortion-healthcare-220_hpEmbed_20220505-223019_19x13_992.jpeg
+    /assets/external/635163e4e065d3725b19d18b_abortion-healthcare-220_hpembed_20220505-223019_19x13_992.jpeg
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

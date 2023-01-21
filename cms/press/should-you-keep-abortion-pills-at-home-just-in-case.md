@@ -12,8 +12,7 @@ f_publication: Vox
 f_author-2: Rachel M. Cohen
 slug: should-you-keep-abortion-pills-at-home-just-in-case
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6348a5ac8499583548d5b10d_AP21335485705855.0.webp
+  url: /assets/external/6348a5ac8499583548d5b10d_ap21335485705855.0.webp
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

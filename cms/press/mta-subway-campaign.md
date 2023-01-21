@@ -9,8 +9,7 @@ f_excerpt: >-
   About Self-Managed Abortion, Including Access Options, Hotlines, and Resources
 title: MTA Subway Campaign
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62a3b8bd82cb978d01171f73_unnamed.png
+  url: /assets/external/62a3b8bd82cb978d01171f73_unnamed.png
   alt: null
 slug: mta-subway-campaign
 f_category:

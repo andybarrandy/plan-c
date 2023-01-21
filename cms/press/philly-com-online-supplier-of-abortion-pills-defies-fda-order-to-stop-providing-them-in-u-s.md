@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Philly.com
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c0773c467b589e77c7eb_Philly.com-%20Online%20supplier%20of%20abortion%20pills.jpg
+    /assets/external/5fa1c0773c467b589e77c7eb_philly.com-%20Online%20supplier%20of%20abortion%20pills.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

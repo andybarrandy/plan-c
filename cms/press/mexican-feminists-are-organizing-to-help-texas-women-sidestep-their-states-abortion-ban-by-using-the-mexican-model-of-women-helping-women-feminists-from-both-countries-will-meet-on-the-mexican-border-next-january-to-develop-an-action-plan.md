@@ -14,7 +14,7 @@ slug: >-
   mexican-feminists-are-organizing-to-help-texas-women-sidestep-their-states-abortion-ban-by-using-the-mexican-model-of-women-helping-women-feminists-from-both-countries-will-meet-on-the-mexican-border-next-january-to-develop-an-action-plan
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/618444971197eb4368f7d025_Screen%20Shot%202021-11-04%20at%202.37.29%20PM.png
+    /assets/external/618444971197eb4368f7d025_screen20shot202021-11-0420at202.37.29%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

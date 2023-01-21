@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Economist
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bcacc287825db50730b9_The%20Economist-%20Abortions%20are%20becoming%20safer%20and%20easier%20to%20obtain%E2%80%94even%20where%20they%20are%20illegal.jpeg
+    /assets/external/5fa1bcacc287825db50730b9_the20economist-20abortions20are20becoming20safer20and20easier20to20obtaine28094even20where20they20are20illegal.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md

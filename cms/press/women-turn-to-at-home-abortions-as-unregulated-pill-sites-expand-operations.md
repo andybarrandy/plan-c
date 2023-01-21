@@ -13,7 +13,7 @@ f_author-2: Anne Flaherty
 slug: women-turn-to-at-home-abortions-as-unregulated-pill-sites-expand-operations
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6392212820ccb1952e41abf8_plan-c-website-01-gty-jt-221103_1667507280125_hpMain_16x9_992.jpeg
+    /assets/external/6392212820ccb1952e41abf8_plan-c-website-01-gty-jt-221103_1667507280125_hpmain_16x9_992.jpeg
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

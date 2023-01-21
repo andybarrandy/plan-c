@@ -14,7 +14,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Medium
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c16716e05350597cfc04_Medium-%20Hers%20and%20the%20Telemedicine%20Industry%20Need%20to%20Embrace%20Mail-Order%20Abortion%20Pills.png
+    /assets/external/5fa1c16716e05350597cfc04_medium-20hers20and20the20telemedicine20industry20need20to20embrace20mail-order20abortion20pills.png
   alt: null
 f_category:
   - cms/media-categories/press.md

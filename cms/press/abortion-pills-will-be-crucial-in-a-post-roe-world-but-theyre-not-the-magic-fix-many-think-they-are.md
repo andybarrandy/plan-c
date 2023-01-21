@@ -17,7 +17,7 @@ slug: >-
   abortion-pills-will-be-crucial-in-a-post-roe-world-but-theyre-not-the-magic-fix-many-think-they-are
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6359b08034d71b4484ac4f95_medical-abortion_magic_solution_2000.webp
+    /assets/external/6359b08034d71b4484ac4f95_medical-abortion_magic_solution_2000.webp
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

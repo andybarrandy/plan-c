@@ -13,7 +13,7 @@ slug: >-
   as-texas-abortion-ban-goes-into-effect-instagram-and-facebook-block-hashtags-for-abortion-pills
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6139553ce512ff01102e9e41_Screen%20Shot%202021-09-08%20at%206.32.31%20PM.png
+    /assets/external/6139553ce512ff01102e9e41_screen20shot202021-09-0820at206.32.31%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/featured.md

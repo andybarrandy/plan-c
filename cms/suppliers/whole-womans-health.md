@@ -11,19 +11,12 @@ f_ship-time-low-limit: 2
 f_cost-sort: 400
 f_basic-category-2: Pills by mail with clinician support
 f_includes-required-for-this-to-work: AP1, VV1
-title: Whole Woman's Health
-f_cost: $400
-f_summary-2-0: >-
-  Whole Woman’s Health states that it is a privately-owned, feminist healthcare
-  service committed to providing holistic care for all. We provide comprehensive
-  gynecology services, including abortion care both in-person and via virtual
-  telehealth appointments. It is our philosophy that everyone must be at the
-  center of their own healthcare decisions, and that treating people
-  holistically — honoring head, heart, and body — will better serve and improve
-  health and happiness of our communities.
-
+f_cost-details-2: |-
+  Financial assistance may be available, please ask
 
   ‍
+title: Whole Woman's Health
+f_cost: $400
 f_financial-assistance-details: |-
   Financial assistance may be available
 
@@ -40,18 +33,21 @@ f_states-test:
   - cms/states/virginia.md
   - cms/states/illinois.md
   - cms/states/maryland.md
-updated-on: '2022-10-24T22:04:34.892Z'
+updated-on: '2023-01-10T20:01:25.954Z'
 created-on: '2021-12-15T22:53:29.089Z'
-published-on: '2022-10-24T22:04:34.892Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_additional-bullet-point-information: Does not accept insurance/Medicaid
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Financial assistance may be available, please ask
+Whole Woman’s Health states that it is a privately-owned, feminist healthcare service committed to providing holistic care for all. We provide comprehensive gynecology services, including abortion care both in-person and via virtual telehealth appointments. It is our philosophy that everyone must be at the center of their own healthcare decisions, and that treating people holistically — honoring head, heart, and body — will better serve and improve health and happiness of our communities.
 
 ‍

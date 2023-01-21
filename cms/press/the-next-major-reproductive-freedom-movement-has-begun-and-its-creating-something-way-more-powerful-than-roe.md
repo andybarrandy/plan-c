@@ -19,8 +19,7 @@ f_author-2: The Editors
 slug: >-
   the-next-major-reproductive-freedom-movement-has-begun-and-its-creating-something-way-more-powerful-than-roe
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6346f36e5661b0b834e3c33c_cosmo1.png
+  url: /assets/external/6346f36e5661b0b834e3c33c_cosmo1.png
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

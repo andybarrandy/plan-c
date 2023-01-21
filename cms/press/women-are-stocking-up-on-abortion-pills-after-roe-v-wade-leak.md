@@ -12,7 +12,7 @@ f_author-2: Danya Hajjaji
 f_tags: []
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634db129670df4c3ecc97284_three-women-take-abortion-pills-during-demonstration.webp
+    /assets/external/634db129670df4c3ecc97284_three-women-take-abortion-pills-during-demonstration.webp
   alt: null
 slug: women-are-stocking-up-on-abortion-pills-after-roe-v-wade-leak
 f_posted-by: cms/author/plan-c.md

@@ -11,8 +11,7 @@ title: 'Abortion pills: A post-Roe game changer — and the next battleground'
 f_publication: Los Angeles Times
 f_author-2: Jennifer Haberkorn
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63503685707b8c6196b03913_download0000.webp
+  url: /assets/external/63503685707b8c6196b03913_download0000.webp
   alt: null
 slug: abortion-pills-a-post-roe-game-changer-and-the-next-battleground
 f_tags: []

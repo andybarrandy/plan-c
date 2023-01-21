@@ -6,7 +6,7 @@ f_url-text: Shop Plan C Merch
 slug: check-out-plan-c-merch
 f_thumbnail:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62b68c473d21d0b2cf6c1d80_280178932_5228375503886362_4076737295340559591_n.jpg
+    /assets/external/62b68c473d21d0b2cf6c1d80_280178932_5228375503886362_4076737295340559591_n.jpg
   alt: null
 updated-on: '2022-06-25T04:17:14.754Z'
 created-on: '2021-10-05T02:09:30.988Z'

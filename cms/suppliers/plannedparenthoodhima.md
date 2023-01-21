@@ -12,9 +12,9 @@ f_ship-time-low-limit: 3
 f_cost-sort: 232
 f_basic-category-2: Pills by mail with clinician support and follow up services
 f_includes-required-for-this-to-work: AP1, VV1
+f_cost-details-2: Financial assistance available to those who qualify
 title: Planned Parenthood HI MA
 f_cost: $60-405
-f_summary-2-0: "Planned Parenthood states that it is an experienced and trusted abortion provider. \_We also provide online telemedicine appointments for medication abortion for patients who have early pregnancies and no medical contraindications. \_Medications and supplies are conveniently shipped to your home. \_Our fees include all follow up services to ensure you are doing well after your abortion, including follow up done by telemedicine or if necessary in one of our health centers.\n\nFor pregnancies of over 8 weeks from last menstrual period, we may ask you to get an ultrasound."
 f_financial-assistance-details: |-
   Accepts Medicaid
 
@@ -33,19 +33,23 @@ f_includes:
 f_states-test:
   - cms/states/hawaii.md
   - cms/states/washington.md
-updated-on: '2022-10-03T22:57:09.131Z'
+updated-on: '2023-01-10T20:13:12.592Z'
 created-on: '2022-06-20T20:22:23.748Z'
-published-on: '2022-10-03T22:57:09.131Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_contact-email: susanne.mauney@ppgnhaik.org
 f_contact-name: Susanne Mauney
 f_contact-phone: 'O: 425.460.4534 (ext. 2936) | C: 206.617.7122 | F: 206.788.8339'
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
-f_accepts-medicaid: false
+f_accepts-insurance: true
+f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_can-help-you-connect-with-abortion-funds: true
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Financial assistance available to those who qualify
+Planned Parenthood states that it is an experienced and trusted abortion provider.  We also provide online telemedicine appointments for medication abortion for patients who have early pregnancies and no medical contraindications.  Medications and supplies are conveniently shipped to your home.  Our fees include all follow up services to ensure you are doing well after your abortion, including follow up done by telemedicine or if necessary in one of our health centers.
+
+For pregnancies of over 8 weeks from last menstrual period, we may ask you to get an ultrasound.

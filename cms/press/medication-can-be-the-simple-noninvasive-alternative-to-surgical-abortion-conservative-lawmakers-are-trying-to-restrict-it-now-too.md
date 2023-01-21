@@ -13,7 +13,7 @@ slug: >-
   medication-can-be-the-simple-noninvasive-alternative-to-surgical-abortion-conservative-lawmakers-are-trying-to-restrict-it-now-too
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6238ec711b68a7dadc234b93_Screen%20Shot%202022-03-21%20at%203.21.27%20PM.png
+    /assets/external/6238ec711b68a7dadc234b93_screen20shot202022-03-2120at203.21.27%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/featured.md

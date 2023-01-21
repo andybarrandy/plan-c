@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Anchorage Press
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be9cd9ab8c5a9aa8d4ac_Anchorage%20Press-%20Plan%20C-%20A%20vital%20resource%20for%20women%20in%20Dunleavy%27s%20Alaska.png
+    /assets/external/5fa1be9cd9ab8c5a9aa8d4ac_anchorage20press-20plan20c-20a20vital20resource20for20women20in20dunleavy27s20alaska.png
   alt: null
 f_category:
   - cms/media-categories/press.md

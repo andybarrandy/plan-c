@@ -4,8 +4,7 @@ f_sort-by: 1
 title: Request or Print Plan C Mini-Flyers (English + Spanish)
 slug: print-flyers
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6279c6fcb6246849051f9ed6_flyers-collage.jpg
+  url: /assets/external/6279c6fcb6246849051f9ed6_flyers-collage.jpg
   alt: null
 f_category:
   - cms/action-categories/i-have-a-few-minutes.md

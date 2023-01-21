@@ -4,7 +4,7 @@ title: Ally Chatbot
 slug: ally-chatbot
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60be8a3631535416a3005d9d_Screen%20Shot%202021-06-07%20at%203.05.19%20PM.png
+    /assets/external/60be8a3631535416a3005d9d_screen20shot202021-06-0720at203.05.19%20PM.png
   alt: null
 f_tag:
   - cms/resources-tags/counselor.md

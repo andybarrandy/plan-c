@@ -9,8 +9,7 @@ f_publication: Associated Press
 f_author-2: John Hanna
 slug: more-turn-to-abortion-pills-by-mail-with-legality-uncertain
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c274eacc938b50868accd9_800.jpeg
+  url: /assets/external/61c274eacc938b50868accd9_800.jpeg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

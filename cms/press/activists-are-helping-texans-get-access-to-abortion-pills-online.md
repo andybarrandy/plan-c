@@ -10,7 +10,7 @@ f_author-2: Tanya Basu
 slug: activists-are-helping-texans-get-access-to-abortion-pills-online
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614baa92c0251ddd261bd5e2_Screen%20Shot%202021-09-22%20at%204.17.57%20PM.png
+    /assets/external/614baa92c0251ddd261bd5e2_screen20shot202021-09-2220at204.17.57%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

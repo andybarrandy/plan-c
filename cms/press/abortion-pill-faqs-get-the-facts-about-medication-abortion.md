@@ -12,7 +12,7 @@ f_author-2: Carrie N. Baker
 f_tags: []
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63486fc24bbcbe3ddcecce85_Abortion-Pill-FAQs-Get-the-Facts-About-Medication-Abortion.png
+    /assets/external/63486fc24bbcbe3ddcecce85_abortion-pill-faqs-get-the-facts-about-medication-abortion.png
   alt: null
 slug: abortion-pill-faqs-get-the-facts-about-medication-abortion
 f_posted-by: cms/author/plan-c.md

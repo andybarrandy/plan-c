@@ -9,7 +9,7 @@ f_author-2: Abby Vesoulis
 slug: how-texas-abortion-ban-will-lead-to-more-at-home-abortions
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614baf7bdc97493dd5d76da2_Screen%20Shot%202021-09-22%20at%204.39.01%20PM.png
+    /assets/external/614baf7bdc97493dd5d76da2_screen20shot202021-09-2220at204.39.01%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

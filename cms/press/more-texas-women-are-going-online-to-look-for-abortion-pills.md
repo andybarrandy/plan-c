@@ -9,7 +9,7 @@ f_publication: KHOU 11
 f_author-2: Janelle Bludau
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/614ba637f6f983f3b49987b3_Screen%20Shot%202021-09-22%20at%203.59.24%20PM.png
+    /assets/external/614ba637f6f983f3b49987b3_screen20shot202021-09-2220at203.59.24%20PM.png
   alt: null
 slug: more-texas-women-are-going-online-to-look-for-abortion-pills
 f_tags:

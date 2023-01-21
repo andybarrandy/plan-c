@@ -4,8 +4,7 @@ f_sort-by: 30
 title: UCLA
 slug: ucla
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/613fd4a8f536e42d66b05dbf_ucla-small.png
+  url: /assets/external/613fd4a8f536e42d66b05dbf_ucla-small.png
   alt: null
 f_category:
   - cms/action-categories/partnership-campaigns.md

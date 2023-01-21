@@ -10,7 +10,7 @@ f_author-2: Carrie N. Baker
 slug: advocates-cheer-fda-review-of-abortion-pill-restrictions
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/609da3bfd8e4dbf9a408850d_Advocates-Cheer-FDA-Review-of-Abortion-Pill-Restrictions.jpg
+    /assets/external/609da3bfd8e4dbf9a408850d_advocates-cheer-fda-review-of-abortion-pill-restrictions.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

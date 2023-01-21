@@ -2,8 +2,7 @@
 f_sort: 20
 title: Mini-Flyers (3", Spanish)
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/628c1eb8b1ef90c8d6702fcd_flyers-spa.png
+  url: /assets/external/628c1eb8b1ef90c8d6702fcd_flyers-spa.png
   alt: null
 slug: mini-flyers-3-spanish
 updated-on: '2022-05-25T00:44:54.183Z'

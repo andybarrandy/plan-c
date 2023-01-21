@@ -13,8 +13,7 @@ created-on: '2020-10-30T19:56:09.688Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Rewire News
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c56d67a40991915bff67_pillsquestionmark.jpg
+  url: /assets/external/5fa1c56d67a40991915bff67_pillsquestionmark.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

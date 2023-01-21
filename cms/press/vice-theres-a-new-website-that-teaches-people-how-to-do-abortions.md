@@ -12,7 +12,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bc89c52b015f55ffe5cf_VICE-%20There%27s%20a%20New%20Website%20That%20Teaches%20People%20How%20to%20Do%20Abortions.jpg
+    /assets/external/5fa1bc89c52b015f55ffe5cf_vice-20there27s20a20new20website20that20teaches20people20how20to20do20abortions.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

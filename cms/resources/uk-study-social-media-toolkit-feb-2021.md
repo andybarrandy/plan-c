@@ -6,7 +6,7 @@ title: 'UK Study: Social Media Toolkit (Feb 2021)'
 f_url-text: The Toolkit
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/603fc1d0cb87cc779e77f86e_Facebook%20%26%20Instagram%20Graphic%20%232.jpg
+    /assets/external/603fc1d0cb87cc779e77f86e_facebook202620instagram20graphic20232.jpg
   alt: null
 slug: uk-study-social-media-toolkit-feb-2021
 f_category: cms/resources-categories/advocacy.md

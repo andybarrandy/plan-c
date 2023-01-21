@@ -9,7 +9,7 @@ f_author-2: Amy Littlefield
 slug: as-the-pandemic-raged-abortion-access-nearly-flickered-out
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/603ff042f7094c7d48c03d4d_Screen%20Shot%202021-03-03%20at%201.19.50%20PM.png
+    /assets/external/603ff042f7094c7d48c03d4d_screen20shot202021-03-0320at201.19.50%20PM.png
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_tags:

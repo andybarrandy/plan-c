@@ -13,7 +13,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bc6ab4248d597b4156f9_VICE-%203%20Women%20on%20What%20It%27s%20Like%20to%20Give%20Yourself%20an%20Abortion.jpg
+    /assets/external/5fa1bc6ab4248d597b4156f9_vice-20320women20on20what20it27s20like20to20give20yourself20an20abortion.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

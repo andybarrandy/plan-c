@@ -12,8 +12,7 @@ title: 250 Ads for Self-Managed Abortion Pill Info Launch in NYC Subway System
 f_publication: Ms. Magazine
 f_author-2: Carrie N. Baker
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/634590eea6645a717ee83da2_msmag2.png
+  url: /assets/external/634590eea6645a717ee83da2_msmag2.png
   alt: null
 slug: 250-ads-for-self-managed-abortion-pill-info-launch-in-nyc-subway-system
 f_tags: []

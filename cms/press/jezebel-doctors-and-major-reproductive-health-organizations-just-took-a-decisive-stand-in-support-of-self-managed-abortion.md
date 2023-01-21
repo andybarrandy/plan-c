@@ -13,8 +13,7 @@ created-on: '2020-10-30T19:56:23.496Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Jezebel
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bf0de969802f1d95a9fc_Jezebel-%20Doctors%20and%20.png
+  url: /assets/external/5fa1bf0de969802f1d95a9fc_jezebel-20doctors20and20.png
   alt: null
 f_category:
   - cms/media-categories/press.md

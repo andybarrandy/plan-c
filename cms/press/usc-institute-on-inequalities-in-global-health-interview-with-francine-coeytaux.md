@@ -8,7 +8,7 @@ slug: >-
   usc-institute-on-inequalities-in-global-health-interview-with-francine-coeytaux
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa5efa76c2a53b51b738f35_Screen%20Shot%202020-11-06%20at%204.10.03%20PM.png
+    /assets/external/5fa5efa76c2a53b51b738f35_screen20shot202020-11-0620at204.10.03%20PM.png
   alt: null
 f_tags:
   - cms/media-tags/video.md

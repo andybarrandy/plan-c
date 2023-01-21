@@ -9,8 +9,7 @@ f_publication: Politico
 f_author-2: Darius Tahir
 slug: a-hidden-abortion-crew-prepares-to-confront-a-post-roe-america
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/60e4dcca6113163b5b11f385_static.politico.com.jpg
+  url: /assets/external/60e4dcca6113163b5b11f385_static.politico.com.jpg
   alt: null
 f_tags:
   - cms/media-tags/featured.md

@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: VICE
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1be6816e0537c0e7c0c1c_VICE-%20The%20FDA%20Is%20Restricting%20Access%20to%20the%20Easiest%2C%20Safest%20Form%20of%20Abortion.jpg
+    /assets/external/5fa1be6816e0537c0e7c0c1c_vice-20the20fda20is20restricting20access20to20the20easiest2c20safest20form20of20abortion.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

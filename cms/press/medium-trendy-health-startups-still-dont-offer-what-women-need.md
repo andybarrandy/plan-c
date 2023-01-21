@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Medium
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bfd7cbaab96c6bb0f696_Medium-%20Trendy%20Health%20Startups%20Still%20Don%E2%80%99t%20Offer%20What%20Women%20Need.jpeg
+    /assets/external/5fa1bfd7cbaab96c6bb0f696_medium-20trendy20health20startups20still20done28099t20offer20what20women20need.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -12,8 +12,7 @@ f_author-2: Jessica Bruder
 f_tags: []
 slug: the-future-of-abortion-in-a-post-roe-america
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63458d8f8001ad57bb3cfe74_atlantica1.jpg
+  url: /assets/external/63458d8f8001ad57bb3cfe74_atlantica1.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

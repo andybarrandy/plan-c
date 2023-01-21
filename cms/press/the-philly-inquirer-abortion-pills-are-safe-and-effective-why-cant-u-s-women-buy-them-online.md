@@ -12,7 +12,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: The Philly Inquirer
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c26e557802e8d1358ede_The%20Philly%20Inquirer-%20Abortion%20pills%20are%20safe%20and%20effective..jpg
+    /assets/external/5fa1c26e557802e8d1358ede_the20philly20inquirer-20abortion20pills20are20safe20and20effective..jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

@@ -12,8 +12,7 @@ f_author-2: Stephanie Ebbert
 slug: >-
   as-states-try-to-limit-abortion-access-popularity-of-pill-method-complicates-debate
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/61c27c70bdb9524ac11df860_GettyImages-1235654088.jpg
+  url: /assets/external/61c27c70bdb9524ac11df860_gettyimages-1235654088.jpg
   alt: null
 f_posted-by: cms/author/plan-c.md
 f_category:

@@ -14,8 +14,7 @@ f_publication: Ms. Magazine
 f_author-2: Carrie N. Baker
 f_tags: []
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/63608cd0583fc204e4e0bbc8_Fake-Abortion-Clinic-Ads.jpeg
+  url: /assets/external/63608cd0583fc204e4e0bbc8_fake-abortion-clinic-ads.jpeg
   alt: null
 slug: >-
   google-improves-flagging-of-fake-abortion-clinic-ads-but-theres-much-more-to-be-done-say-advocates

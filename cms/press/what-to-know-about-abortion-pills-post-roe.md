@@ -12,8 +12,7 @@ f_publication: TIME
 f_author-2: Monique Brouillette
 slug: what-to-know-about-abortion-pills-post-roe
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6348a12f139169b4d0eb25d9_abortion-pills.webp
+  url: /assets/external/6348a12f139169b4d0eb25d9_abortion-pills.webp
   alt: null
 f_tags: []
 f_posted-by: cms/author/plan-c.md

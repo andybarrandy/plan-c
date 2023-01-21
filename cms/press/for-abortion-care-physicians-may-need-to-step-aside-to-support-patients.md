@@ -8,8 +8,7 @@ title: For abortion care, physicians may need to step aside to support patients
 f_publication: STAT
 f_author-2: Jennifer Karlin
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/6165dd536fe26c15b847f498_AdobeStock_334785042-768x432.jpeg
+  url: /assets/external/6165dd536fe26c15b847f498_adobestock_334785042-768x432.jpeg
   alt: null
 slug: for-abortion-care-physicians-may-need-to-step-aside-to-support-patients
 f_posted-by: cms/author/plan-c.md

@@ -11,9 +11,9 @@ f_ship-time-low-limit: 2
 f_cost-sort: 139
 f_basic-category-2: Pills by mail with clinician support
 f_includes-required-for-this-to-work: AP1, VV1, AD1
+f_cost-details-2: Discounts available based on need
 title: Pills by Post MN, CO, IL
 f_cost: $150
-f_summary-2-0: "Pills by Post states that it provides fast, convenient telehealth access to abortion pills for those who qualify medically. Our mission is to one day see a world where every child is by choice, where no one who does not want to be pregnant is forced to remain pregnant. \_We want abortion to be safe and easily accessible to all regardless of race, education or social status."
 f_financial-assistance-details: Financial assistance available based on need
 f_display-name: Pills by Post
 f_ship-time: 1-5 days
@@ -26,17 +26,19 @@ f_states-test:
   - cms/states/minnesota.md
   - cms/states/colorado.md
   - cms/states/illinois.md
-updated-on: '2022-12-01T21:07:35.963Z'
+updated-on: '2023-01-10T19:56:29.327Z'
 created-on: '2022-02-10T16:49:04.707Z'
-published-on: '2022-12-01T21:07:35.963Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_ship-time-details: Overnight shipping option available
 f_list-under-community-support-networks: false
 f_accepts-insurance: false
 f_accepts-medicaid: false
 f_offers-sliding-scale-pricing: true
-f_list-on-test-results-page: false
+f_financial-assistance: Financial assistance available
+f_can-help-you-connect-with-abortion-funds: false
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Discounts available based on need
+Pills by Post states that it provides fast, convenient telehealth access to abortion pills for those who qualify medically. Our mission is to one day see a world where every child is by choice, where no one who does not want to be pregnant is forced to remain pregnant.  We want abortion to be safe and easily accessible to all regardless of race, education or social status.

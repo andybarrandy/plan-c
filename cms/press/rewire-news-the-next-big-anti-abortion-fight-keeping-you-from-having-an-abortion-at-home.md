@@ -12,7 +12,7 @@ created-on: '2020-10-30T19:56:36.006Z'
 published-on: '2020-11-18T18:16:53.001Z'
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1b0eaa4d2585699c328e3_Rewire%20News-%20The%20Next%20Big%20Anti-Abortion%20Fight-Keeping%20You%20From%20Having%20an%20Abortion%20at%20Home.jpg
+    /assets/external/5fa1b0eaa4d2585699c328e3_rewire20news-20the20next20big20anti-abortion20fight-keeping20you20from20having20an20abortion20at20home.jpg
   alt: null
 f_publication: Rewire News
 f_source-url: >-

@@ -4,9 +4,9 @@ title: Cedar River Clinics
 f_cost: $600
 f_ship-time: 2-3 days
 slug: cedar-river
-updated-on: '2022-10-03T22:47:07.523Z'
+updated-on: '2023-01-10T20:17:16.211Z'
 created-on: '2020-10-31T19:19:22.232Z'
-published-on: '2022-10-03T22:47:07.523Z'
+published-on: '2023-01-10T20:58:00.875Z'
 f_display-name: Cedar River Clinics
 f_legal-level-text: 'No'
 f_tier: 1
@@ -27,28 +27,24 @@ f_ship-time-low-limit: 2
 f_cost-sort: 600
 f_sliding-scale-available: true
 f_ages-served: All
-f_summary-2-0: >-
-  Cedar River Clinics states that it is a trusted abortion clinic that also
-  provides online telemedicine video visits with mailed abortion pills (or
-  pick-up in Renton, Tacoma and Yakima – same day or 1 day) for patients who
-  have early pregnancies to 10 weeks from last menstrual period and no medical
-  contraindications.
-
-
-  ‍
 f_financial-assistance-details: |-
   Financial assistance available
 
   Accepts Medicaid
 
   Accepts some insurance
+f_cost-details-2: Financial assistance available
 f_list-under-community-support-networks: false
-f_accepts-insurance: false
-f_accepts-medicaid: false
+f_accepts-insurance: true
+f_accepts-medicaid: true
 f_offers-sliding-scale-pricing: false
-f_list-on-test-results-page: false
+f_can-help-you-connect-with-abortion-funds: false
+f_financial-assistance: Financial assistance available
+f_offers-advance-provision: false
 layout: '[suppliers].html'
 tags: suppliers
 ---
 
-Financial assistance available
+Cedar River Clinics states that it is a trusted abortion clinic that also provides online telemedicine video visits with mailed abortion pills (or pick-up in Renton, Tacoma and Yakima – same day or 1 day) for patients who have early pregnancies to 10 weeks from last menstrual period and no medical contraindications.
+
+‍

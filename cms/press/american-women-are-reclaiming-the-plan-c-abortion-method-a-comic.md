@@ -3,17 +3,17 @@ f_date: '2017-06-03T00:00:00.000Z'
 f_excerpt: 'American Women Are Reclaiming The "Plan C" Abortion Method: A Comic'
 title: 'American Women Are Reclaiming The "Plan C" Abortion Method: A Comic'
 slug: american-women-are-reclaiming-the-plan-c-abortion-method-a-comic
-updated-on: '2022-07-06T00:18:19.810Z'
+updated-on: '2022-12-20T20:36:55.619Z'
 created-on: '2020-10-30T19:56:10.909Z'
-published-on: '2022-07-06T00:18:19.810Z'
+published-on: '2022-12-20T20:36:55.619Z'
 f_publication: BUST Magazine
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1c4a380838232429bc554_American%20Women%20Are%20Reclaiming%20The%20%22Plan%20C%22%20Abortion%20Method-%20A%20Comic.jpeg
+    /assets/external/5fa1c4a380838232429bc554_american20women20are20reclaiming20the2022plan20c2220abortion20method-20a20comic.jpeg
   alt: null
 f_category:
   - cms/media-categories/press.md
-f_source-url: http://bust.com/living/192915-plan-c-comic.html
+f_source-url: https://bust.com/living/192915-plan-c-comic.html
 f_tags:
   - cms/media-tags/telemedicine.md
 f_author-2: Plan C

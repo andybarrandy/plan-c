@@ -5,8 +5,7 @@ f_url-text: Sam's Medication Abortion
 title: Sam's Medication Abortion
 slug: sams-medication-abortion
 f_thumb:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fae2d25a980ab55a7827870_sams-comic.jpg
+  url: /assets/external/5fae2d25a980ab55a7827870_sams-comic.jpg
   alt: null
 f_category: cms/resources-categories/instructions.md
 updated-on: '2020-11-13T06:52:25.680Z'

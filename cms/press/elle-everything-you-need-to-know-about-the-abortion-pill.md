@@ -9,7 +9,7 @@ published-on: '2020-11-18T18:16:53.001Z'
 f_publication: Elle
 f_thumb:
   url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/5fa1bdbcbd3cc362ba3d00d5_Elle-%20Everything%20You%20Need%20To%20Know%20About%20The%20Abortion%20Pill.jpg
+    /assets/external/5fa1bdbcbd3cc362ba3d00d5_elle-20everything20you20need20to20know20about20the20abortion20pill.jpg
   alt: null
 f_category:
   - cms/media-categories/press.md

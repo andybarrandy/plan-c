@@ -8,8 +8,7 @@ updated-on: '2022-07-11T21:44:33.245Z'
 created-on: '2020-11-01T05:53:55.775Z'
 published-on: '2022-07-11T21:44:33.245Z'
 f_thumbnail:
-  url: >-
-    https://uploads-ssl.webflow.com/5f7e07d162248b2c1139d2ef/62cc99bebdc65ca13da1dc8c_Dialogue-small.jpg
+  url: /assets/external/62cc99bebdc65ca13da1dc8c_dialogue-small.jpg
   alt: null
 f_sort-by: 10
 f_open-link-in-new-tab: true
