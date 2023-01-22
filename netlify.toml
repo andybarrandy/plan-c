@@ -14,4 +14,4 @@ functions = "functions"
   for = "/*"
 
   [headers.values]
-    X-Robots-Tag: noindex
+    X-Robots-Tag=noindex
