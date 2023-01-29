@@ -34,6 +34,8 @@
   <script async="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js"></script>
   <!--  [Attributes by Finsweet] CMS Combine  -->
   <script async="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmscombine@1/cmscombine.js"></script>
+  <!--  [Attributes by Finsweet] CMS Load  -->
+  <script async="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js"></script>
   <!--  [Attributes by Finsweet] List item counter  -->
   <script defer="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-countitems@1/countitems.js"></script>
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
@@ -592,8 +594,9 @@
                         <a id="w-node-_325116cd-0e61-c8eb-8adb-2d08436ef5e0-ed544b4f" data-w-id="325116cd-0e61-c8eb-8adb-2d08436ef5e0" href="{{ links.23 }}" target="_blank" class="supplier-about-link w-inline-block">
                           <div class="link-block-text">{{ texts.-33667240 }}</div><img width="12" height="14" src="{{ images.-685ab6ab.url }}" loading="lazy" alt="{{ images.-685ab6ab.alt | trim | escape }}" class="link-block-icon">
                         </a>
-                        <a id="w-node-_325116cd-0e61-c8eb-8adb-2d08436ef5e4-ed544b4f" href="{{ item.data.f_url }}" class="supplier-link w-inline-block">
-                          <div class="link-block-text">{{ texts.2a3f8549 }}</div>
+                        <a id="w-node-_850b0341-ca87-c3c8-e07a-57276cd2b0f4-ed544b4f" href="{{ item.data.f_url }}" class="supplier-link w-inline-block">
+                          {%- if item.data.f_custom-button-text -%}<div class="link-block-text">{{ item.data.f_custom-button-text }}</div>{%- endif -%}
+                          {%- unless item.data.f_custom-button-text -%}<div class="link-block-text">{{ texts.34171686 }}</div>{%- endunless -%}{%- unless item.data.f_custom-button-text -%}<img loading="lazy" src="{{ images.-5a80560c.url }}" alt="{{ images.-5a80560c.alt | trim | escape }}" class="link-block-icon">{%- endunless -%}
                         </a>
                         <div id="w-node-_325116cd-0e61-c8eb-8adb-2d08436ef5e8-ed544b4f" class="supplier-about-wrapper">
                           <div class="w-richtext">{{ item.templateContent | markdown | markdown }}</div>
@@ -636,7 +639,7 @@
           <div class="div-block-28">
             <div class="alert-icon-wrapper"><img src="{{ images.-54d2bbe2.url }}" loading="lazy" width="48" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;24px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48px&quot;}]" alt="{{ images.-54d2bbe2.alt | trim | escape }}" class="alert-icon"></div>
             <div class="alert-content">
-              <div class="rich-text-highlights w-richtext">
+              <div class="w-richtext">
                 <p><strong>{{ texts.768653be }}</strong></p>
                 <p>{{ texts.76fbcc13 }}<a href="{{ links.-4666e9c9 }}">{{ texts.10ef6 }}</a>{{ texts.407c7110 }}</p>
                 <p><em>{{ texts.6cd8d978 }}</em>
@@ -644,17 +647,25 @@
                   <a href="{{ links.4b207ecc }}" target="_blank"><em>{{ texts.-3c5549ad }}</em></a><em>{{ texts.6087d2b0 }}</em>
                   <a href="{{ links.-22dfa1b2 }}"><em>{{ texts.-1fc99eb1 }}</em></a><em>{{ texts.3c7026ff }}</em>
                 </p>
-                <blockquote><strong>{{ texts.-6655c7fe }}</strong>{{ texts.70b9a5db }}<strong>{{ texts.-5c5e6ddc }}</strong>{{ texts.78b134ea }}<br><br>{{ texts.-3afa30d5 }}<a href="{{ links.-b6b3117 }}">{{ texts.-20044b48 }}</a>{{ texts.-5c781a14 }}</blockquote>
+              </div>
+              <div class="rich-text-highlights w-richtext">
+                <p><strong>{{ texts.-64633788 }}</strong>{{ texts.200d }}</p>
+                <ul role="list">
+                  <li>{{ texts.6c7337b5 }}<strong>{{ texts.1cc3be5b }}</strong>{{ texts.-d20debf }}</li>
+                  <li>{{ texts.-b584c89 }}<strong>{{ texts.5b99b0fe }}</strong>{{ texts.16b16a9b }}</li>
+                </ul>
+                <p>{{ texts.-50c34782 }}<a href="{{ links.-b6b3117 }}">{{ texts.-20044b48 }}</a>{{ texts.-5c781a14 }}</p>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="_950-container results-tabs-wrapper">
+        <div fs-cmsload-element="scroll-anchor" class="anchor-offset"></div>
         <div class="result-heading-wrapper-filters">
           <div class="results-text-container">
-            <div class="results-text">{{ texts.-218ee85b }}</div>
-            <div fs-countitems-element="value" class="results-digit">{{ texts.30 }}</div>
+            <div class="results-text">{{ texts.-104e22e5 }}<span fs-cmsload-element="visible-count-from">{{ texts.31 }}</span>{{ texts.2d }}<span fs-cmsload-element="visible-count-to">{{ texts.31 }}</span>{{ texts.85f7 }}</div>
+            <div fs-cmsload-element="items-count" class="results-digit blank">{{ texts.30 }}</div>
             <div id="counter2" class="results-text">{{ texts.416b3bf6 }}</div>
           </div>
           <div class="results-filter-sort-container">
@@ -673,9 +684,9 @@
           </div>
         </div>
         <div>
-          {%- assign collection = collections.suppliers | filter: "f_states-test,idin,DYN_CONTEXT; f_should-this-appear-under-pills-by-mail-without-clinician-support,eq,true", "ALL", page.inputPath | sort: "f_cost-sort" -%}<div class="w-dyn-list">
-            {%- unless collection.length == 0 -%}<div fs-cmssort-element="list-2" fs-countitems-element="list" role="list" class="results-list w-dyn-items">
-              {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+          {%- assign collection = collections.suppliers | filter: "f_states-test,idin,DYN_CONTEXT; f_should-this-appear-under-pills-by-mail-without-clinician-support,eq,true", "ALL", page.inputPath | sort: "f_cost-sort" -%}{%- assign pagination = collection | paginate: 5 -%}<div class="w-dyn-list">
+            {%- unless pagination.length == 0 -%}<div fs-cmssort-element="list-2" fs-cmsload-element="list" fs-cmsload-mode="pagination" role="list" class="results-list w-dyn-items">
+              {%- for item in pagination[0] -%}<div role="listitem" class="w-dyn-item">
                 <div class="supplier-card">
                   <div class="w-layout-grid supplier-card-grid">
                     <div class="supplier-header-block">
@@ -736,12 +747,14 @@
                         <div class="supplier-details-header">{{ texts.93ba4eb }}</div>
                         <div class="supplier-details-header-line"></div>
                       </div>
-                      {%- if item.data.f_includes-required-for-this-to-work -%}<div class="multi-ref-target">
-                        <div class="key-terms-item-wrapper">
-                          <div class="key-terms-icon"><img width="24" src="{{ images.-70186e17.url }}" loading="lazy" alt="{{ images.-70186e17.alt | trim | escape }}"></div>
-                          <div class="key-terms-description">{{ texts.7635fb4f }}</div>
-                        </div>
-                      </div>{%- endif -%}
+                      <div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img src="{{ images.-1c492156.url }}" loading="lazy" width="20" alt="{{ images.-1c492156.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.-18001248 }}</div>
+                      </div>
+                      <div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img src="{{ images.1466d13d.url }}" loading="lazy" alt="{{ images.1466d13d.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.-51495249 }}</div>
+                      </div>
                       <div class="text-of-categories-list">{{ item.data.f_includes-required-for-this-to-work }}</div>
                       <div class="supplier-details-header-wrapper">
                         <div class="supplier-details-header">{{ texts.59e836f8 }}</div>
@@ -800,8 +813,148 @@
                   </div>
                 </div>
               </div>{%- endfor -%}
-            </div>{%- endunless -%}
-            {%- if collection.length == 0 -%}<div class="empty-state w-dyn-empty"></div>{%- endif -%}
+            {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page--7c757629-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="w-dyn-item">
+                <div class="supplier-card">
+                  <div class="w-layout-grid supplier-card-grid">
+                    <div class="supplier-header-block">
+                      <div class="supplier-header-wrapper">
+                        <div class="supplier-title-wrapper">
+                          <a href="{{ item.data.f_url }}" class="supplier-title-link-block w-inline-block">
+                            <div class="supplier-sort-number without">{{ texts.61d }}</div>
+                            <h3 class="supplier-name">{{ item.data.f_display-name }}</h3>
+                          </a>
+                          <div>{{ item.data.f_basic-category-2 }}</div>
+                        </div>
+                        <div class="supplier-sort-fields">
+                          <div fs-cmssort-field="price">{{ item.data.f_cost-sort }}</div>
+                          <div fs-cmssort-field="delivery">{{ item.data.f_ship-time-low-limit }}</div>
+                          <div fs-cmsfilter-field="medicaid" class="fs-filter-embed w-embed">{{ item.data.f_accepts-medicaid }}</div>
+                          <div fs-cmsfilter-field="sliding" class="fs-filter-embed w-embed">{{ item.data.f_offers-sliding-scale-pricing }}</div>
+                          <div fs-cmsfilter-field="insurance" class="fs-filter-embed w-embed">{{ item.data.f_accepts-insurance }}</div>
+                        </div>
+                      </div>
+                      <div class="supplier-data-wrapper">
+                        <div class="suppier-data-item">
+                          <div class="supplier-data-item-title">{{ texts.49cc129 }}</div>
+                          <div data-w-id="9dec8629-9f4d-851c-b414-2b8af6ce1c92" class="tooltip-trigger-wrapper">
+                            <div class="supplier-data-entry-wrapper">
+                              <div class="supplier-data-entry data-price">{{ item.data.f_cost }}</div><img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">
+                            </div>
+                            {%- if item.data.f_cost-details-2 -%}<div class="tooltip-wrapper-text">
+                              <div class="tooltip-rich-text w-richtext">{{ item.data.f_cost-details-2 | markdown }}</div>
+                            </div>{%- endif -%}
+                          </div>
+                        </div>
+                        <div class="suppier-data-item">
+                          <div class="supplier-data-item-title">{{ texts.34ef8014 }}</div>
+                          <div data-w-id="9dec8629-9f4d-851c-b414-2b8af6ce1c9b" class="tooltip-trigger-wrapper">
+                            <div class="supplier-data-entry-wrapper">
+                              <div class="supplier-data-entry">{{ item.data.f_ship-time }}</div>{%- if item.data.f_ship-time-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
+                            </div>
+                            {%- if item.data.f_ship-time-details -%}<div class="tooltip-wrapper-text">
+                              <div class="tooltip-rich-text w-richtext">{{ item.data.f_ship-time-details | markdown }}</div>
+                            </div>{%- endif -%}
+                          </div>
+                        </div>
+                        <div class="suppier-data-item ages">
+                          <div class="supplier-data-item-title">{{ texts.1f1b74 }}</div>
+                          <div data-w-id="9dec8629-9f4d-851c-b414-2b8af6ce1ca4" class="tooltip-trigger-wrapper">
+                            <div class="supplier-data-entry-wrapper">
+                              <div class="supplier-data-entry data-ages">{{ item.data.f_ages-served }}</div>{%- if item.data.f_ages-served-details -%}<img alt="{{ images.6779173e.alt | trim | escape }}" src="{{ images.6779173e.url }}" loading="lazy" class="supplier-icon-info">{%- endif -%}
+                            </div>
+                            {%- if item.data.f_ages-served-details -%}<div class="tooltip-wrapper-text">
+                              <div class="tooltip-rich-text w-richtext">{{ item.data.f_ages-served-details | markdown }}</div>
+                            </div>{%- endif -%}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div id="w-node-_9dec8629-9f4d-851c-b414-2b8af6ce1caa-ed544b4f" class="supplier-card-includes">
+                      <div class="supplier-details-header-wrapper">
+                        <div class="supplier-details-header">{{ texts.93ba4eb }}</div>
+                        <div class="supplier-details-header-line"></div>
+                      </div>
+                      <div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img src="{{ images.-1c492156.url }}" loading="lazy" width="20" alt="{{ images.-1c492156.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.-18001248 }}</div>
+                      </div>
+                      <div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img src="{{ images.1466d13d.url }}" loading="lazy" alt="{{ images.1466d13d.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.-51495249 }}</div>
+                      </div>
+                      <div class="text-of-categories-list">{{ item.data.f_includes-required-for-this-to-work }}</div>
+                      <div class="supplier-details-header-wrapper">
+                        <div class="supplier-details-header">{{ texts.59e836f8 }}</div>
+                        <div class="supplier-details-header-line"></div>
+                      </div>
+                      {%- if item.data.f_financial-assistance -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon">{%- unless item.data.f_financial-assistance == "No financial assistance available" -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.1a59af15.url }}" loading="lazy" width="24" alt="{{ images.1a59af15.alt | trim | escape }}">{%- endunless -%}{%- if item.data.f_financial-assistance == "No financial assistance available" -%}<img data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.-3d40ad2f.url }}" loading="lazy" width="24" alt="{{ images.-3d40ad2f.alt | trim | escape }}">{%- endif -%}</div>
+                        <div class="key-terms-description">{{ item.data.f_financial-assistance }}</div>
+                      </div>{%- endif -%}
+                      {%- if item.data.f_accepts-insurance == true -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.1a59af15.url }}" loading="lazy" alt="{{ images.1a59af15.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.6c1d2b2d }}</div>
+                      </div>{%- endif -%}
+                      {%- if item.data.f_accepts-medicaid == true -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.1a59af15.url }}" loading="lazy" alt="{{ images.1a59af15.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.61699beb }}</div>
+                      </div>{%- endif -%}
+                      {%- if item.data.f_offers-sliding-scale-pricing == true -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.1a59af15.url }}" loading="lazy" alt="{{ images.1a59af15.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.52ea16d5 }}</div>
+                      </div>{%- endif -%}
+                      {%- if item.data.f_can-help-you-connect-with-abortion-funds == true -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ images.1a59af15.url }}" loading="lazy" alt="{{ images.1a59af15.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ texts.1e957b7b }}</div>
+                      </div>{%- endif -%}
+                      <div class="supplier-details-header-wrapper">
+                        <div class="supplier-details-header">{{ texts.-3fee75de }}</div>
+                        <div class="supplier-details-header-line"></div>
+                      </div>
+                      {%- if item.data.f_gestational-age-dropdown -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" src="{{ images.2e2fa680.url }}" loading="lazy" alt="{{ images.2e2fa680.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">{{ item.data.f_gestational-age-dropdown }}</div>
+                      </div>{%- endif -%}
+                      {%- if item.data.f_additional-bullet-point-information -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-description-bullets w-richtext">{{ item.data.f_additional-bullet-point-information | markdown }}</div>
+                      </div>{%- endif -%}
+                      {%- if item.data.f_legal-level-text == "Yes" -%}<div class="key-terms-item-wrapper">
+                        <div class="key-terms-icon"><img width="24" src="{{ images.-54d2bbe2.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;20px&quot;}]" alt="{{ images.-54d2bbe2.alt | trim | escape }}"></div>
+                        <div class="key-terms-description">
+                          <a href="{{ links.23 }}" data-w-id="9dec8629-9f4d-851c-b414-2b8af6ce1ce1" class="popup-link">{{ texts.7c499816 }}</a>{{ texts.-26f7890e }}</div>
+                      </div>{%- endif -%}
+                    </div>
+                    <div class="supplier-cta-block">
+                      <div class="supplier-cta-wrapper">
+                        <a id="w-node-_9dec8629-9f4d-851c-b414-2b8af6ce1ce6-ed544b4f" data-w-id="9dec8629-9f4d-851c-b414-2b8af6ce1ce6" href="{{ links.23 }}" target="_blank" class="supplier-about-link w-inline-block">
+                          <div class="link-block-text">{{ texts.-33667240 }}</div><img width="12" height="14" src="{{ images.-685ab6ab.url }}" loading="lazy" alt="{{ images.-685ab6ab.alt | trim | escape }}" class="link-block-icon">
+                        </a>
+                        <a id="w-node-_9dec8629-9f4d-851c-b414-2b8af6ce1cea-ed544b4f" href="{{ item.data.f_url }}" class="supplier-link w-inline-block">
+                          <div class="link-block-text">{{ texts.34171686 }}</div><img loading="lazy" src="{{ images.-5a80560c.url }}" alt="{{ images.-5a80560c.alt | trim | escape }}" class="link-block-icon">
+                        </a>
+                        <div id="w-node-_9dec8629-9f4d-851c-b414-2b8af6ce1cee-ed544b4f" class="supplier-about-wrapper">
+                          <div class="w-richtext">{{ item.templateContent | markdown | markdown }}</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
+            {%- if pagination.length == 0 -%}<div class="empty-state w-dyn-empty"></div>{%- endif -%}
+            <div role="navigation" aria-label="List" class="w-pagination-wrapper pagination">
+              <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous previous" style="display: none;"><svg class="w-pagination-previous-icon pagination-arrow" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                  <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
+                </svg></a>
+              <div class="pagination-wrapper">
+                <a fs-cmsload-element="page-button" href="{{ links.23 }}" class="pagination-number w-inline-block">
+                  <div>{{ texts.31 }}</div>
+                </a>
+              </div>
+              {%- if pagination[1] -%}<a href="{{ links.23 }}" aria-label="Next Page" class="w-pagination-next next"><svg class="w-pagination-next-icon pagination-arrow" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                  <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
+                </svg></a>{%- endif -%}
+              <div aria-label="Page 1 of 1" role="heading" class="w-page-count page-count-2"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -908,7 +1061,7 @@
               <a href="{{ links.-623eedf }}" target="_blank">{{ texts.311a14c8 }}</a>
             </h3>
           </div>
-          {%- if f_sma-is-restricted-in-this-state == true -%}<div class="w-embed"><p><br><strong>Or this guide: <a href="https://abortion-clinic.plancpills.org/abortions-near-me/how-to-get-an-abortion-{{ slug }}" target="_blank">{{ title }}: How to Get an Abortion</a></strong></p></div>{%- endif -%}
+          {%- if f_sma-is-restricted-in-this-state == true -%}<div class="w-embed"><p><br><strong>Or this guide: <a href="https://abortion-clinic.plancpills.org/{{ slug }}" target="_blank">{{ title }}: How to Get an Abortion</a></strong></p></div>{%- endif -%}
         </div>
       </div>
     </div>
@@ -1199,8 +1352,11 @@ function reNumber() {
   $('.supplier-sort-number.with').html(function(i) {
   	return 1 + i + '.';
 	});
+// number the results (need to run this again after sort)
+	const lowString = $('[fs-cmsload-element="visible-count-from"]').html();
+  const low = parseInt(lowString);
   $('.supplier-sort-number.without').html(function(i) {
-  	return 1 + i + '.';
+  	return low + i + '.';
 	});
   $('.supplier-sort-number.community').html(function(i) {
   	return 1 + i + '.';
@@ -1227,7 +1383,7 @@ $(document).ready(function() {
   $('#counter2').text(counter2pl); 
   $('#counter3').text(counter3pl); 
   if (counter3 == 0) {
-  	$('[data-community]').remove();
+  	$('[data-community]').hide();
   };
   reNumber();
 });

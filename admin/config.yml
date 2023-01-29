@@ -334,6 +334,13 @@ collections:
             value: 'No'
           - label: 'Yes'
             value: 'Yes'
+      - hint: >-
+          For anything other than "Visit Website" (only for use in Community
+          Networks for now)
+        name: f_custom-button-text
+        label: Custom button text (optional)
+        widget: string
+        required: false
       - hint: ''
         name: f_sliding-scale-available
         label: Display financial support/insurance information? (NO LONGER USED)
@@ -2673,9 +2680,9 @@ collections:
             label: Text
             name: 78efb22c
             widget: string
-          - hint: 'Original text: © 2021 , key: 256f5c8c'
+          - hint: 'Original text: © 2023 , key: 256f5cca'
             label: Text
-            name: 256f5c8c
+            name: 256f5cca
             widget: string
           - hint: 'Original text: National Women’s Health Network, key: -64f4ec40'
             label: Text
@@ -2857,6 +2864,10 @@ collections:
             label: Text
             name: '-4efc42a6'
             widget: text
+          - hint: 'Original text: © 2021 , key: 256f5c8c'
+            label: Text
+            name: 256f5c8c
+            widget: string
           - hint: 'Original text: ← Search again, key: 2cfedb98'
             label: Text
             name: 2cfedb98
@@ -3108,10 +3119,6 @@ collections:
             label: Text
             name: '-5895708f'
             widget: string
-          - hint: 'Original text: Request Pills, key: 2a3f8549'
-            label: Text
-            name: 2a3f8549
-            widget: string
           - hint: 'Original text: Online Pharmacies, key: -4346af82'
             label: Text
             name: '-4346af82'
@@ -3153,40 +3160,85 @@ collections:
             label: Text
             name: 6cd8d978
             widget: text
-          - hint: 'Original text: IMPORTANT, key: -6655c7fe'
+          - hint: 'Original text: IMPORTANT:, key: -64633788'
             label: Text
-            name: '-6655c7fe'
+            name: '-64633788'
             widget: string
-          - hint: "Original text: :\_Online pharmacies only supply one mifepristone pill plus one dose of misoprostol pills (4 pills). , key: 70b9a5db"
+          - hint: >-
+              Original text: Online pharmacies only supply one mifepristone pill
+              plus one dose of misoprostol pills (4 pills). , key: 6c7337b5
             label: Text
-            name: 70b9a5db
+            name: 6c7337b5
             widget: text
           - hint: >-
               Original text: People who are more than 9 weeks pregnant may need
-              additional misoprostol pills (4 or 8 pills) to complete the
-              abortion, key: -5c5e6ddc
+              additional misoprostol pills, key: 1cc3be5b
             label: Text
-            name: '-5c5e6ddc'
+            name: 1cc3be5b
+            widget: string
+          - hint: >-
+              Original text:  (4 or 8 pills) to complete the abortion. Many
+              online pharmacies also sell misoprostol pills (sometimes called
+              Cytotec), which can be added to an order. , key: -d20debf
+            label: Text
+            name: '-d20debf'
             widget: text
           - hint: >-
-              Original text: . Many online pharmacies also sell misoprostol
-              pills (sometimes called Cytotec), which can be added to an order.
-              , key: 78b134ea
+              Original text: These pharmacies may not follow strict digital
+              security protocols. , key: -b584c89
             label: Text
-            name: 78b134ea
+            name: '-b584c89'
+            widget: string
+          - hint: >-
+              Original text: Many people use a VPN (Virtual Private Network)
+              before visiting or ordering from online pharmacies, key: 5b99b0fe
+            label: Text
+            name: 5b99b0fe
             widget: text
+          - hint: >-
+              Original text:  to protect their private information., key:
+              16b16a9b
+            label: Text
+            name: 16b16a9b
+            widget: string
           - hint: >-
               Original text: Remember, another option is Aid Access, a
-              doctor-supported service that mails pills to all states and
-              automatically includes extra misoprostol for people who are more
-              than 9 weeks. They provide medical support and also offer
-              discounts. For more information, see the , key: -3afa30d5
+              digitally-secure, doctor-supported service that mails pills to all
+              states and automatically includes extra misoprostol for people who
+              are more than 9 weeks. They provide medical support and also offer
+              discounts. For more information, see the , key: -50c34782
             label: Text
-            name: '-3afa30d5'
+            name: '-50c34782'
             widget: text
           - hint: 'Original text:  section above., key: -5c781a14'
             label: Text
             name: '-5c781a14'
+            widget: string
+          - hint: 'Original text: Showing , key: -104e22e5'
+            label: Text
+            name: '-104e22e5'
+            widget: string
+          - hint: 'Original text: 1, key: 31'
+            label: Text
+            name: '31'
+            widget: string
+          - hint: 'Original text: -, key: 2d'
+            label: Text
+            name: 2d
+            widget: string
+          - hint: 'Original text:  of, key: 85f7'
+            label: Text
+            name: 85f7
+            widget: string
+          - hint: >-
+              Original text: Abortion pills (mifepristone + misoprostol), key:
+              -18001248
+            label: Text
+            name: '-18001248'
+            widget: string
+          - hint: 'Original text: Get pills in advance, key: -51495249'
+            label: Text
+            name: '-51495249'
             widget: string
           - hint: 'Original text: Mail Forwarding, key: -19a9aefa'
             label: Text
@@ -4477,10 +4529,6 @@ collections:
               237c5875
             label: Text
             name: 237c5875
-            widget: string
-          - hint: 'Original text: -, key: 2d'
-            label: Text
-            name: 2d
             widget: string
           - hint: 'Original text: Register, key: -25496d3d'
             label: Text
@@ -7454,9 +7502,17 @@ collections:
             label: Text
             name: '-2eb1a998'
             widget: string
-          - hint: 'Original text: Showing 10 of , key: 52b27483'
+          - hint: 'Original text: x, key: 78'
             label: Text
-            name: 52b27483
+            name: '78'
+            widget: string
+          - hint: 'Original text: y, key: 79'
+            label: Text
+            name: '79'
+            widget: string
+          - hint: 'Original text:  of , key: 103909'
+            label: Text
+            name: '103909'
             widget: string
           - hint: 'Original text: Sort, key: 2769be'
             label: Text
@@ -7493,14 +7549,6 @@ collections:
           - hint: 'Original text: Text-based consult available, key: 2e5a63e8'
             label: Text
             name: 2e5a63e8
-            widget: string
-          - hint: 'Original text: Previous, key: -4811e0e9'
-            label: Text
-            name: '-4811e0e9'
-            widget: string
-          - hint: 'Original text: Next, key: 24ff13'
-            label: Text
-            name: 24ff13
             widget: string
           - hint: 'Original text: #PLAN, key: 212b9cc'
             label: Text
@@ -8471,6 +8519,17 @@ collections:
             label: Text
             name: '-144c8531'
             widget: text
+          - hint: >-
+              Original text: "In the tough sociopolitical climate we are
+              currently experiencing, this film comes in as a sign of hope.”,
+              key: -f233fd
+            label: Text
+            name: '-f233fd'
+            widget: text
+          - hint: 'Original text: -Rosa Parra, reviewer, key: -2cf19f1f'
+            label: Text
+            name: '-2cf19f1f'
+            widget: string
           - hint: 'Original text: Attend a Screening, key: -3ee6c18f'
             label: Text
             name: '-3ee6c18f'
@@ -8974,12 +9033,6 @@ collections:
           - hint: 'Original link: https://abortionhotline.org/, key: -6a526e01'
             label: Link
             name: '-6a526e01'
-            widget: string
-          - hint: >-
-              Original link: /guide-how-to-get-abortion-pills#faq-finding, key:
-              -54f93600
-            label: Link
-            name: '-54f93600'
             widget: string
           - hint: >-
               Original link: /guide-how-to-get-abortion-pills#laq-safety, key:
@@ -10426,6 +10479,32 @@ collections:
                 required: false
           - label: Image
             name: 455f66e8
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1c492156'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1466d13d
             widget: object
             fields:
               - name: url
