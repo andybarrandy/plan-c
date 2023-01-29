@@ -47,8 +47,13 @@
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script src="https://unpkg.com/netlify-cms@^2.10.79/dist/netlify-cms.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/immutable@4.0.0-rc.12/dist/immutable.min.js"></script>
+
+<script src="/admin/templates/SuppliersPreview.js" type="application/javascript"></script>
+
 <script>
-    CMS.registerPreviewStyle("preview.css");
+  CMS.registerPreviewStyle("preview.css");
+  // here go all the custom widgets
+  CMS.registerPreviewTemplate("suppliers", SuppliersPreview);
 </script>
 <script src="widgets/price.js"></script>
 <script src="widgets/prop-table.js"></script>
