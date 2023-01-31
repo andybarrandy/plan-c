@@ -5,6 +5,7 @@ var SuppliersPreview = createClass({
     var entry = this.props.entry;
     var item = entry.get('data');
     console.log(" item.get(\"f_includes\") ", item.get("f_includes").toJS());
+    console.log(" item.get(\"body\")", item.get("body"));
     return /*#__PURE__*/h("div", null, /*#__PURE__*/h("h3", null, "Contact Details:"), "Name: ", item.get("f_contact-name"), /*#__PURE__*/h("br", null), "Email: ", item.get("f_contact-email"), /*#__PURE__*/h("br", null), "Phone: ", item.get("f_contact-phone"), /*#__PURE__*/h("div", {
       className: "supplier-card"
     }, "item.get", /*#__PURE__*/h("a", {
@@ -53,9 +54,7 @@ var SuppliersPreview = createClass({
         className: "key-terms-item-wrapper"
       }, /*#__PURE__*/h("div", {
         className: "key-terms-icon"
-      }, "f_icon"), /*#__PURE__*/h("div", {
-        className: "key-terms-description"
-      }, "f_display-name"));
+      }, i));
     }), /*#__PURE__*/h("div", {
       className: "supplier-details-header"
     }, "Financial Support"), /*#__PURE__*/h("div", {
@@ -128,7 +127,7 @@ var SuppliersPreview = createClass({
       className: "supplier-about-wrapper"
     }, /*#__PURE__*/h("div", {
       className: "supplier-details-header"
-    }, "About this provider"), item.get("body"))));
+    }, "About this provider"), /*#__PURE__*/h(window.ReactMarkdown, null, item.get("body")))));
   }
 }
 )

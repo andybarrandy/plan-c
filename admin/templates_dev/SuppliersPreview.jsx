@@ -9,6 +9,7 @@ class SuppliersPreview extends React.Component {
     var item = entry.get('data');
 
     console.log(" item.get(\"f_includes\") ", item.get("f_includes").toJS())
+    console.log(" item.get(\"body\")", item.get("body"))
 
     return (<div>
       <h3>Contact Details:</h3>
@@ -59,8 +60,7 @@ class SuppliersPreview extends React.Component {
 
           {item.get("f_includes").map(function (i, index) {
             return <div className="key-terms-item-wrapper">
-              <div className="key-terms-icon">f_icon</div>
-              <div className="key-terms-description">f_display-name</div>
+              <div className="key-terms-icon">{i}</div>
             </div>;
           })}
 
@@ -143,7 +143,8 @@ class SuppliersPreview extends React.Component {
 
         <div className="supplier-about-wrapper">
           <div className="supplier-details-header">About this provider</div>
-          {item.get("body")}</div>
+          <window.ReactMarkdown>{item.get("body")}</window.ReactMarkdown>
+        </div>
 
       </div>
     </div>)
