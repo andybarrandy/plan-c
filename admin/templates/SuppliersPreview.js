@@ -5,7 +5,8 @@ var SuppliersPreview = createClass({
     var entry = this.props.entry;
     var item = entry.get('data');
     console.log(" item.get(\"f_includes\") ", item.get("f_includes").toJS());
-    console.log(" item.get(\"body\")", item.get("body"));
+    console.log(" this.fieldsMetaData ", this.props.fieldsMetaData.toJS());
+    const fieldsMetaData = this.props.fieldsMetaData.toJS();
     return /*#__PURE__*/h("div", null, /*#__PURE__*/h("h3", null, "Contact Details:"), "Name: ", item.get("f_contact-name"), /*#__PURE__*/h("br", null), "Email: ", item.get("f_contact-email"), /*#__PURE__*/h("br", null), "Phone: ", item.get("f_contact-phone"), /*#__PURE__*/h("div", {
       className: "supplier-card"
     }, "item.get", /*#__PURE__*/h("a", {
@@ -50,11 +51,14 @@ var SuppliersPreview = createClass({
     }, item.get("f_gestational-age-dropdown")))), /*#__PURE__*/h("div", null, /*#__PURE__*/h("div", {
       className: "supplier-details-header"
     }, "Includes"), item.get("f_includes").map(function (i, index) {
-      return /*#__PURE__*/h("div", {
-        className: "key-terms-item-wrapper"
-      }, /*#__PURE__*/h("div", {
-        className: "key-terms-icon"
-      }, i));
+      if (fieldsMetaData?.['f_includes'] && fieldsMetaData?.['f_includes']['supplier_options']?.[i]?.title) {
+        return /*#__PURE__*/h("div", {
+          className: "key-terms-item-wrapper",
+          key: `awdawd${index}`
+        }, /*#__PURE__*/h("div", {
+          className: "key-terms-icon"
+        }, fieldsMetaData['f_includes']['supplier_options'][i]['title'], " - ", fieldsMetaData['f_includes']['supplier_options'][i]['f_display-name']));
+      }
     }), /*#__PURE__*/h("div", {
       className: "supplier-details-header"
     }, "Financial Support"), /*#__PURE__*/h("div", {

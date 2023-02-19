@@ -9,7 +9,10 @@ class SuppliersPreview extends React.Component {
     var item = entry.get('data');
 
     console.log(" item.get(\"f_includes\") ", item.get("f_includes").toJS())
-    console.log(" item.get(\"body\")", item.get("body"))
+
+    console.log(" this.fieldsMetaData ", this.props.fieldsMetaData.toJS())
+
+    const fieldsMetaData = this.props.fieldsMetaData.toJS();
 
     return (<div>
       <h3>Contact Details:</h3>
@@ -59,9 +62,12 @@ class SuppliersPreview extends React.Component {
           <div className="supplier-details-header">Includes</div>
 
           {item.get("f_includes").map(function (i, index) {
-            return <div className="key-terms-item-wrapper">
-              <div className="key-terms-icon">{i}</div>
-            </div>;
+            if (fieldsMetaData?.['f_includes'] && fieldsMetaData?.['f_includes']['supplier_options']?.[i]?.title) {
+              return <div className="key-terms-item-wrapper" key={`awdawd${index}`}>
+                <div
+                  className="key-terms-icon">{fieldsMetaData['f_includes']['supplier_options'][i]['title']} - {fieldsMetaData['f_includes']['supplier_options'][i]['f_display-name']}</div>
+              </div>;
+            }
           })}
 
           <div className="supplier-details-header">Financial Support</div>
