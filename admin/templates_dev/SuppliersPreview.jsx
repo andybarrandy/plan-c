@@ -64,8 +64,10 @@ class SuppliersPreview extends React.Component {
           {item.get("f_includes").map(function (i, index) {
             if (fieldsMetaData?.['f_includes'] && fieldsMetaData?.['f_includes']['supplier_options']?.[i]?.title) {
               return <div className="key-terms-item-wrapper" key={`awdawd${index}`}>
-                <div
-                  className="key-terms-icon">{fieldsMetaData['f_includes']['supplier_options'][i]['title']} - {fieldsMetaData['f_includes']['supplier_options'][i]['f_display-name']}</div>
+                <div className="key-terms-icon">
+                  <img src={fieldsMetaData['f_includes']['supplier_options'][i]['f_icon']['url']} />
+                </div>
+                {fieldsMetaData['f_includes']['supplier_options'][i]['title']} - {fieldsMetaData['f_includes']['supplier_options'][i]['f_display-name']}
               </div>;
             }
           })}

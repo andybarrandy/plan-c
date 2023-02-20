@@ -57,7 +57,9 @@ var SuppliersPreview = createClass({
           key: `awdawd${index}`
         }, /*#__PURE__*/h("div", {
           className: "key-terms-icon"
-        }, fieldsMetaData['f_includes']['supplier_options'][i]['title'], " - ", fieldsMetaData['f_includes']['supplier_options'][i]['f_display-name']));
+        }, /*#__PURE__*/h("img", {
+          src: fieldsMetaData['f_includes']['supplier_options'][i]['f_icon']['url']
+        })), fieldsMetaData['f_includes']['supplier_options'][i]['title'], " - ", fieldsMetaData['f_includes']['supplier_options'][i]['f_display-name']);
       }
     }), /*#__PURE__*/h("div", {
       className: "supplier-details-header"
